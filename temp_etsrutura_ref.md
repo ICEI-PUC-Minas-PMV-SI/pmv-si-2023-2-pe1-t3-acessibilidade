@@ -29,5 +29,5 @@
 2. Quando descrever as hitórias de usuario -> requisitos funcionais (listar os etabelecimentos) e requisito não funionais (funcionar bem com leitores de tela) -> É isso mesmo?
 3. utilizar a metodologia ágil no desenvolvimento colaborativo de um sistema web -> Kanban? Todo / Doing / Done
 
-# TODO: Escolher nome (na sexta dia 10, reunião 15h)
-# TODO: Finalizar problema e introdução (até sexta dia 10, reunião 15h)
+# TODO: Escolher nome (no domingo dia 10, reunião 15h)
+# TODO: Finalizar problema e introdução (até domingo dia 10, reunião 15h)
