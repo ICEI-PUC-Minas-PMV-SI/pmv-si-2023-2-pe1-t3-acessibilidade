@@ -1,16 +1,16 @@
-## Introdução
+## Introdução 
 
-### 1. Números brasileiros de problemas de acessibilidade (estatísticas) (estado da arte)
-### 2. O que é acessibilidade (físico, problemas digitais, conexão de pessoas) (estado da arte)
-### 3. Relatos e detalhes sobre problemais reais (indetificar perfil usuário)
+### 1. Números brasileiros de problemas de acessibilidade (estatísticas) (estado da arte) -> Gabi de Oliveira
+### 2. O que é acessibilidade (físico, problemas digitais, conexão de pessoas) (estado da arte) -> Ana Cecilia
+### 3. Relatos e detalhes sobre problemais reais (indetificar perfil usuário) -> Mari
 
 =================================================
 
 ## Problema
 
-### 1. Importancia de conectar pessoas com problemas parecidos
-### 2. Improtancia de dar acesso a ambientes acessíveis (ou seja de planejamento cultural, escola, esporte, restaurante)
-### 3. Outros produtos que já fazem (estado da arte)
+### 1. Importancia de conectar pessoas com problemas parecidos -> Gabi de Oliveira
+### 2. Improtancia de dar acesso a ambientes acessíveis (ou seja de planejamento cultural, escola, esporte, restaurante) -> Ana Cecilia
+### 3. Outros produtos que já fazem (estado da arte) -> Mari
 
 ==================================================
 
