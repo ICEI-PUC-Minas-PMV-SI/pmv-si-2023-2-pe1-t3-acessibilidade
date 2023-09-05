@@ -8,6 +8,8 @@
 
  
  É fato notório que o Brasil, apesar de possuir políticas de inclusão social, está atrasado quanto à acessiblidade de pessoas com deficiência (PcDs). Elevadores com problemas, rampas em mau estado, [...] -> **Mari**
+
+
 **+ objetivo**
 
 
