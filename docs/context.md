@@ -1,7 +1,12 @@
 # Introdução
 
  Segundo o IBGE (2022), atualmente, 8,9% da população brasileira a partir de 2 anos possui algum tipo de deficiência. Esse número traduz cerca de 18,6 milhões pessoas. Incluir esses indivíduos na sociedade é, além de um ato obrigatório conforme a Constituição de 1988, um ato de cidadania e uma forma de garantir e resguardar os direitos dessas pessoas, ampliando a participação popoular em todas as áreas de uma comunidade. Ou seja, promover a inclusão social implica diretamente em uma maior circulação de pessoas em espaços públicos e privados.
+
+
  Definição de acessibilidade -> **Cecilia** 
+
+
+ 
  É fato notório que o Brasil, apesar de possuir políticas de inclusão social, está atrasado quanto à acessiblidade de pessoas com deficiência (PcDs). Elevadores com problemas, rampas em mau estado, [...] -> **Mari**
 **+ objetivo**
 
