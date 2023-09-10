@@ -3,8 +3,7 @@
  Segundo o IBGE (2022), atualmente, 8,9% da população brasileira a partir de 2 anos possui algum tipo de deficiência. Esse número traduz cerca de 18,6 milhões pessoas. Incluir esses indivíduos na sociedade é, além de um ato obrigatório conforme a Constituição de 1988, um ato de cidadania e uma forma de garantir e resguardar os direitos dessas pessoas, ampliando a participação popoular em todas as áreas da comunidade. Ou seja, dar acessibilidade implica diretamente em uma maior circulação de pessoas em espaços públicos e privados.
 
 
- Definição de acessibilidade -> **Cecilia** 
-
+Conforme o Dicionário Oxford, a acessibilidade é definida como a qualidade ou caráter do que é acessível, ou seja, a capacidade de tornar algo disponível e utilizável para todas as pessoas. Já a acessibilidade física refere-se à adaptação de ambientes, edifícios, transportes e infraestrutura para garantir que todas as pessoas, incluindo aquelas com deficiências físicas, tenham a capacidade de circular e utilizar esses espaços com segurança. No entanto, nos tempos modernos, a acessibilidade vai além do espaço físico. Com a crescente digitalização da sociedade, a acessibilidade digital tornou-se igualmente crucial. Isso envolve garantir que sites, aplicativos e conteúdos online sejam acessíveis a todas as pessoas, incluindo aquelas com deficiências visuais, auditivas, cognitivas ou motoras. Além disso, a acessibilidade também se relaciona com a conexão entre as pessoas. Isso significa promover uma sociedade onde todos são valorizados.
 
  
  É fato notório que o Brasil, apesar de possuir políticas de inclusão social, está atrasado quanto à acessiblidade de pessoas com deficiência (PcDs). Elevadores com problemas, rampas em mau estado, [...] -> **Mari**
