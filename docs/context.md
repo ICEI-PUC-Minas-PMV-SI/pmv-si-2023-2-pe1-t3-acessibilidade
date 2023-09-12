@@ -45,7 +45,7 @@ Diante da problemática, a melhoria da inclusão social das pessoas com deficiê
 
 
 
-| Oportunidades (+)  | Ameaças (-) |
+| Oportunidades (+)| Ameaças (-) |
 |--|--|
 |**Mercado de trabalho:** Aumentar a acessibilidade pode criar oportunidades de emprego para pessoas com deficiência, aumentando a diversidade no mercado de trabalho.  |**Falta de recurso financeiro**: Para algumas organizações, o custo de tornar-se um ambiente acessível pode ser uma ameaça financeira.  |
 | **Mercado consumidor**: Tornar produtos e serviços acessíveis pode ampliar a base de clientes, já que pessoas com deficiência e suas redes podem representar um grande mercado consumidor. |**Concorrência**: A concorrência pode não estar adotando medidas de acessibilidade, o que pode prejudicar empresas que investem nessa área.  |
