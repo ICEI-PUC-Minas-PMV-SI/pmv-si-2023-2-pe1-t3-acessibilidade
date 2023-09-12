@@ -33,6 +33,25 @@ Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
 
 ## Problema
 
+Diante da problemática, a melhoria da inclusão social das pessoas com deficiência física se tornou uma prioridade fundamental na construção de uma sociedade mais igualitária e justa. Apesar dos avanços nas políticas de acessibilidade e da crescente conscientização sobre a necessidade de inclusão, persistem obstáculos significativos em suas vidas cotidianas. Esses desafios vão desde a dificuldade de acessar locais públicos até a participação em atividades de lazer ou mesmo tarefas diárias, tudo isso frequentemente dificultado pela ausência de uma infraestrutura adequada e pela falta de adaptação de ambientes, edifícios e sistemas de transporte. Para uma melhor compreensão dessa questão, foi feita a seguinte análise:
+
+
+| Pontos fortes (+)| Fraquezas (-) |
+|--|--|
+|**Consciência da importancia:** Há uma crescente conscientização sobre a importância da acessiblidade e inclusão na sociedade.  |**Falta de implementação efetiva:** Embora existam leis e regulamentos, a implementação e fiscalização da acessibilidade nem sempre é eficaz. |
+|**Legislação:** Existem leis e regulamentos que exigem a acessiblidade em muitos países, o que impulsiona a ação. |**Custos iniciais:** A adaptação de espaços físicos e digitais para acessibilidade pode ser cara |
+|**Inovação tecnológica:** Avanços tecnológicos estão tornando mais fácil e econômico implementar soluções de acessibilidade, tanto no ambiente físico, quanto no digital. |**Falta de conhecimento:** Algumas pessoas e organizações ainda podem não estar plenamente conscientes das necessidades de acessibilidade e como atendê-las. |
+|**Iniciativas de sensibilização:** Existem organizações e iniciativas dedicadas a sensibilizar a sociedade sobre a inclusão e a acessibilidade.  |**Resistência à mudança:** Algumas empresas ou instituições podem resistir à mudança e à adaptação devido a preocupações com o custo ou a falta de compreensão. |
+
+
+
+| Oportunidades (+)  | Ameaças (-) |
+|--|--|
+|**Mercado de trabalho:** Aumentar a acessibilidade pode criar oportunidades de emprego para pessoas com deficiência, aumentando a diversidade no mercado de trabalho.  |**Falta de recurso financeiro**: Para algumas organizações, o custo de tornar-se um ambiente acessível pode ser uma ameaça financeira.  |
+| **Mercado consumidor**: Tornar produtos e serviços acessíveis pode ampliar a base de clientes, já que pessoas com deficiência e suas redes podem representar um grande mercado consumidor. |**Concorrência**: A concorrência pode não estar adotando medidas de acessibilidade, o que pode prejudicar empresas que investem nessa área.  |
+|**Inovação e tecnologia**: O desenvolvimento de tecnologias acessíveis pode abrir novos mercados e oportunidades de negócio.  | **Mudanças na legislação:** Mudanças na legislação podem aumentar as exigências de acessibilidade, o que pode ser desafiaor para algumas organizações. |
+|**Responsabilidade social:** Empresas que promovem a acessibilidade podem melhorar sua imagem e reputação, o que pode atrair clientes e investidores.  |**Falta de consciência**: A falta de conscientização contínua sobre a acessibilidade pode perpetuar a exclusão e a discriminação.  |
+
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
 Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
