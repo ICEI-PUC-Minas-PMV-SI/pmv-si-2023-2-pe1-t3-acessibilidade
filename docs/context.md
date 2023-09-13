@@ -73,8 +73,11 @@ O software a ser desenvolvido possui como objetivo geral garantir que pessoas de
 
 Objetivos específicos a serem pontuados:
 *Analisar a concentração da porcentagem de erros estruturais
+
 *Verificar as maiores incidências de falhas físicas para com os deficientes
+
 *Comparar os requisitos do consumo on-line ao presencial
+
 *Compreender o motivo da desinformação da sociedade
 
 *Analisar a concentração da porcentagem de erros estruturais:
