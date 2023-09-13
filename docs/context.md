@@ -72,6 +72,7 @@ Conforme o Dicionário Oxford, a acessibilidade é definida como a qualidade ou 
 O software a ser desenvolvido possui como objetivo geral garantir que pessoas deficientes tenham um acesso eficaz e compreensível aos recursos que a sociedade onde se encontram inseridas fornece. A interação cliente-servidor, ou seja, usuário-software será mediada por buscas relacionadas aos diversos setores existentes, de tal forma que as empresas poderão registrar seus estabelecimentos nos dados do site e o público-alvo terá acesso à visualização das informações. Será possível também avaliar como o serviço é prestado pelo fornecedor, e com isso a confiabilidade será um ponto forte do sistema. Resumidamente falando, empresas poderão se qualificar para o programa com base nos suportes para deficientes, e com isso os deficientes poderão consumir os serviços e avaliar suas experiências.
 
 Objetivos específicos a serem pontuados:
+
 *Analisar a concentração da porcentagem de erros estruturais
 
 *Verificar as maiores incidências de falhas físicas para com os deficientes
