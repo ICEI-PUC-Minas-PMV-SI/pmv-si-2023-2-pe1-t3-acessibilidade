@@ -8,8 +8,6 @@
 
 Está sendo desenvolvida um projeto que ajudará pessoas com deficiência a encontrar locais acessíveis, como restaurantes, e permitirá que esses locais cadastrem informações sobre sua acessibilidade. Isso facilitará a vida das pessoas com deficiência e incentivará os estabelecimentos a se tornarem mais inclusivos.
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
-
 ## Integrantes
 
 * Ana Cecilia de Paula dos Santos Custodio
