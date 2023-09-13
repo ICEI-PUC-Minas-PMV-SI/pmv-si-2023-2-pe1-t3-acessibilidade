@@ -73,13 +73,13 @@ O software a ser desenvolvido possui como objetivo geral garantir que pessoas de
 
 Objetivos específicos a serem pontuados:
 
-*Analisar a concentração da porcentagem de erros estruturais
+-Analisar a concentração da porcentagem de erros estruturais
 
-*Verificar as maiores incidências de falhas físicas para com os deficientes
+-Verificar as maiores incidências de falhas físicas para com os deficientes
 
-*Comparar os requisitos do consumo on-line ao presencial
+-Comparar os requisitos do consumo on-line ao presencial
 
-*Compreender o motivo da desinformação da sociedade
+-Compreender o motivo da desinformação da sociedade
 
 *Analisar a concentração da porcentagem de erros estruturais:
 O enfoque na taxa de concentração dos problemas, e consequentemente a obtenção de dados das margens de erro de uma empresa, proporcionam a montagem de uma tabela sólida. Com isso, a priorização das possíveis resoluções ocorre de forma ordenada e congruente, e consequentemente a eficácia das medidas torna-se muito mais impactante e satisfatória.
