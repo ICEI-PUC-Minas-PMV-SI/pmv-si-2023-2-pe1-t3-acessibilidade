@@ -1,22 +1,8 @@
 # Introdução
 
- Segundo o IBGE (2022), atualmente, 8,9% da população brasileira a partir de 2 anos possui algum tipo de deficiência. Esse número traduz cerca de 18,6 milhões pessoas. Incluir esses indivíduos na sociedade é, além de um ato obrigatório conforme a Constituição de 1988, um ato de cidadania e uma forma de garantir e resguardar os direitos dessas pessoas, ampliando a participação popoular em todas as áreas da comunidade. Ou seja, dar acessibilidade implica diretamente em uma maior circulação de pessoas em espaços públicos e privados.
+A inclusão social é um dos pilares fundamentais de uma sociedade. Contudo, apesar dos progressos nas políticas de acessibilidade e da conscientização crescente sobre a necessidade de inclusão, as pessoas com deficiência ainda enfrentam grandes dificuldades no que diz respeito à interação com o ambiente e à acessibilidade a locais públicos. Essas dificuldades não apenas afetam a qualidade de vida desses indivíduos, mas também perpetuam a exclusão social.
 
-
-Conforme o Dicionário Oxford, a acessibilidade é definida como a qualidade ou caráter do que é acessível, ou seja, a capacidade de tornar algo disponível e utilizável para todas as pessoas. Já a acessibilidade física refere-se à adaptação de ambientes, edifícios, transportes e infraestrutura para garantir que todas as pessoas, incluindo aquelas com deficiências físicas, tenham a capacidade de circular e utilizar esses espaços com segurança. No entanto, nos tempos modernos, a acessibilidade vai além do espaço físico. Com a crescente digitalização da sociedade, a acessibilidade digital tornou-se igualmente crucial. Isso envolve garantir que sites, aplicativos e conteúdos online sejam acessíveis a todas as pessoas, incluindo aquelas com deficiências visuais, auditivas, cognitivas ou motoras. Além disso, a acessibilidade também se relaciona com a conexão entre as pessoas. Isso significa promover uma sociedade onde todos são valorizados.
-
- 
- É fato notório que o Brasil, apesar de possuir políticas de inclusão social, está atrasado quanto à acessiblidade de pessoas com deficiência (PcDs). Elevadores com problemas, rampas em mau estado. Apesar da acessibilidade dos ambientes físicos ser a mais notória, os índices do ambiente digital não se mostarm otimistas. Mesmo ao analisarmos somente plataformas governamentais, que normamente são portais de notícias e porta de ação para direitos básicos, somente 0,7%  das plataformas brasileiras do segmento (.gov.br) tem acessibilidade plena, segundo o levantamento da TIC Web Acessibilidade / Ceweb.br. Quando olhamos em larga escala, os dados persistem baixos. Somente 0,46% dos 21 milhões de websites do País estão livres de barreiras para pessoas com deficiência.
-
-Ao analisarmos relatos e dores de indivíduos PcD, o meio digital ganha relevância nos quesitos de acessibilidade. Brando Mota, morador de manaus de 27 anos, relata: “Sobre o comércio, eu priorizo lojas on-line, visto que, em muitos casos, acabo tendo que ser atendido na calçada, ou vou em shoppings que tendem a ter preços mais caros em relação a outros lugares”.
-
-Apesar da vantagem possível do meio digital, Giovanna Miranda Gomes, de 31 anos que possui paralisia cerebral, complementa sobre a negligência das plataformas digitais: “A minha maior dificuldade no meio online é lidar com muita informação de compra. Eu tenho que fazer vários processos e muito processo digitalmente me atrapalha, não sei se isso tem a ver com a minha deficiência, ou se tem a ver com o meu jeito de lidar com a informação”.
-
- Psicilla Printes, tradutora e intérprete de libras, dá voz a essas dores e comenta: “Um amigo surdo precisava fazer uns reparos no carro e não havia ninguém que pudesse atendê-lo e tirar suas dúvidas e solicitações. Ele precisou voltar até a escola e pedir que falássemos com os atendentes da concessionária. Meu amigo falava e eu traduzia para o atendente e também passava as informações necessárias”. No meio digital, possibilitar a conexão entre pessoas que se ajudem e diminuir a fricção entre a comunicação pode ajudar a melhorar a qualidade de vida dessa população tão neglicenciada atualmente.
-
-
-
-**+ objetivo**
+Nesse contexto, surge a necessidade de encontrar soluções que facilitem a interação e a acessibilidade para pessoas com deficiência. A ideia é criar um site para registrar e divulgar lugares comerciais e eventos com informações sobre acessibilidade. Este projeto visa abordar essa problemática, fornecendo uma ferramenta que promove uma sociedade mais inclusiva e igualitária.
 
 
 
@@ -65,6 +51,9 @@ Diante da problemática, a melhoria da inclusão social das pessoas com deficiê
 |**Inovação e tecnologia**: O desenvolvimento de tecnologias acessíveis pode abrir novos mercados e oportunidades de negócio.|**Mudanças na legislação:** Mudanças na legislação podem aumentar as exigências de acessibilidade, o que pode ser desafiaor para algumas organizações.|
 |**Responsabilidade social:** Empresas que promovem a acessibilidade podem melhorar sua imagem e reputação, o que pode atrair clientes e investidores.|**Falta de consciência**: A falta de conscientização contínua sobre a acessibilidade pode perpetuar a exclusão e a discriminação.|
 
+
+==================================================================================
+
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
 Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
@@ -78,6 +67,11 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
+Conforme o Dicionário Oxford, a acessibilidade é definida como a qualidade ou caráter do que é acessível, ou seja, a capacidade de tornar algo disponível e utilizável para todas as pessoas. Já a acessibilidade física refere-se à adaptação de ambientes, edifícios, transportes e infraestrutura para garantir que todas as pessoas, incluindo aquelas com deficiências físicas, tenham a capacidade de circular e utilizar esses espaços com segurança. No entanto, nos tempos modernos, a acessibilidade vai além do espaço físico. Com a crescente digitalização da sociedade, a acessibilidade digital tornou-se igualmente crucial. Isso envolve garantir que sites, aplicativos e conteúdos online sejam acessíveis a todas as pessoas, incluindo aquelas com deficiências visuais, auditivas, cognitivas ou motoras. Além disso, a acessibilidade também se relaciona com a conexão entre as pessoas. Isso significa promover uma sociedade onde todos são valorizados.
+
+
+=========================================================
+
 Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
 
 Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
@@ -87,6 +81,11 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
+Incluir esses indivíduos na sociedade é, além de um ato obrigatório conforme a Constituição de 1988, um ato de cidadania e uma forma de garantir e resguardar os direitos dessas pessoas, ampliando a participação popoular em todas as áreas da comunidade. Ou seja, dar acessibilidade implica diretamente em uma maior circulação de pessoas em espaços públicos e privados.
+
+
+=================================================
+
 Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
 
 O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
@@ -95,10 +94,13 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
-Segundo o IBGE (2022), atualmente, 8,9% da população brasileira a partir de 2 anos possui algum tipo de deficiência. Esse número traduz cerca de 18,6 milhões de brasileiros, dentre eles, 10,7 milhões são mulheres. Além disso, 10,3% desses brasileiros estão situados no Nordeste; 8,8% no Sul; 8,6% no Centro-Oeste; 8,4% no Norte; e 8,2% no Sudeste. No que se refere às pessoas de cor autodeclarada, 9,5% da população preta possui algum tipo de deficiência, a porcentagem para a população parda é de 8,9% e para brancos, 8,7%.
-
+Segundo o IBGE (2022), atualmente, 8,9% da população brasileira a partir de 2 anos possui algum tipo de deficiência. Esse número traduz cerca de 18,6 milhões de brasileiros, dentre eles, 10,7 milhões são mulheres. Além disso, 10,3% desses brasileiros estão situados no Nordeste; 8,8% no Sul; 8,6% no Centro-Oeste; 8,4% no Norte; e 8,2% no Sudeste. No que se refere às pessoas de cor autodeclarada, 9,5% da população preta possui algum tipo de deficiência, a porcentagem para a população parda é de 8,9% e para brancos, 8,7%. 
 
 É importante ter em mente que, devido à dificuldade de acesso ao mercado de trabalho (apenas 26,6% de PcDs estão inseridos e, dentre eles, 55% em situação de informalidade) e ao ensino (sendo 19,9% analfabetos), PcDs possuem um menor acesso à renda e uma maior taxa de analfabetismo quando comparados às pessoas sem deficiência. Sendo o rendimento médio salarial de R$1.860 para pessoas com deficiência e R$2,690 para pessoas sem deficiência.
+
+Dar acessibiliadea a PcDs implica diretamente num maior número de pessoas circulando em espaço público e privado. Ou seja, além de aumentar a inclusão social e a participação ativa dessas pessoas na sociedade, que é um direito fundamental que está previsto na Constituição de 1988 e deve ser resguardado pelo Estado, as empresas também se beneficiam de um maior número de clientes e de uma melhor reputação. Sendo assim, além do particular (PcDs e suas redes), temos aqui mais dois setores da sociedade a quem esta aplicação deve interessar: o privado (empresas como instituições de ensino e de saúde privadas, centros de treinamento, restaurantes, parques de diversões, cinemas, lojas, etc. e organizações como festivais e eventos) e o público (escolas e hospitais públicos, parques, museus, bibliotecas, etc.).
+
+=============================================
 
 Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
 hierárquicas, etc.
