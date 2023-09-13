@@ -69,6 +69,24 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 Conforme o Dicionário Oxford, a acessibilidade é definida como a qualidade ou caráter do que é acessível, ou seja, a capacidade de tornar algo disponível e utilizável para todas as pessoas. Já a acessibilidade física refere-se à adaptação de ambientes, edifícios, transportes e infraestrutura para garantir que todas as pessoas, incluindo aquelas com deficiências físicas, tenham a capacidade de circular e utilizar esses espaços com segurança. No entanto, nos tempos modernos, a acessibilidade vai além do espaço físico. Com a crescente digitalização da sociedade, a acessibilidade digital tornou-se igualmente crucial. Isso envolve garantir que sites, aplicativos e conteúdos online sejam acessíveis a todas as pessoas, incluindo aquelas com deficiências visuais, auditivas, cognitivas ou motoras. Além disso, a acessibilidade também se relaciona com a conexão entre as pessoas. Isso significa promover uma sociedade onde todos são valorizados.
 
+O software a ser desenvolvido possui como objetivo geral garantir que pessoas deficientes tenham um acesso eficaz e compreensível aos recursos que a sociedade onde se encontram inseridas fornece. A interação cliente-servidor, ou seja, usuário-software será mediada por buscas relacionadas aos diversos setores existentes, de tal forma que as empresas poderão registrar seus estabelecimentos nos dados do site e o público-alvo terá acesso à visualização das informações. Será possível também avaliar como o serviço é prestado pelo fornecedor, e com isso a confiabilidade será um ponto forte do sistema. Resumidamente falando, empresas poderão se qualificar para o programa com base nos suportes para deficientes, e com isso os deficientes poderão consumir os serviços e avaliar suas experiências.
+Objetivos específicos a serem pontuados:
+*Analisar a concentração da porcentagem de erros estruturais
+*Verificar as maiores incidências de falhas físicas para com os deficientes
+*Comparar os requisitos do consumo on-line ao presencial
+*Compreender o motivo da desinformação da sociedade
+-----------------------------------------------------------------------------
+*Analisar a concentração da porcentagem de erros estruturais:
+O enfoque na taxa de concentração dos problemas, e consequentemente a obtenção de dados das margens de erro de uma empresa, proporcionam a montagem de uma tabela sólida. Com isso, a priorização das possíveis resoluções ocorre de forma ordenada e congruente, e consequentemente a eficácia das medidas torna-se muito mais impactante e satisfatória.
+*Verificar as maiores incidências de falhas físicas para com os deficientes
+A verificação das problemáticas físicas com maior incidência de casos ou queixas ajuda a identificar quais são os principais pontos a serem trabalhados. Essa análise permite uma visualização das perspectivas sob o ponto de vista do deficiente e quais são os obstáculos ou suportes que exigem muito esforço locomotivo, sendo assim possível apontar as situações de infraestrutura mais precárias. Com isso é possível ditar os principais pontos a serem trabalhados com relação à qualidade da infraestrutura geral e executar melhorias mais certeiras.
+
+*Comparar os requisitos do consumo on-line ao presencial
+Quando comparamos a diferença entre os requisitos necessários para consumir pela internet e aqueles ao modo presencial, pode-se apontar os elementos faltantes para que a maneira como o cliente consome em ambos os meios seja equivalente. Essa comparação permite ter-se uma ideia do que seria implementado no meio físico para que os obstáculos do consumo por parte dos deficientes diminuam significativamente ou se tornem praticamente nulos, assim como no mundo on-line.
+*Compreender o motivo da desinformação da sociedade
+Analisar o que leva a sociedade a tender ignorar ou permanecer resistente com relação à adaptabilidade para pessoas deficientes possibilita investigar as raízes do problema, mais especificamente em que momento histórico esse pensar foi instaurado. Essa análise auxilia no processo de desmistificar a negligência ao estilo de vida e necessidades de uma pessoa deficiente, através de uma resposta mais concreta e específica sobre o desconhecimento da população sobre normas e necessidades do deficiente.
+
+
 
 =========================================================
 
