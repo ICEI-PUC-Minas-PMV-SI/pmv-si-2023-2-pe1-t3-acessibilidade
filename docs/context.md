@@ -6,17 +6,6 @@ Nesse contexto, surge a necessidade de encontrar soluções que facilitem a inte
 
 
 
-=================================================================
-
-Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
-
-A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
-
-
-A Contextualização deve situar sem projeto em um determinado contexto de mercado, a fim de fornecer informações adicionais que possam ajudar a entender melhor o assunto que você irá abordar. Serve também para definir a relevância do seu assunto, uma vez que mostra o tamanho do mercado em que se está inserido. Ela pode envolver a análise de vários aspectos, como o ambiente histórico, cultural, político e social em que o problema a ser atacado surgiu.
-
-Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
-
 ## Problema
 
 É fato notório que o Brasil, apesar de possuir políticas de inclusão social, está atrasado quanto à acessiblidade de pessoas com deficiência (PcDs). Elevadores com problemas, rampas em mau estado, falta de libras em cardápios e sinalizações sonoras em semáforos, etc. Apesar da acessibilidade dos ambientes físicos ser a mais notória, os índices do ambiente digital não se mostarm otimistas. Mesmo ao analisarmos somente plataformas governamentais, que normamente são portais de notícias e porta de ação para direitos básicos, somente 0,7%  das plataformas brasileiras do segmento (.gov.br) tem acessibilidade plena, segundo o levantamento da TIC Web Acessibilidade / Ceweb.br. Quando olhamos em larga escala, os dados persistem baixos. Somente 0,46% dos 21 milhões de websites do País estão livres de barreiras para pessoas com deficiência.
@@ -94,14 +83,7 @@ Analisar o que leva a sociedade a tender ignorar ou permanecer resistente com re
 
 
 
-=========================================================
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
