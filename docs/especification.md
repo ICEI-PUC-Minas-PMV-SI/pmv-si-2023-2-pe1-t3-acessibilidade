@@ -5,6 +5,10 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
+Júlia é uma mulher jovem e determinada, natural da cidade de Recife, Pernambuco. Ela nasceu com paralisia cerebral, afetando sua mobilidade e coordenação motora. Júlia é uma estudante de Administração, bolsista em uma universidade pública.
+
+Desde jovem, Júlia enfrentou desafios físicos e a necessidade de usar uma cadeira de rodas para se locomover. Seus pais fizeram o possível em sua infância para lhe dar uma vida normal. Julia e seus pais desde de sempre enfrentam o desafio diário de encontrar locais e estabelecimentos acessíveis que tenham rampa e possuam um local para acomodar sua cadeira de rodas.
+ 
 
 Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
 
