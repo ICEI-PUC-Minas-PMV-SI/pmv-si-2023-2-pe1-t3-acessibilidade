@@ -5,15 +5,61 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
-Júlia é uma mulher jovem e determinada, natural da cidade de Recife, Pernambuco. Ela nasceu com paralisia cerebral, afetando sua mobilidade e coordenação motora. Júlia é uma estudante de Administração, bolsista em uma universidade pública.
+Nome: Júlia Alves Costa
 
-Desde jovem, Júlia enfrentou desafios físicos e a necessidade de usar uma cadeira de rodas para se locomover. Seus pais fizeram o possível em sua infância para lhe dar uma vida normal. Julia e seus pais desde de sempre enfrentam o desafio diário de encontrar locais e estabelecimentos acessíveis que tenham rampa e possuam um local para acomodar sua cadeira de rodas.
- 
+Idade: 20 anos
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Descrição Geral:
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Júlia é uma mulher jovem e determinada, natural da cidade de Recife, Pernambuco. Ela nasceu com paralisia cerebral, afetando sua mobilidade e coordenação motora. Júlia é uma estudante de Ciências Sociais, bolsista em uma universidade pública. Ela é uma pessoa altamente motivada e está comprometida em viver uma vida plena e independente.
+Desde jovem, Júlia enfrentou desafios físicos e a necessidade de usar uma cadeira de rodas para se locomover. Seus pais fizeram o possível em sua infância para lhe dar uma vida normal. Julia e seus pais desde sempre enfrentam o desafio diário de encontrar locais e estabelecimentos acessíveis que tenham rapa e possua um local para acomodar sua cadeira de rodas.
 
+Necessidades e Desafios:
+
+- Júlia enfrenta o desafio diário de encontrar locais e estabelecimentos acessíveis que acomodem sua cadeira de rodas.
+- Ela precisa de informações detalhadas sobre a acessibilidade de locais antes de planejar suas atividades.
+- Júlia valoriza muito sua independência e busca soluções que a ajudem a realizar tarefas diárias sem depender de assistência constante.
+
+Motivação de vida:
+
+- Ela busca constantemente maneiras de aproveitar ao máximo sua vida, participando de eventos culturais, sociais e educacionais.
+- Júlia deseja inspirar outras pessoas com deficiência e educar a sociedade sobre a importância da inclusão.
+
+Nome: Laura Santos
+
+Idade: 10 anos
+
+Descrição Geral:
+
+Laura é uma criança enérgica e curiosa que adora brincar, desenhar e explorar a natureza. Ela vive em uma cidade pequena com sua família e frequenta a escola local. Laura é uma criança com deficiência auditiva desde o nascimento e utiliza aparelhos auditivos para auxiliar na audição. Apesar de sua deficiência, ela é cheia de vida, ama fazer novos amigos.
+
+Necessidades e Desafios:
+- Enfrentar desafios na comunicação, especialmente em ambientes ruidosos.
+- Deseja ser tratada da mesma forma que as outras crianças e enfrenta desafios em atividades sociais e recreativas.
+
+Motivação de vida:
+
+- Laura e seus pais esperam que as pessoas ao seu redor compreendam melhor suas necessidades.
+- Laura deseja fazer novos amigos e se sentir incluída em atividades sociais e brincadeiras.
+
+Nome: Andre Silva
+
+Idade: 32 anos
+
+Descrição Geral:
+
+André era um atleta promissor que nasceu e cresceu no Rio de Janeiro e queria competir nos Jogos Olímpicos. Ele treinava duro e estava perto de alcançar seu objetivo quando sofreu um acidente grave durante uma competição, resultando em uma lesão medular. Embora sua vida tenha mudado, sua paixão pelo esporte e seu desejo de superação o mantiveram determinado. André agora treina intensamente para se tornar um atleta paralímpico. 
+
+Necessidades e Desafios:
+- Encontrar locais de treinamento com instalações acessíveis, adaptadas às suas necessidades de mobilidade. 
+- André deseja se conectar com outros atletas com deficiência e fazer parte de uma comunidade de apoio.
+
+Motivação de vida:
+
+- Almeja se tornar um atleta paralímpico de destaque, competindo em competições de alto nível e representando seu país nos Jogos Paralímpicos.
+- Inspirar outras pessoas com deficiência, demonstrando que é possível superar desafios e alcançar grandes feitos no esporte.
+
+  
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
 > - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
