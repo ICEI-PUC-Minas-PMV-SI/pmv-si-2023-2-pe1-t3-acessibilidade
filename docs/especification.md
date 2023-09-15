@@ -12,7 +12,7 @@ Idade: 20 anos
 Descrição Geral:
 
 Júlia é uma mulher jovem e determinada, natural da cidade de Recife, Pernambuco. Ela nasceu com paralisia cerebral, afetando sua mobilidade e coordenação motora. Júlia é uma estudante de Ciências Sociais, bolsista em uma universidade pública. Ela é uma pessoa altamente motivada e está comprometida em viver uma vida plena e independente.
-Desde jovem, Júlia enfrentou desafios físicos e a necessidade de usar uma cadeira de rodas para se locomover. Seus pais fizeram o possível em sua infância para lhe dar uma vida normal. Julia e seus pais desde sempre enfrentam o desafio diário de encontrar locais e estabelecimentos acessíveis que tenham rapa e possua um local para acomodar sua cadeira de rodas.
+Desde jovem, Júlia enfrentou desafios físicos e a necessidade de usar uma cadeira de rodas para se locomover. Seus pais fizeram o possível em sua infância para lhe dar uma vida normal. Julia e seus pais desde sempre enfrentam o desafio diário de encontrar locais e estabelecimentos acessíveis que tenham rampa e possua um local para acomodar sua cadeira de rodas.
 
 Necessidades e Desafios:
 
