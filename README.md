@@ -14,7 +14,6 @@ Está sendo desenvolvida um projeto que ajudará pessoas com deficiência a enco
 * Gabriela de Oliveira Henriques
 * Mariana Silva De Mello Mattos
 * Matheus Godinho Blaselbauer
-* Laura Valdivieso Lage
   
 ## Orientador
 
