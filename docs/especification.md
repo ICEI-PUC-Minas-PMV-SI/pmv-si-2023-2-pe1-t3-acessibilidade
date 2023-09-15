@@ -61,6 +61,27 @@ Motivação de vida:
 - Almeja se tornar um atleta paralímpico de destaque, competindo em competições de alto nível e representando seu país nos Jogos Paralímpicos.
 - Inspirar outras pessoas com deficiência, demonstrando que é possível superar desafios e alcançar grandes feitos no esporte.
 
+Nome: Jose da Costa
+
+Idade: 64 anos
+
+Descrição Geral:
+
+Jose é um idoso que vive em Limeira, São Paulo. Aos 40 anos, ele foi diagnosticado com glaucoma, o que resultou em uma diminuição gradual da visão ao longo dos anos. Atualmente, ele é portador de deficiência visual. Sua trajetória de vida inclui um período em que atuou como funcionário em uma firma de contabilidade. José era uma pessoa ativa e proativa, dedicando grande parte de seu tempo livre para desfrutar da culinária local em restaurantes de Limeira.
+
+Necessidades e Desafios:
+
+ - Precisa de apoio e acessibilidade no local de trabalho para realizar tarefas relacionadas à contabilidade.
+ - José requer informações sobre a acessibilidade de restaurantes locais para continuar desfrutando da culinária.
+
+Motivação de vida:
+
+- José deseja encontrar maneiras de retornar ao mercado de trabalho, onde sua experiência e paixão pela contabilidade possam ser valorizadas.
+
+- Ele quer continuar a explorar restaurantes locais, garantindo que eles sejam acessíveis para suas necessidades.
+
+ - José valoriza suas interações sociais e deseja continuar a participar das atividades de Limeira.
+
   
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
