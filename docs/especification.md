@@ -9,7 +9,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Nome: Júlia Alves Costa
 
-Idade: 20 anos
+Idade: 24 anos
 
 Descrição Geral:
 
@@ -44,13 +44,13 @@ Motivação de vida:
 - Laura e seus pais esperam que as pessoas ao seu redor compreendam melhor suas necessidades.
 - Laura deseja fazer novos amigos e se sentir incluída em atividades sociais e brincadeiras.
 
-Nome: Andre Silva
+Nome: Lucas Silva
 
-Idade: 32 anos
+Idade: 16 anos
 
 Descrição Geral:
 
-André era um atleta promissor que nasceu e cresceu no Rio de Janeiro e queria competir nos Jogos Olímpicos. Ele treinava duro e estava perto de alcançar seu objetivo quando sofreu um acidente grave durante uma competição, resultando em uma lesão medular. Embora sua vida tenha mudado, sua paixão pelo esporte e seu desejo de superação o mantiveram determinado. André agora treina intensamente para se tornar um atleta paralímpico. 
+Lucas era um atleta promissor que nasceu e cresceu no Rio de Janeiro e queria competir nos Jogos Olímpicos. Ele treinava duro e estava perto de alcançar seu objetivo quando sofreu um acidente grave durante uma competição, resultando em uma lesão medular. Embora sua vida tenha mudado, sua paixão pelo esporte e seu desejo de superação o mantiveram determinado. André agora treina intensamente para se tornar um atleta paralímpico. 
 
 Necessidades e Desafios:
 - Encontrar locais de treinamento com instalações acessíveis, adaptadas às suas necessidades de mobilidade. 
@@ -78,8 +78,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Julia   | Encontrar informações e locais acessíveis onde não encontrarei dificuldades para me locomover com a cadeira de rodas | Me permitir autonomia e independência nas atividade da comunidade, inspirando outras pessoas com deficiência |
+|Laura        | Fazer novos amigos e participar de atividades e brincadeiras igual às outras crianças | Não me sentir excluída ou discriminada |
+| Lucas       | Me tornar um atleta paralímpico e participar de uma rede de apoio | Alcançar a satisfação pessoal de me destacar no que amo e inspirar outras pessoas com deficiência, fortalecendo a comunidade PcD. |
+| José        | Continuar trabalhando na minha área | Não precisar me aposentar e me sentir independente nas atividades diárias |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
