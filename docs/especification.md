@@ -5,6 +5,8 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
+![Ana](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/113299281/185e42c7-babd-4b67-8619-069b096ca625)
+
 Nome: Júlia Alves Costa
 
 Idade: 20 anos
