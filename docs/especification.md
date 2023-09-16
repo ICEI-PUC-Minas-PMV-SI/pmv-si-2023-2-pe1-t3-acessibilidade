@@ -45,7 +45,7 @@ Idade: 10 anos
 
 Descrição Geral:
 
-Laura é uma criança enérgica e curiosa que adora brincar, desenhar e explorar a natureza. Ela vive em uma cidade pequena com sua família e frequenta a escola local. Laura é uma criança com deficiência auditiva desde o nascimento e utiliza aparelhos auditivos para auxiliar na audição. Apesar de sua deficiência, ela é cheia de vida, ama fazer novos amigos.
+Laura é uma criança enérgica e curiosa que adora brincar, desenhar e explorar a natureza. Ela vive em uma cidade pequena com sua família e frequenta a escola local. Laura é uma criança com deficiência auditiva desde o nascimento e utiliza aparelhos auditivos para auxiliar na audição. Apesar de sua deficiência, ela é cheia de vida, ama fazer novos amigos. Tem capacidade de fala mas sua comunicação é um pouco mais dificultada pelos problemas auditivos.
 
 Necessidades e Desafios:
 - Enfrentar desafios na comunicação, especialmente em ambientes ruidosos.
@@ -64,11 +64,11 @@ Idade: 16 anos
 
 Descrição Geral:
 
-Lucas era um atleta promissor que nasceu e cresceu no Rio de Janeiro e queria competir nos Jogos Olímpicos. Ele treinava duro e estava perto de alcançar seu objetivo quando sofreu um acidente grave durante uma competição, resultando em uma lesão medular. Embora sua vida tenha mudado, sua paixão pelo esporte e seu desejo de superação o mantiveram determinado. André agora treina intensamente para se tornar um atleta paralímpico. 
+Lucas era um atleta promissor que nasceu e cresceu no Rio de Janeiro e queria competir nos Jogos Olímpicos. Ele treinava duro e estava perto de alcançar seu objetivo quando sofreu um acidente grave durante uma competição, resultando em uma lesão medular. Embora sua vida tenha mudado, sua paixão pelo esporte e seu desejo de superação o mantiveram determinado. Lucas agora treina intensamente para se tornar um atleta paralímpico. 
 
 Necessidades e Desafios:
 - Encontrar locais de treinamento com instalações acessíveis, adaptadas às suas necessidades de mobilidade. 
-- André deseja se conectar com outros atletas com deficiência e fazer parte de uma comunidade de apoio.
+- Lucas deseja se conectar com outros atletas com deficiência e fazer parte de uma comunidade de apoio.
 
 Motivação de vida:
 
