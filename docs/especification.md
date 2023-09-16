@@ -131,10 +131,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Julia   | Encontrar informações e locais acessíveis onde não encontrarei dificuldades para me locomover com a cadeira de rodas | Me permitir autonomia e independência nas atividade da comunidade, inspirando outras pessoas com deficiência |
-|Laura        | Fazer novos amigos e participar de atividades e brincadeiras igual às outras crianças | Não me sentir excluída ou discriminada |
-| Lucas       | Me tornar um atleta paralímpico e participar de uma rede de apoio | Alcançar a satisfação pessoal de me destacar no que amo e inspirar outras pessoas com deficiência, fortalecendo a comunidade PcD. |
-| José        | Trabalhar em um local de trabalho acessível e continuar com as atividades do meu interesse sem dificuldade de realizá-las sozinho | Me sentir independente nas atividades diárias e interagir e socializar com as pessoas |
+|Julia   | Encontrar informações e locais acessíveis para estudar onde não encontrarei dificuldades para me locomover com a cadeira de rodas | Me permitir autonomia e independência, manter minha rotina de estudos e crescer. Conhecer pessoas com o mesmo objetivo |
+|Laura        | Fazer novos amigos, participando de atividades e brincadeiras igual às outras crianças | Não me sentir excluída ou discriminada |
+| Lucas       | Conseguir lugares para treinar com companhia. Me tornar um atleta paralímpico e participar de uma rede de apoio | Alcançar a satisfação pessoal de me destacar no que amo e inspirar outras pessoas com deficiência, fortalecendo a comunidade PcD. |
+| José        | Trabalhar em um local acessível, continuando com as atividades cotidianas sem dificuldade de realizá-las sozinho. Encontrar opções mais diversas de restaurantes que incluam cardápio em braile ou com leitor digital | Me sentir independente nas atividades diárias |
+| José        | Encontrar opções mais diversas de restaurantes que incluam cardápio em braile ou com leitor digital | Socializar com as pessoas que eu amo, além de novas |
 
 
 ## Requisitos
@@ -145,31 +146,27 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| A aplicação deve permitir que o usuário gerenciar tarefas | ALTA |  |
-|RF-002| A aplicação deve permitir que o usuário emita um relatório de tarefas no mês   | MÉDIA | |
+|RF-001| A aplicação deve permitir que o usuário crie um perfil pessoal | ALTA |  |
+|RF-002| A aplicação deve permitir que o usuário cadastre um lugar | ATLA | |
+|RF-003| A aplicação deve permitir que o usuário veja uma lista de lugares | ATLA | |
+|RF-004| A aplicação deve permitir que o usuário avalie um lugar | ATLA | |
+|RF-005| A aplicação deve permitir que o usuário envie um comentário sobre o lugar | MÉDIA | |
+|RF-006| A aplicação deve permitir que o usuário veja comentários sobre o lugar | MÉDIA | |
+|RF-007| A aplicação deve permitir que o usuário avalie um comentário sobre o lugar | MÉDIA | |
+|RF-008| A aplicação deve permitir que o usuário cadastre um evento | MÉDIA | |
+|RF-009| A aplicação deve permitir que o usuário confirme presença um evento | MÉDIA | |
+|RF-010| A aplicação deve auxiliar o usuário a navegar nas suas funcionalidades com um assistente virtual | BAIXA | |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | ALTA | 
+|RNF-002| O sistema deve processar requisições do usuário em no máximo 1.8s | ALTO | 
+|RNF-003| O sistema deve ser acessível para leitores de tela | ALTO | 
+|RNF-004| O sistema deve conter navegação facilitada | ALTO |
+|RNF-005| O sistema deve ter notas >95% em core web vitals | MÉDIO | 
 
 ## Restrições
 
@@ -178,7 +175,5 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
+|02| O projeto deverá ter até cinco páginas para navegação |
+|03| O projeto deverá conter paginação nas listagens       |
