@@ -1,25 +1,22 @@
 # Especificações do Projeto
 
-
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário.
-1. Diagrama de personas
-2. Histórias de usuários
-3. Requisitos funcionais
-4. Não funcionais
-5. Restrições do projeto
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
-
 ## Personas
 
 ### Pernona 1
 
-![Julia](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/113299281/185e42c7-babd-4b67-8619-069b096ca625)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/66320795/fa30c2c2-fb4e-4a80-8f65-dd90c24c9ba3)
 
-Nome: Júlia Alves Costa
-
-Idade: 24 anos
+<p style="display: flex; align-items: center; justify-content: flex-start">
+ <image src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/113299281/185e42c7-babd-4b67-8619-069b096ca625" alt="Julia Alves Costa" width="200" height="200" />
+ <div>
+   <p>
+   Nome: Júlia Alves Costa
+   </p>
+   <p>
+   Idade: 24 anos 
+   </p>
+  </div>
+ </p>
 
 Descrição Geral:
 
@@ -39,9 +36,17 @@ Motivação de vida:
 
 ### Persona 2
 
+<p style="display: flex; align-items: center; justify-content: flex-start">
+ <image src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/66320795/ebb2bd30-3718-4cc0-a325-96a63943db0d" alt="Laura" width="200" height="200" />
+ <div>
+   <p>
 Nome: Laura Santos
-
+   </p>
+   <p>
 Idade: 10 anos
+   </p>
+  </div>
+ </p>
 
 Descrição Geral:
 
@@ -58,9 +63,17 @@ Motivação de vida:
 
 ### Persona 3
 
+<p style="display: flex; align-items: center; justify-content: flex-start">
+ <image src="https://github-production-user-asset-6210df.s3.amazonaws.com/66320795/268461751-9427a294-a893-4a19-96c8-7b9a80bdd944.png" alt="Lucas" width="200" height="200" />
+ <div>
+   <p>
 Nome: Lucas Silva
-
+   </p>
+   <p>
 Idade: 16 anos
+   </p>
+  </div>
+ </p>
 
 Descrição Geral:
 
@@ -77,9 +90,17 @@ Motivação de vida:
 
 ### Persona 4
 
+<p style="display: flex; align-items: center; justify-content: flex-start">
+ <image src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/66320795/e07e27d6-c5b8-47bb-8233-a03c42862787" alt="Lucas" width="200" height="200" />
+ <div>
+   <p>
 Nome: Jose da Costa
-
+   </p>
+   <p>
 Idade: 64 anos
+   </p>
+  </div>
+ </p>
 
 Descrição Geral:
 
