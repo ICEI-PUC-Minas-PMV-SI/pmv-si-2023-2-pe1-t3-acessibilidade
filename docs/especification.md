@@ -36,6 +36,8 @@ Motivação de vida:
 
 ### Persona 2
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/66320795/9bf0455d-6a59-4ef2-a81d-6d996bf02262)
+
 <p style="display: flex; align-items: center; justify-content: flex-start">
  <image src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/66320795/ebb2bd30-3718-4cc0-a325-96a63943db0d" alt="Laura" width="200" height="200" />
  <div>
