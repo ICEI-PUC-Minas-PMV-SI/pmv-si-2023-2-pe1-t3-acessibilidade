@@ -1,10 +1,10 @@
 # Especificações do Projeto
 
+PcDs por vezes tem dificuldade de se sentirem incluídas e desfrutar de lazer, meios de trabalho e conexão com a mesma facilidade que pessoas sem deficiência. Dado o percentual da população brasileira nestas condições e a emergência desse problema, buscar soluções pra esse segmento do mercado é imperscindível.  A aplicação proposta serve para listar lugares inclusivos para pessoas com deficiência, além de eventos nos quais essas pessoas podem comparecer e se conectar, de forma a suprir as dores e necessidades desses indivíduos de maneira simples e propagar a inclusão.
+
 ## Personas
 
 ### Pernona 1
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/66320795/fa30c2c2-fb4e-4a80-8f65-dd90c24c9ba3)
 
 <p style="display: flex; align-items: center; justify-content: flex-start">
  <image src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/113299281/185e42c7-babd-4b67-8619-069b096ca625" alt="Julia Alves Costa" width="200" height="200" />
@@ -34,9 +34,9 @@ Motivação de vida:
 - Ela busca constantemente maneiras de aproveitar ao máximo sua vida, participando de eventos culturais, sociais e educacionais.
 - Júlia deseja inspirar outras pessoas com deficiência e educar a sociedade sobre a importância da inclusão.
 
-### Persona 2
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/66320795/fa30c2c2-fb4e-4a80-8f65-dd90c24c9ba3)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/66320795/9bf0455d-6a59-4ef2-a81d-6d996bf02262)
+### Persona 2
 
 <p style="display: flex; align-items: center; justify-content: flex-start">
  <image src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/66320795/ebb2bd30-3718-4cc0-a325-96a63943db0d" alt="Laura" width="200" height="200" />
@@ -63,9 +63,10 @@ Motivação de vida:
 - Laura e seus pais esperam que as pessoas ao seu redor compreendam melhor suas necessidades.
 - Laura deseja fazer novos amigos e se sentir incluída em atividades sociais e brincadeiras.
 
-### Persona 3
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/66320795/b4ef4083-967d-49a1-9781-7903837ebdcb)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/66320795/9bf0455d-6a59-4ef2-a81d-6d996bf02262)
+
+### Persona 3
 
 <p style="display: flex; align-items: center; justify-content: flex-start">
  <image src="https://github-production-user-asset-6210df.s3.amazonaws.com/66320795/268461751-9427a294-a893-4a19-96c8-7b9a80bdd944.png" alt="Lucas" width="200" height="200" />
@@ -92,9 +93,9 @@ Motivação de vida:
 - Almeja se tornar um atleta paralímpico de destaque, competindo em competições de alto nível e representando seu país nos Jogos Paralímpicos.
 - Inspirar outras pessoas com deficiência, demonstrando que é possível superar desafios e alcançar grandes feitos no esporte.
 
-### Persona 4
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/66320795/b4ef4083-967d-49a1-9781-7903837ebdcb)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/66320795/5f9ed67d-c570-43ac-b7f6-05f6059ec36c)
+### Persona 4
 
 <p style="display: flex; align-items: center; justify-content: flex-start">
  <image src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/66320795/e07e27d6-c5b8-47bb-8233-a03c42862787" alt="Lucas" width="200" height="200" />
@@ -124,6 +125,8 @@ Motivação de vida:
 - Ele quer continuar a explorar restaurantes locais, garantindo que eles sejam acessíveis para suas necessidades.
 
  - José valoriza suas interações sociais e deseja continuar a participar das atividades de Limeira.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/66320795/5f9ed67d-c570-43ac-b7f6-05f6059ec36c)
 
 ## Histórias de Usuários
 
@@ -156,7 +159,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-008| A aplicação deve permitir que o usuário cadastre um evento | MÉDIA | |
 |RF-009| A aplicação deve permitir que o usuário confirme presença um evento | MÉDIA | |
 |RF-010| A aplicação deve auxiliar o usuário a navegar nas suas funcionalidades com um assistente virtual | BAIXA | |
-
+|RF-011| A aplicação deve mostrar para quais deficiências o local é acessível | BAIXA | |
 
 ### Requisitos não Funcionais
 
