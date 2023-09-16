@@ -63,6 +63,8 @@ Motivação de vida:
 
 ### Persona 3
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/66320795/b4ef4083-967d-49a1-9781-7903837ebdcb)
+
 <p style="display: flex; align-items: center; justify-content: flex-start">
  <image src="https://github-production-user-asset-6210df.s3.amazonaws.com/66320795/268461751-9427a294-a893-4a19-96c8-7b9a80bdd944.png" alt="Lucas" width="200" height="200" />
  <div>
@@ -89,6 +91,8 @@ Motivação de vida:
 - Inspirar outras pessoas com deficiência, demonstrando que é possível superar desafios e alcançar grandes feitos no esporte.
 
 ### Persona 4
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/66320795/5f9ed67d-c570-43ac-b7f6-05f6059ec36c)
 
 <p style="display: flex; align-items: center; justify-content: flex-start">
  <image src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/66320795/e07e27d6-c5b8-47bb-8233-a03c42862787" alt="Lucas" width="200" height="200" />
