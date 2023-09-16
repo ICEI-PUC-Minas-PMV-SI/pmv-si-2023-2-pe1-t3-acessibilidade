@@ -1,11 +1,21 @@
 # Especificações do Projeto
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+
+
+Definição do problema e ideia de solução a partir da perspectiva do usuário.
+1. Diagrama de personas
+2. Histórias de usuários
+3. Requisitos funcionais
+4. Não funcionais
+5. Restrições do projeto
 
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
-![Ana](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/113299281/185e42c7-babd-4b67-8619-069b096ca625)
+
+### Pernona 1
+
+![Julia](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/113299281/185e42c7-babd-4b67-8619-069b096ca625)
 
 Nome: Júlia Alves Costa
 
@@ -18,7 +28,7 @@ Desde jovem, Júlia enfrentou desafios físicos e a necessidade de usar uma cade
 
 Necessidades e Desafios:
 
-- Júlia enfrenta o desafio diário de encontrar locais e estabelecimentos acessíveis que acomodem sua cadeira de rodas.
+- Júlia enfrenta o desafio diário de encontrar locais e estabelecimentos acessíveis que acomodem sua cadeira de rodas para estudar.
 - Ela precisa de informações detalhadas sobre a acessibilidade de locais antes de planejar suas atividades.
 - Júlia valoriza muito sua independência e busca soluções que a ajudem a realizar tarefas diárias sem depender de assistência constante.
 
@@ -26,6 +36,8 @@ Motivação de vida:
 
 - Ela busca constantemente maneiras de aproveitar ao máximo sua vida, participando de eventos culturais, sociais e educacionais.
 - Júlia deseja inspirar outras pessoas com deficiência e educar a sociedade sobre a importância da inclusão.
+
+### Persona 2
 
 Nome: Laura Santos
 
@@ -44,6 +56,8 @@ Motivação de vida:
 - Laura e seus pais esperam que as pessoas ao seu redor compreendam melhor suas necessidades.
 - Laura deseja fazer novos amigos e se sentir incluída em atividades sociais e brincadeiras.
 
+### Persona 3
+
 Nome: Lucas Silva
 
 Idade: 16 anos
@@ -60,6 +74,8 @@ Motivação de vida:
 
 - Almeja se tornar um atleta paralímpico de destaque, competindo em competições de alto nível e representando seu país nos Jogos Paralímpicos.
 - Inspirar outras pessoas com deficiência, demonstrando que é possível superar desafios e alcançar grandes feitos no esporte.
+
+### Persona 4
 
 Nome: Jose da Costa
 
@@ -82,17 +98,6 @@ Motivação de vida:
 
  - José valoriza suas interações sociais e deseja continuar a participar das atividades de Limeira.
 
-  
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
-
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
@@ -104,14 +109,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 | Lucas       | Me tornar um atleta paralímpico e participar de uma rede de apoio | Alcançar a satisfação pessoal de me destacar no que amo e inspirar outras pessoas com deficiência, fortalecendo a comunidade PcD. |
 | José        | Trabalhar em um local de trabalho acessível e continuar com as atividades do meu interesse sem dificuldade de realizá-las sozinho | Me sentir independente nas atividades diárias e interagir e socializar com as pessoas |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
@@ -158,7 +155,3 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
