@@ -18,4 +18,4 @@
 
 **[9]** _BRASIL. Constituição (1988). Constituição da República Federativa do Brasil, Art. 5º. Brasília, DF: Senado Federal: Centro Gráfico, 1988._
 
-**[2]** _GUGEL, Maria Aparecida. TODOS JUNTOS POR UM BRASIL MAIS ACESSÍVEL. Disponível em: <https://www.cnmp.mp.br/portal/images/stories/Destaques/Publicacoes/ACESSIBILIDADE_KM_WEB.pdf>._ Acesso em: 30, agosto de 2023
+**[10]** _RÁDIO CBN FM. "Brasil vive atraso na acessibilidade para pessoas com deficiência". Disponível em: <https://cbn.globoradio.globo.com/editorias/tecnologia/2015/04/11/BRASIL-VIVE-ATRASO-NA-ACESSIBILIDADE-PARA-PESSOAS-COM-DEFICIENCIA.htm>._ Acesso em: 14 de setembro de 2023.
