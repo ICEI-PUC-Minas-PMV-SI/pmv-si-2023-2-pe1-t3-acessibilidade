@@ -8,3 +8,4 @@
 - [https://www.gov.br/mdh/pt-br/assuntos/noticias/2023/julho/brasil-tem-18-6-milhoes-de-pessoas-com-deficiencia-indica-pesquisa-divulgada-pelo-ibge-e-mdhc](https://www.gov.br/mdh/pt-br/assuntos/noticias/2023/julho/brasil-tem-18-6-milhoes-de-pessoas-com-deficiencia-indica-pesquisa-divulgada-pelo-ibge-e-mdhc)
 - [https://amazonas1.com.br/consumidor-pcd-reclama-de-invisibilidade-nos-servicos-e-comercio/](https://amazonas1.com.br/consumidor-pcd-reclama-de-invisibilidade-nos-servicos-e-comercio/)
 - [https://www.neoassist.com/blog/visao-das-pessoas-com-deficiencia-sobre-o-atendimento/](https://www.neoassist.com/blog/visao-das-pessoas-com-deficiencia-sobre-o-atendimento/)
+- [https://g1.globo.com/economia/noticia/2023/07/07/brasil-tem-186-milhoes-de-pessoas-com-deficiencia-cerca-de-89percent-da-populacao-segundo-ibge.ghtml]
