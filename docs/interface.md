@@ -34,6 +34,14 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## Wireframes
 
+A home é composta por uma navigation bar na parte superior com acesso às principais funcionalidades do site. Na parte central fica o conteúdo informativo quanto a acessibilidade e ao propósito na aplicação. Na parte inferior à direita encontra-se o assistente virtual, disponibilizado para auxiliar o usuário a qualquer momento. 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/10c3262e-1dba-4ada-9dea-d36ea14fe3f0)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/f79b8d22-ccd5-4ef3-936f-20161ea25ca7)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/ffdaea53-3ff5-4069-af19-cc5814b914bb)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/c1499afb-d71f-46b5-9787-4478595557f0)
+
+
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
 
