@@ -38,8 +38,7 @@ A home é composta por uma navigation bar na parte superior com acesso às princ
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/f79b8d22-ccd5-4ef3-936f-20161ea25ca7)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/ffdaea53-3ff5-4069-af19-cc5814b914bb)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/c1499afb-d71f-46b5-9787-4478595557f0)
-![Listagem](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/113299281/4919e364-3e30-4dbe-935d-8ae8bb4f261e)
-![Info Locais](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/113299281/5d6ef9e1-c0c7-458a-ad7a-09114159ce1d)
+
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
