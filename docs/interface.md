@@ -30,13 +30,6 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/66320795/ecb77df7-8f05-4fbc-b3f8-0cff2d9b4a2e)
 
 
-
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
-
-
 ## Wireframes
 
 A home é composta por uma navigation bar na parte superior com acesso às principais funcionalidades do site. Na parte central fica o conteúdo informativo quanto a acessibilidade e ao propósito da aplicação. Na parte inferior à direita encontra-se o assistente virtual, disponibilizado para auxiliar o usuário a qualquer momento. 
@@ -74,3 +67,10 @@ A tela Inicial apresenta um menu lateral com as principais seções do portal, e
 > - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
 > - [Axure](https://www.axure.com/edu) (Licença Educacional)
 > - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+
+
+
+> **Links Úteis**:
+> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
+> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
+> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
