@@ -18,11 +18,16 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
  Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
 
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+
 ## User Flow
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/50c6a7d9-cd3d-4d6e-80c0-06da76e311f7)
 
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/66320795/ecb77df7-8f05-4fbc-b3f8-0cff2d9b4a2e)
 
 
 
