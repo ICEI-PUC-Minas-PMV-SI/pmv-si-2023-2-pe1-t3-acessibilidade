@@ -38,6 +38,9 @@ A home é composta por uma navigation bar na parte superior com acesso às princ
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/f79b8d22-ccd5-4ef3-936f-20161ea25ca7)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/ffdaea53-3ff5-4069-af19-cc5814b914bb)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/c1499afb-d71f-46b5-9787-4478595557f0)
+![Listagem](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/113299281/4919e364-3e30-4dbe-935d-8ae8bb4f261e)
+![Info Locais](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/113299281/5d6ef9e1-c0c7-458a-ad7a-09114159ce1d)
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A página de login é composta pela barra de navegação na parte superior, no mesmo padrão da página home, e as principais informações de input estão centralizadas no centro da página. Há um ícone de usuário na parte superior da tela e que ocupa um espaço relativamente considerável para a página, e esse impacto visual facilita ainda mais a compreensão do PcD sobre a finalidade da página.
