@@ -47,7 +47,7 @@ A página de login é composta pela barra de navegação na parte superior, no m
 ![login](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/bb99b0ba-8cbc-4048-aadc-bf4b416844d8)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-A página de registro é composta por poucos elementos e é mais simples. É uma página bem centralizada e compacta,contendo apenas as informações que serão úteis para o cadastro do usuário
+A página de registro é composta por poucos elementos e é mais simples. É uma página bem centralizada e compacta,contendo apenas as informações que serão úteis para o cadastro do usuário.
 
 ![registro](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/6e0cc087-f112-421b-a439-ed75d76d095b)
 
