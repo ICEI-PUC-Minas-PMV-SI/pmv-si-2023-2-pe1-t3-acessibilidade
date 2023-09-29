@@ -58,7 +58,7 @@ A página de registro é composta por poucos elementos e é mais simples. É bem
 A página de perfil do usuário concentra no menu à esquerda as informações de registro como nome, sobrenome, data de nascimento, cidade em que vive, etc., e algumas informações a mais que ele pode adicionar caso queira, como estado civil, identidade de gênero, nível de escolaridade, etc. Enquanto à direita ficam as informações referentes as suas necessidades em relação à acessibilidade além de uma caixa onde ele pode acrescentar as informações que achar pertinente. As informações vinculadas ao registro são obrigatórias, enquanto todas as outras são opcionais.
 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/2c335f6d-fd58-432e-bf8c-e29df2cf0e9d)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/da2e2ad7-faaa-4cce-82ec-0d9101babb09)
 
 
 
