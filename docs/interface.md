@@ -43,12 +43,22 @@ A home é composta por uma navigation bar na parte superior com acesso às princ
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A página de log in é composta pela barra de navegação na parte superior, no mesmo padrão da página home, e as principais informações de input estão centralizadas no centro da página. As funções são simplificadas e esse impacto visual facilita ainda mais a compreensão do PcD sobre a finalidade da página. Além disso, há um assistente virtual no canto inferior à direita.
 
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/3b0b1e7d-3610-4253-aa9c-516e7899423f)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 A página de registro é composta por poucos elementos e é mais simples. É bem centralizada e compacta, contendo apenas as informações que serão úteis para o cadastro do usuário e o assistente virtual para auxiliar e sanar as dúvidas.
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/78f2e725-e70c-4055-9dc0-1da7d6960db3)
 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+A página de perfil do usuário concentra no menu à esquerda as informações de registro como nome, sobrenome, data de nascimento, cidade em que vive, etc., e algumas informações a mais que ele pode adicionar caso queira, como estado civil, identidade de gênero, nível de escolaridade, etc. Enquanto à direita ficam as informações referentes as suas necessidades em relação à acessibilidade além de uma caixa onde ele pode acrescentar as informações que achar pertinente. As informações vinculadas ao registro são obrigatórias, enquanto todas as outras são opcionais.
+
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/2c335f6d-fd58-432e-bf8c-e29df2cf0e9d)
 
 
 
