@@ -27,29 +27,31 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/50c6a7d9-cd3d-4d6e-80c0-06da76e311f7)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/66320795/ecb77df7-8f05-4fbc-b3f8-0cff2d9b4a2e)
-
 
 ## Wireframes
 
 A home é composta por uma navigation bar na parte superior com acesso às principais funcionalidades do site. Na parte central fica o conteúdo informativo quanto a acessibilidade e ao propósito da aplicação. Na parte inferior à direita encontra-se o assistente virtual, disponibilizado para auxiliar o usuário a qualquer momento. 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/10c3262e-1dba-4ada-9dea-d36ea14fe3f0)
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/f79b8d22-ccd5-4ef3-936f-20161ea25ca7)
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/ffdaea53-3ff5-4069-af19-cc5814b914bb)
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/c1499afb-d71f-46b5-9787-4478595557f0)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/e79df011-d2be-4c21-8281-a30ed59b555a)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/57fc184d-73fe-41a2-8356-239ecd87f64b)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/c698897f-0c28-4e38-aea5-c7ba3ded2e1d)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/6d759110-94e8-4f97-a2b2-00d16fa03d06)
+
 
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-A página de login é composta pela barra de navegação na parte superior, no mesmo padrão da página home, e as principais informações de input estão centralizadas no centro da página. Há um ícone de usuário na parte superior da tela e que ocupa um espaço relativamente considerável para a página, e esse impacto visual facilita ainda mais a compreensão do PcD sobre a finalidade da página.
+A página de log in é composta pela barra de navegação na parte superior, no mesmo padrão da página home, e as principais informações de input estão centralizadas no centro da página. As funções são simplificadas e esse impacto visual facilita ainda mais a compreensão do PcD sobre a finalidade da página. Além disso, há um assistente virtual no canto inferior à direita.
 
-![login](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/bb99b0ba-8cbc-4048-aadc-bf4b416844d8)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/3b0b1e7d-3610-4253-aa9c-516e7899423f)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-A página de registro é composta por poucos elementos e é mais simples. É uma página bem centralizada e compacta,contendo apenas as informações que serão úteis para o cadastro do usuário.
+A página de registro é composta por poucos elementos e é mais simples. É bem centralizada e compacta, contendo apenas as informações que serão úteis para o cadastro do usuário e o assistente virtual para auxiliar e sanar as dúvidas.
 
-![registro](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/6e0cc087-f112-421b-a439-ed75d76d095b)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/ce3c3b52-62cc-4fe2-b681-d8c27a98d79f)
+
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
