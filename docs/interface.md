@@ -52,7 +52,9 @@ A página de log in é composta pela barra de navegação na parte superior, no 
 
 A página de registro é composta por poucos elementos e é mais simples. É bem centralizada e compacta, contendo apenas as informações que serão úteis para o cadastro do usuário e o assistente virtual para auxiliar e sanar as dúvidas.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/78f2e725-e70c-4055-9dc0-1da7d6960db3)
+
+![Resgistro](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/113299281/1ad490af-08a1-4ad8-9d6c-44b33c8f9158)
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -65,27 +67,13 @@ A página de perfil do usuário concentra no menu à esquerda as informações d
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+A página de locais, os cards oferecem uma visão resumida de cada local já cadastrado. Ao clicar no botão saiba mais o usuario é direcionado para uma página com mais detalhes sobre o local.
 
-### Exemplo
+![Listagem](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/113299281/a9964ff3-5b59-452e-a02a-47b463d6c2aa)
 
-A tela Inicial apresenta um menu lateral com as principais seções do portal, enquanto a navigation bar, ao topo, apresenta informações de envio de imagens ou navegação pela galeria de fotos. A área central apresenta a galeria de fotos na forma de uma grade.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A página de informações sobre os locais oferece uma visão completa de cada destino. Você encontrará detalhes precisos sobre a localização, facilitando o planejamento de sua visita. Além disso, uma galeria de fotos, os comentários e avaliações de outros usuários.
 
-![Exemplo de Wireframe](img/wireframe-example.png)
-
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+![Info Locais](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/113299281/30974665-4fb4-4659-9af1-e8488b8770ea)
 
 
-
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
