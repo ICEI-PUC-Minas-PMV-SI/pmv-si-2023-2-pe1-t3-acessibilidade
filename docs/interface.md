@@ -25,19 +25,19 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## User Flow
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/50c6a7d9-cd3d-4d6e-80c0-06da76e311f7)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/2be7f64b-a167-40ea-b2b2-63514fb3dae8)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/687fda4f-e1ed-4e4b-a157-8cba34f91232)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/08f2b5a6-6f2f-464a-bd70-3af20e4b82ee)
 
 
 ## Wireframes
 
 A home é composta por uma navigation bar na parte superior com acesso às principais funcionalidades do site. Na parte central fica o conteúdo informativo quanto a acessibilidade e ao propósito da aplicação. Na parte inferior à direita encontra-se o assistente virtual, disponibilizado para auxiliar o usuário a qualquer momento. 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/e79df011-d2be-4c21-8281-a30ed59b555a)
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/57fc184d-73fe-41a2-8356-239ecd87f64b)
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/c698897f-0c28-4e38-aea5-c7ba3ded2e1d)
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/6d759110-94e8-4f97-a2b2-00d16fa03d06)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/ba2690cc-1fba-46c3-b7c6-7d25163c402d)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/490293e4-8cad-4efd-9091-d23b875aa0eb)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/9ed563b6-e4d4-4124-aa21-830af40edf22)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/0457a52f-9816-4413-920c-4c42efd4e086)
 
 
 
@@ -45,15 +45,16 @@ A home é composta por uma navigation bar na parte superior com acesso às princ
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A página de log in é composta pela barra de navegação na parte superior, no mesmo padrão da página home, e as principais informações de input estão centralizadas no centro da página. As funções são simplificadas e esse impacto visual facilita ainda mais a compreensão do PcD sobre a finalidade da página. Além disso, há um assistente virtual no canto inferior à direita.
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/beb6ebe7-22d5-47a7-a011-73fd4961b4a1)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/3b0b1e7d-3610-4253-aa9c-516e7899423f)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A página de registro é composta por poucos elementos e é mais simples. É bem centralizada e compacta, contendo apenas as informações que serão úteis para o cadastro do usuário e o assistente virtual para auxiliar e sanar as dúvidas.
 
 
-![Resgistro](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/113299281/1ad490af-08a1-4ad8-9d6c-44b33c8f9158)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/6c338bc3-13d4-4351-8f10-7b132047e8ad)
+
 
 
 
@@ -61,7 +62,8 @@ A página de registro é composta por poucos elementos e é mais simples. É bem
 
 A página de perfil do usuário concentra no menu à esquerda as informações de registro como nome, sobrenome, data de nascimento, cidade em que vive, etc., e algumas informações a mais que ele pode adicionar caso queira, como estado civil, identidade de gênero, nível de escolaridade, etc. Abaixo dessa funcionalidade, encontra-se o botão de edição, assim, o usuário pode editar o próprio perfil quantas vezes quiser. Enquanto à direita ficam as informações referentes as suas necessidades em relação à acessibilidade além de uma caixa onde ele pode acrescentar as informações que achar pertinente e uma opção de excluir perfil na parte inferior. As informações vinculadas ao registro são obrigatórias, enquanto todas as outras são opcionais.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/952da7c0-2609-47b6-bf3f-ed3003f98a00)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/6e24b457-cc6b-46ff-be83-71aad7d48c63)
+
 
 
 
@@ -69,11 +71,16 @@ A página de perfil do usuário concentra no menu à esquerda as informações d
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A página de locais, os cards oferecem uma visão resumida de cada local já cadastrado. Ao clicar no botão saiba mais o usuario é direcionado para uma página com mais detalhes sobre o local.
 
-![Listagem](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/113299281/a9964ff3-5b59-452e-a02a-47b463d6c2aa)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/fb983661-6bcc-4626-9482-b2a1ca408da5)
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A página de informações sobre os locais oferece uma visão completa de cada destino. Você encontrará detalhes precisos sobre a localização, facilitando o planejamento de sua visita. Além disso, uma galeria de fotos, os comentários e avaliações de outros usuários.
 
-![Info Locais](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/113299281/30974665-4fb4-4659-9af1-e8488b8770ea)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/9cbd0db5-071a-4f67-a48d-02363aadb044)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/b4745407-b98e-4c79-8a4b-bdb2b0344400)
 
