@@ -27,7 +27,8 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/2be7f64b-a167-40ea-b2b2-63514fb3dae8)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/08f2b5a6-6f2f-464a-bd70-3af20e4b82ee)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/747ea23f-d212-42a4-82ce-87f98dd0e72c)
+
 
 
 ## Wireframes
