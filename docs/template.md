@@ -11,6 +11,8 @@ Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo d
 
 ## Cores
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/2e132514-35b8-4e2f-a38b-cf3fc63cb04a)
+
 Apresente a paleta de cores que será utilizada. Uma ferramenta interessante para a criação de palestas de cores é o *Adobe Color* ([https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel)).
 
 
@@ -20,6 +22,12 @@ Apresente as fontes que serão utilizadas e sua função no site. As principais 
 
 
 ## Iconografia
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/f8c8b455-0549-4b06-b131-757384db7391)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/50dbf20e-114f-48c6-8843-190035fdedb0)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/83a99885-4fbb-4bce-ac6f-266d46db4c09)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/27ead8ae-2a4d-41c7-adae-791cc76163cd)
+
 
 Defina os ícones que serão utilizados e suas respectivas funções.
 
