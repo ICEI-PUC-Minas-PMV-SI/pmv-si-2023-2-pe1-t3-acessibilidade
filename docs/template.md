@@ -22,6 +22,17 @@ Apresente a paleta de cores que será utilizada. Uma ferramenta interessante par
 
 Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de Seção, Rótulos de componentes e Corpo de Texto.
 
+Foi empregada uma fonte apenas para o desenvolvimento do trabalho, e essa escolha foi feita com o objetivo de padronizar e tornar o design geral mais limpo. A fonte utilizada foi a Microsoft Yahei. Esta fonte foi utilizada para todos os componentes da página, e em alguns momentos foi utilizado o recurso Bold, principalmente para os títulos e rótulos.
+
+![bold](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/81690f01-2e28-4c01-935d-56cf49ee72d0)
+
+![bold2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/65d7cc8c-e56f-4acc-88c7-34dc332ab40e)
+
+Como pode-se verificar, o Bold é um fator para destacar a fonte e a enfatizar, e isto é feito através do aumento de espessura da fonte. No caso dos títulos, o incremento do tamanho das fontes juntamente ao uso do método citado favoreceram para chamar mais a atenção do receptor e prendê-lo na ideia da página, e acreditamos que isto facilita ainda mais a compreensão do PcD sobre as informações. No caso dos rótulos o Bold foi muito utilizado para acentuar a importância dos elementos relevantes para a página e consequentemente facilitar a visualização e identificação das funcionalidades presentes. Um forte exemplo pode ser citado a partir do login, já que, fora o título da seção, os elementos essenciais para o usuário proceder caso ainda não tenha o login estão em destaque, como "Esqueci minha senha" e "Ainda não tem uma conta? Registrar-se"
+
+![login](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/62fb7ba3-d9dd-4b23-ba3e-b47c936f3111)
+
+Tratando-se da fonte utilizada, a Microsoft Yahei é uma tipografia com traços suaves e sem serifa(elemento presente no terminal de uma letra, que é basicamente o fim de uma letra) e por isso seu visual é bem simplificado. Esta fonte foi desenvolvida com 3 versões de espessura, respectivamente em ordem crescente: Light, Regular, Bold. Portanto é possível constatar que a versão Light é a mais fina, enquanto que a Regular é mediana e a Bold é a considerada mais grossa. Vale dizer que pela Microsoft Yahei ser uma fonte uniforme, a diferença de espessura não entre as suas versões mas sim entre os elementos da letra é muito pequena ou quase nula. A proposta do nosso projeto é de caráter limpo ou minimalista, e objetivo, e as características simples e com poucos detalhes dessa tipografia se encaixam bem no projeto, desempenhando uma função de melhorar a acessibilidade do usuário.
 
 ## Iconografia
 
