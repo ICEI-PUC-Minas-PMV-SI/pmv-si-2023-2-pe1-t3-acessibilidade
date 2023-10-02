@@ -6,7 +6,7 @@
 
 `SEMESTRE: 1º`
 
-Está sendo desenvolvida um projeto que ajudará pessoas com deficiência a encontrar locais acessíveis, como restaurantes, e permitirá que esses locais cadastrem informações sobre sua acessibilidade. Isso facilitará a vida das pessoas com deficiência e incentivará os estabelecimentos a se tornarem mais inclusivos.
+Esse projeto visa auxiliar pessoas com deficiência a encontrar locais acessíveis por meio da colaboração, permitidindo o cadastramento de estabelecimentos e suas respectivas informações referentes à acessibilidade. Isso facilitará a vida das pessoas com deficiência, diminuindo o estresse e o tempo de busca, além de incentivar os estabelecimentos a se tornarem mais inclusivos.
 
 ## Integrantes
 
