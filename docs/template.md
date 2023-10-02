@@ -25,7 +25,7 @@ Apresente as fontes que serão utilizadas e sua função no site. As principais 
 
 ## Iconografia
 
-Os seguintes ícones serão utilizados como logotipo, distriuídos pelas wireframes de diferentes maneiras, mas sempre visando registrar a marca do projeto.
+Os seguintes ícones serão utilizados como logotipo, distriuídos pelas wireframes de diferentes maneiras, mas sempre visando registrar a marca do projeto. Todos foram produzidos no apliativo Canva.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/f8c8b455-0549-4b06-b131-757384db7391)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/50dbf20e-114f-48c6-8843-190035fdedb0)
@@ -38,8 +38,8 @@ Os seguintes ícones serão utilizados como logotipo, distriuídos pelas wirefra
 
 Seguindo a lógica esquerda-direita, temos, em ordem:
 1. ícone que representa a conta do usuário, onde ele poderá editar seus dados. Além disso, nesse local ficará a sua foto de perfil quando estiver logado no site. 
-2. assistente virtual
-3. símbolo de busca para facilitar o entendimento da barra de busca
+2. botão do assistente virtual
+3. símbolo de busca que acomapanha e facilita o entendimento da barra de busca
 4. botão que direciona o usuário à home
 5. botão que direciona o usuário à listagem de locais
 6. botão de enviar mensagem
@@ -57,7 +57,7 @@ Seguindo a lógica esquerda-direita, temos, em ordem:
 18. ícone que representa a avaliação do estabelecimento
 19. ícone que acomapanha o botão "quem somos" na navbar, direcionando o usuário para a parte "quem somos" na home page
 
-As cores utilizadas para representar estes ícones é ilustrativa, elas variam no site de acordo com a funcionalidade e/ou objetivo. 
+As cores utilizadas para representar estes ícones é ilustrativa, elas variam no site de acordo com a funcionalidade e/ou objetivo. Todos os ícones servem para facilitar o máximo possível o entendimento das funcionalidades dos botões, tornando o site simplificado, de fácil compreensão; de maneira que qualquer pessoa conseguirá utilizá-lo. Todos foram encontrados no Mockplus.
 
 
 Defina os ícones que serão utilizados e suas respectivas funções.
