@@ -46,7 +46,7 @@ A home é composta por uma navigation bar na parte superior com acesso às princ
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A página de log in é composta pela barra de navegação na parte superior, no mesmo padrão da página home, e as principais informações de input estão centralizadas no centro da página. As funções são simplificadas e esse impacto visual facilita ainda mais a compreensão do PcD sobre a finalidade da página. Além disso, há um assistente virtual no canto inferior à direita.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/beb6ebe7-22d5-47a7-a011-73fd4961b4a1)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/f7d9e0b2-4a7b-43ca-a8ac-7c721aaff454)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -64,7 +64,7 @@ A página de registro é composta por poucos elementos e é mais simples. É bem
 
 A página de perfil do usuário concentra no menu à esquerda as informações de registro como nome, sobrenome, data de nascimento, cidade em que vive, etc., e algumas informações a mais que ele pode adicionar caso queira, como estado civil, identidade de gênero, nível de escolaridade, etc. Abaixo dessa funcionalidade, encontra-se o botão de edição, assim, o usuário pode editar o próprio perfil quantas vezes quiser. Enquanto à direita ficam as informações referentes as suas necessidades em relação à acessibilidade além de uma caixa onde ele pode acrescentar as informações que achar pertinente e uma opção de excluir perfil na parte inferior. As informações vinculadas ao registro são obrigatórias, enquanto todas as outras são opcionais.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/6e24b457-cc6b-46ff-be83-71aad7d48c63)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/680abe5b-0445-49db-890f-66c2cb384ac9)
 
 
 
@@ -73,7 +73,7 @@ A página de perfil do usuário concentra no menu à esquerda as informações d
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A página de locais, os cards oferecem uma visão resumida de cada local já cadastrado. Ao clicar no botão saiba mais o usuario é direcionado para uma página com mais detalhes sobre o local.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/092e3f4a-22b5-49ca-bdf2-9da54145c9d2)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/f7a0137f-78fc-407b-96ce-6bfd20cbcbbd)
 
 
 
