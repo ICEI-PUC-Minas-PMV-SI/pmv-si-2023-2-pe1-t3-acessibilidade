@@ -54,7 +54,8 @@ A página de log in é composta pela barra de navegação na parte superior, no 
 A página de registro é composta por poucos elementos e é mais simples. É bem centralizada e compacta, contendo apenas as informações que serão úteis para o cadastro do usuário e o assistente virtual para auxiliar e sanar as dúvidas.
 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/6c338bc3-13d4-4351-8f10-7b132047e8ad)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/4fc99efa-3798-4cd3-842d-d6abd984bff2)
+
 
 
 
@@ -72,14 +73,16 @@ A página de perfil do usuário concentra no menu à esquerda as informações d
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A página de locais, os cards oferecem uma visão resumida de cada local já cadastrado. Ao clicar no botão saiba mais o usuario é direcionado para uma página com mais detalhes sobre o local.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/fb983661-6bcc-4626-9482-b2a1ca408da5)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/092e3f4a-22b5-49ca-bdf2-9da54145c9d2)
+
 
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A página de informações sobre os locais oferece uma visão completa de cada destino. Você encontrará detalhes precisos sobre a localização, facilitando o planejamento de sua visita. Além disso, uma galeria de fotos, os comentários e avaliações de outros usuários.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/9cbd0db5-071a-4f67-a48d-02363aadb044)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/a23a8a55-ca1c-4221-af1a-cff95a257052)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
