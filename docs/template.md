@@ -13,6 +13,8 @@ Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo d
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/2e132514-35b8-4e2f-a38b-cf3fc63cb04a)
 
+As tonalidades mais escuras de azul fazem referência à confiança, credibilidade e seriedade das informações. Traz, também, a ideia de comunicação eficaz. Enquanto a tonalidade mais clara de azul passa a imagem de serenidade e tranquilidade, acolhendo as pessoas que acessam o site, tornando o aspecto visual confortável. As cores amarelo e laranja transmitem calor, acessibilidade e um aspecto energético amigável. Dessa forma, as cores se comunicam, em conjunto, com o usuário, passando a ideia de um site seguro, confiável e acolhedor. Essas são as cores principais da plataforma. As outras tonalidades que acompanham funcionam como neutralizadoras, harmonizando as cores principais escolhidas.  
+
 Apresente a paleta de cores que será utilizada. Uma ferramenta interessante para a criação de palestas de cores é o *Adobe Color* ([https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel)).
 
 
