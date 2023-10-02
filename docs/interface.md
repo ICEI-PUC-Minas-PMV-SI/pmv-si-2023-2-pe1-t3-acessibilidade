@@ -51,10 +51,10 @@ A página de log in é composta pela barra de navegação na parte superior, no 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-A página de registro é composta por poucos elementos e é mais simples. É bem centralizada e compacta, contendo apenas as informações que serão úteis para o cadastro do usuário e o assistente virtual para auxiliar e sanar as dúvidas.
+A página de registro do usuário é composta por poucos elementos e é simples, bem centralizada e compacta, contendo apenas as informações que serão úteis para o cadastro do usuário além do assistente virtual para auxiliar e sanar as dúvidas.
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/37417c2e-3b4d-452a-913c-12044541b0b8)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/4fc99efa-3798-4cd3-842d-d6abd984bff2)
 
 
 
