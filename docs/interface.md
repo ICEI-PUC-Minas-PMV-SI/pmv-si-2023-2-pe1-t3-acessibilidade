@@ -14,10 +14,6 @@ A partir da home, existem algumas possibilidades:
 Além disso, haverá algumas funções na parte superior do site, possibilitando que o usuário possa realizar o cadastro ou log in na sua conta a qualquer momento, assim como poderá trocar de página através da navbar. Por fim, ao lado direito desta navbar, haverá uma função de busca onde será possível encontrar estabelecimentos na lista de avaliados de maneira mais específica. 
 
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
-
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
-
 
 
 -----------------------------------------------------------------------------------------------------------------
@@ -32,29 +28,32 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 
 ## Wireframes
+Todas as wireframes contêm, na parte superior à direita, uma funcionalidade de leitor imersivo, permitindo a acessibilidade para todas as pessoas que necessitam de uma leitura das páginas. No chat com o assistente virtual, esse leitor fica disponível durante o primeiro acesso, antes de iniciar a troca de mensagens entre o usuário e o assistente. Nos cantos inferiores à direita, é possível acessar a funcionalidade do assistente virtual, disponibilizado para auxiliar o usuário a qualquer momento. 
 
-A home é composta por uma navigation bar na parte superior com acesso às principais funcionalidades do site. Na parte central fica o conteúdo informativo quanto a acessibilidade e ao propósito da aplicação. Na parte inferior à direita encontra-se o assistente virtual, disponibilizado para auxiliar o usuário a qualquer momento. 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A home é composta por uma navigation bar na parte superior com acesso às principais funcionalidades do site, além de uma barra de navegação também na parte superior. Na parte central encontra-se conteúdo informativo quanto a acessibilidade e ao propósito da aplicação. 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/ba2690cc-1fba-46c3-b7c6-7d25163c402d)
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/490293e4-8cad-4efd-9091-d23b875aa0eb)
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/9ed563b6-e4d4-4124-aa21-830af40edf22)
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/0457a52f-9816-4413-920c-4c42efd4e086)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/dfa3b587-9a5b-4e4b-bb3a-2405fe7eb2f7)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/2741b4fc-cc27-4bb7-bc16-a1a6f2da0fb0)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/f812aa6d-f211-4fd9-9374-6d95c537ae89)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/4e9022ff-4efc-4d9c-9842-a8b724d984d2)
+
 
 
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-A página de log in é composta pela barra de navegação na parte superior, no mesmo padrão da página home, e as principais informações de input estão centralizadas no centro da página. As funções são simplificadas e esse impacto visual facilita ainda mais a compreensão do PcD sobre a finalidade da página. Além disso, há um assistente virtual no canto inferior à direita.
+A página de log in é composta pela barra de navegação na parte superior, no mesmo padrão da página home, e as principais informações de input estão centralizadas no centro da página. As funções são simplificadas e esse impacto visual facilita ainda mais a compreensão do PcD sobre a finalidade da página. 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/f7d9e0b2-4a7b-43ca-a8ac-7c721aaff454)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/acbfe7d0-f079-415b-963d-96a780fa7c6e)
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-A página de registro do usuário é composta por poucos elementos e é simples, bem centralizada e compacta, contendo apenas as informações que serão úteis para o cadastro do usuário além do assistente virtual para auxiliar e sanar as dúvidas.
+A página de registro do usuário é composta por poucos elementos e é simples, bem centralizada e compacta, contendo apenas as informações que serão úteis para o cadastro do usuário.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/37417c2e-3b4d-452a-913c-12044541b0b8)
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/a794444a-34bb-4dd0-b75f-48beb52c1bcc)
 
 
 
@@ -64,7 +63,7 @@ A página de registro do usuário é composta por poucos elementos e é simples,
 
 A página de perfil do usuário concentra no menu à esquerda as informações de registro como nome, sobrenome, data de nascimento, cidade em que vive, etc., e algumas informações a mais que ele pode adicionar caso queira, como estado civil, identidade de gênero, nível de escolaridade, etc. Abaixo dessa funcionalidade, encontra-se o botão de edição, assim, o usuário pode editar o próprio perfil quantas vezes quiser. Enquanto à direita ficam as informações referentes as suas necessidades em relação à acessibilidade além de uma caixa onde ele pode acrescentar as informações que achar pertinente e uma opção de excluir perfil na parte inferior. As informações vinculadas ao registro são obrigatórias, enquanto todas as outras são opcionais.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/680abe5b-0445-49db-890f-66c2cb384ac9)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/5d5999aa-5142-4cd5-9bb9-dfd34e10c928)
 
 
 
@@ -73,7 +72,7 @@ A página de perfil do usuário concentra no menu à esquerda as informações d
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A página de locais, os cards oferecem uma visão resumida de cada local já cadastrado. Ao clicar no botão saiba mais o usuario é direcionado para uma página com mais detalhes sobre o local.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/f7a0137f-78fc-407b-96ce-6bfd20cbcbbd)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/4e816bea-9b89-426d-a66d-daf0ec3a9ff1)
 
 
 
@@ -81,12 +80,13 @@ A página de locais, os cards oferecem uma visão resumida de cada local já cad
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A página de informações sobre os locais oferece uma visão completa de cada destino. Você encontrará detalhes precisos sobre a localização, facilitando o planejamento de sua visita. Além disso, uma galeria de fotos, os comentários e avaliações de outros usuários.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/a23a8a55-ca1c-4221-af1a-cff95a257052)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/5e6a35eb-c4a6-4ad4-a6cd-5eb64dcfd387)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-O assistente virtual é o ambiente onde o usuário consegue ser atendido através de uma IA, tirando suas dúvidas e auxiliando na navegação do site. Vale salientar que ele não será direcionado a outra página. Ao clicar no assistente, abrirá uma pequena guia no canto inferior à direita, que funciona como um chat. 
+O assistente virtual é o ambiente onde o usuário consegue ser atendido com respostas pré programadas, tirando suas dúvidas e auxiliando na navegação do site. Vale salientar que ele não será direcionado a outra página. Ao clicar no assistente, abrirá uma pequena guia no canto inferior à direita, que funciona como um chat. 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/791e62c4-6fb8-45f6-95c0-6f4bbe341385)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/d5761b20-1c8e-4e90-a3f2-f39ba6d12714)
+
 
 
