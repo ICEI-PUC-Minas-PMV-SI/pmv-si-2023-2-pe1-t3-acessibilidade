@@ -1,8 +1,96 @@
 # Template padrão do site
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+Para o nosso template padrão do site, utilizaremos `html`, `css`e `bootstrap`. Além disso, nos preocupamos com uma interface responsiva e otimizada para acessibilidade com o uso de [aria attributes](https://www.w3.org/TR/wai-aria-1.1/).
 
-Explique as guias de estilo utilizadas no seu projeto.
+### Navbar
+
+Menu de navegação utilizado pelo usuário em todas as páginas
+
+```html
+<nav class="navbar navbar-expand-lg navbar-light bg-light" role="navigation">
+    <div>
+      <img src="icone" alt="Logo da Mundo Inclusivo" />
+      <a class="navbar-brand" href="/">Mundo inclusivo</a>
+    </div>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudo-navbar" aria-controls="conteudo-navbar" aria-expanded="false" aria-label="Expandir conteúdo">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="conteudo-navbar">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active" role="menuitem">
+        <img src="icone">
+        <a class="nav-link" href="/">Home</a>
+      </li>
+      <li class="nav-item" role="menuitem">
+        <img src="icone" alt="Listagem de locais" />
+        <a class="nav-link" href="#">Lista de locais</a>
+      </li>
+      <li class="nav-item" role="menuitem">
+        <img src="icone" alt="Cadastro de locais" />
+        <a class="nav-link" href="#">Cadastrar local</a>
+      </li>
+      <li class="nav-item" role="menuitem">
+        <img src="icone" alt="Quem somos" />
+        <a class="nav-link" href="#">Quem somos</a>
+      </li>
+      <li class="nav-item" role="menuitem">
+        <img src="icone" alt="Íconce de informações" />
+        <a class="nav-link" href="#">Informação</a>
+      </li>
+    </ul>
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Buscar" aria-label="Buscar">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Buscar</button>
+    </form>
+  </div>
+</nav>
+```
+
+### Banner
+
+Banner da home
+
+```html
+<div id="controleCarousel" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselIndicadores" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselIndicadores" data-slide-to="1"></li>
+    <li data-target="#carouselIndicadores" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="/imagem" alt="Descrição da primeira imagem">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Acesse também a listagem de locais</h5>
+        <a class="nav-link" href="#">Lista de locais</a>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/imagem"  alt="Descrição da segunda imagem">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Acesse também a listagem de locais</h5>
+        <a class="nav-link" href="#">Lista de locais</a>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/imagem"  alt="Descrição da terceira imagem">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Acesse também a listagem de locais</h5>
+        <a class="nav-link" href="#">Lista de locais</a>
+      </div>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#controleCarousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Anterior</span>
+  </a>
+  <a class="carousel-control-next" href="#controleCarousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Próximo</span>
+  </a>
+</div>
+```
 
 ## Design
 
