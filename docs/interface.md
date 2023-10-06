@@ -33,10 +33,10 @@ Todas as wireframes contêm, na parte superior à direita, uma funcionalidade de
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A home é composta por uma navigation bar na parte superior com acesso às principais funcionalidades do site, além de uma barra de navegação também na parte superior. Na parte central encontra-se conteúdo informativo quanto a acessibilidade e ao propósito da aplicação. 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/dfa3b587-9a5b-4e4b-bb3a-2405fe7eb2f7)
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/2741b4fc-cc27-4bb7-bc16-a1a6f2da0fb0)
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/f812aa6d-f211-4fd9-9374-6d95c537ae89)
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/4e9022ff-4efc-4d9c-9842-a8b724d984d2)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/68b0b2d7-4cbd-4cde-a55f-7ab8687679aa)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/05a91e6b-4806-45de-8ca6-7f1c3be4c9d9)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/15056098-aa0c-4e25-9b6c-a1db7fe98242)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/4e745685-4f17-4440-b67d-9f5713428141)
 
 
 
@@ -45,16 +45,15 @@ A home é composta por uma navigation bar na parte superior com acesso às princ
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A página de log in é composta pela barra de navegação na parte superior, no mesmo padrão da página home, e as principais informações de input estão centralizadas no centro da página. As funções são simplificadas e esse impacto visual facilita ainda mais a compreensão do PcD sobre a finalidade da página. 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/acbfe7d0-f079-415b-963d-96a780fa7c6e)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/49f35eea-312c-4fab-b634-4d8a1b38895d)
+
 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A página de registro do usuário é composta por poucos elementos e é simples, bem centralizada e compacta, contendo apenas as informações que serão úteis para o cadastro do usuário.
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/a794444a-34bb-4dd0-b75f-48beb52c1bcc)
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/0dbaad4b-ae3b-45e7-80b6-902636bba7b3)
 
 
 
@@ -63,8 +62,7 @@ A página de registro do usuário é composta por poucos elementos e é simples,
 
 A página de perfil do usuário concentra no menu à esquerda as informações de registro como nome, sobrenome, data de nascimento, cidade em que vive, etc., e algumas informações a mais que ele pode adicionar caso queira, como estado civil, identidade de gênero, nível de escolaridade, etc. Abaixo dessa funcionalidade, encontra-se o botão de edição, assim, o usuário pode editar o próprio perfil quantas vezes quiser. Enquanto à direita ficam as informações referentes as suas necessidades em relação à acessibilidade além de uma caixa onde ele pode acrescentar as informações que achar pertinente e uma opção de excluir perfil na parte inferior. As informações vinculadas ao registro são obrigatórias, enquanto todas as outras são opcionais.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/5d5999aa-5142-4cd5-9bb9-dfd34e10c928)
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/451f9869-cb63-4122-8082-772f3618a0b5)
 
 
 
@@ -72,21 +70,18 @@ A página de perfil do usuário concentra no menu à esquerda as informações d
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A página de locais, os cards oferecem uma visão resumida de cada local já cadastrado. Ao clicar no botão saiba mais o usuario é direcionado para uma página com mais detalhes sobre o local.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/4e816bea-9b89-426d-a66d-daf0ec3a9ff1)
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/83adea05-5692-4224-a3de-2435ca425167)
 
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A página de informações sobre os locais oferece uma visão completa de cada destino. Você encontrará detalhes precisos sobre a localização, facilitando o planejamento de sua visita. Além disso, uma galeria de fotos, os comentários e avaliações de outros usuários.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/5e6a35eb-c4a6-4ad4-a6cd-5eb64dcfd387)
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/75658b76-aa29-4471-b79c-166ed3e01483)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 O assistente virtual é o ambiente onde o usuário consegue ser atendido com respostas pré programadas, tirando suas dúvidas e auxiliando na navegação do site. Vale salientar que ele não será direcionado a outra página. Ao clicar no assistente, abrirá uma pequena guia no canto inferior à direita, que funciona como um chat. 
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/d5761b20-1c8e-4e90-a3f2-f39ba6d12714)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/55ed7ba7-188b-4444-96f4-943cbe594015)
 
 
 
