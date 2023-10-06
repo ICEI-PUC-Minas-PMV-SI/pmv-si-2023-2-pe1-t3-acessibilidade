@@ -121,24 +121,27 @@ Tratando-se da fonte utilizada, a Microsoft Yahei é uma tipografia com traços 
 
 ## Iconografia
 
-Os seguintes ícones serão utilizados como logotipo, distriuídos pelas wireframes de diferentes maneiras, mas sempre visando registrar a marca do projeto. Todos foram produzidos no apliativo Canva.
+Os seguintes ícones serão utilizados como logotipo, distriuídos pelas wireframes de diferentes maneiras, mas sempre visando registrar a marca do projeto. O terceiro, além de logotipo, recebe a funcionalidade de botão "home", que leva à página principal. Todos foram produzidos no apliativo Canva.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/f8c8b455-0549-4b06-b131-757384db7391)
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/50dbf20e-114f-48c6-8843-190035fdedb0)
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/83a99885-4fbb-4bce-ac6f-266d46db4c09)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/83a99885-4fbb-4bce-ac6f-266d46db4c09) 
+
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/27ead8ae-2a4d-41c7-adae-791cc76163cd)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/8179f7f6-0e92-4fa7-88c9-33552f12272e)
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/c20b75d7-c50b-4d27-8872-68e3097ff786)
 
 
 Seguindo a lógica esquerda-direita, temos, em ordem:
 1. ícone que representa a conta do usuário, onde ele poderá editar seus dados. Além disso, nesse local ficará a sua foto de perfil quando estiver logado no site. 
 2. botão do assistente virtual
 3. símbolo de busca que acomapanha e facilita o entendimento da barra de busca
-4. botão que direciona o usuário à home
+4. ícone que acompanha o botão "leitor imersivo" para facilitar o entendimento do significado da funcionalidade
 5. botão que direciona o usuário à listagem de locais
 6. botão de enviar mensagem
 7. botão de entrar ou cadastrar conta
@@ -154,7 +157,8 @@ Seguindo a lógica esquerda-direita, temos, em ordem:
 17. botão de compartilhamento
 18. ícone que representa a avaliação do estabelecimento
 19. ícone que acomapanha o botão "quem somos" na navbar, direcionando o usuário para a parte "quem somos" na home page
-20. ícone que acompanha o botão "leitor imersivo" para facilitar o entendimento do significado da funcionalidade
+
+
 As cores utilizadas para representar estes ícones é ilustrativa, elas variam no site de acordo com a funcionalidade e/ou objetivo. Todos os ícones servem para facilitar o máximo possível o entendimento das funcionalidades dos botões, tornando o site simplificado, de fácil compreensão; de maneira que qualquer pessoa conseguirá utilizá-lo. Todos foram encontrados no Mockplus.
 
 
