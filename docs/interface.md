@@ -81,6 +81,7 @@ A página de informações sobre os locais oferece uma visão completa de cada d
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 O assistente virtual é o ambiente onde o usuário consegue ser atendido com respostas pré programadas, tirando suas dúvidas e auxiliando na navegação do site. Vale salientar que ele não será direcionado a outra página. Ao clicar no assistente, abrirá uma pequena guia no canto inferior à direita, que funciona como um chat. 
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/55ed7ba7-188b-4444-96f4-943cbe594015)
 
 
