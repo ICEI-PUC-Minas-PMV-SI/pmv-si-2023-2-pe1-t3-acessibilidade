@@ -1,0 +1,91 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+/* header*/
+header {
+  background-color: #ffffff;
+}
+.one-colors {
+  color: #015776;
+  font-size: 30px;
+}
+.two-colors {
+  color: #644d15;
+  font-size: 30px;
+}
+svg {
+  color: #015776;
+}
+
+#nav-menu {
+  color: black;
+  font-size: 17px;
+}
+
+/* main*/
+main,
+section {
+  background-color: #f4f4f4;
+}
+.titulo {
+  color: #015776;
+  cursor: context-menu;
+}
+.subtitulo {
+  color: #644d15;
+  font-size: 20px;
+}
+.sessao1 {
+  padding: 30px;
+  background-color: #f4f4f4;
+}
+
+.sessao2 {
+  padding: 40px;
+  background-color: white;
+}
+
+.texto-principal {
+  text-align: justify;
+  color: black;
+}
+
+.info {
+  text-align: justify;
+}
+.sobre-nos {
+  padding-top: 15%;
+}
+.quem-somos {
+  color: #644d15;
+  text-align: center;
+}
+
+.sessao3{
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+.pilares{
+  margin-left: 6%;
+  text-align: center;
+  color: #015776;
+  
+}
+.card{
+  
+  display: grid;
+  grid-template-columns: auto 2fr;
+  display: flex;
+ 
+}
+.card-esp{
+  padding-top: 30px;
+}
+
+.sessao4 {
+  background-color: #ffffff;
+}
+.h1-responsive{
+  color: #644d15;
+}
