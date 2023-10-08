@@ -105,7 +105,8 @@ REQUISITOS FUNCIONAIS ATENDIDOS:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A página de informações sobre os locais oferece uma visão completa de cada destino específico. Você encontrará detalhes precisos sobre a localização, facilitando o planejamento de sua visita. Além disso, há uma galeria de fotos, comentários e avaliações de outros usuários. É nesta página que o usuário consegue avaliar e comentar o local. 
 
-![info locais](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/f7cc7c1d-8ac1-4bdc-844c-9ef648ce6a8b)
+![info locais](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/25d2392f-6388-47d3-a572-700e279be848)
+
 
 
 REQUISITOS FUNCIONAIS ATENDIDOS:
