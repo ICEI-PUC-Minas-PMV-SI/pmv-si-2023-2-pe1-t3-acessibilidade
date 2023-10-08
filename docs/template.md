@@ -413,13 +413,16 @@ As tonalidades mais escuras de azul fazem referência à confiança, credibilida
 
 Foi empregada uma fonte apenas para o desenvolvimento do trabalho, e essa escolha foi feita com o objetivo de padronizar e tornar o design geral mais limpo. A fonte utilizada foi a Microsoft Yahei. Esta fonte foi utilizada para todos os componentes da página, e em alguns momentos foi utilizado o recurso Bold, principalmente para os títulos e rótulos.
 
-![bold](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/81690f01-2e28-4c01-935d-56cf49ee72d0)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/5e93731c-cb8f-4b02-95f1-ff9952a9fab0)
 
-![bold2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/65d7cc8c-e56f-4acc-88c7-34dc332ab40e)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/8743d76e-d2ed-4a32-9016-fffd9a8dbbff)
+
 
 Como pode-se verificar, o Bold é um fator para destacar a fonte e a enfatizar, e isto é feito através do aumento de espessura da fonte. No caso dos títulos, o incremento do tamanho das fontes juntamente ao uso do método citado favoreceram para chamar mais a atenção do receptor e prendê-lo na ideia da página, e acreditamos que isto facilita ainda mais a compreensão do PcD sobre as informações. No caso dos rótulos o Bold foi muito utilizado para acentuar a importância dos elementos relevantes para a página e consequentemente facilitar a visualização e identificação das funcionalidades presentes. Um forte exemplo pode ser citado a partir do login, já que, fora o título da seção, os elementos essenciais para o usuário proceder caso ainda não tenha o login estão em destaque, como "Esqueci minha senha" e "Ainda não tem uma conta? Registrar-se"
 
-![login](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/62fb7ba3-d9dd-4b23-ba3e-b47c936f3111)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/a2d51e18-b9b0-43d5-a792-4d75ffdb9255)
+
 
 Tratando-se da fonte utilizada, a Microsoft Yahei é uma tipografia com traços suaves e sem serifa(elemento presente no terminal de uma letra, que é basicamente o fim de uma letra) e por isso seu visual é bem simplificado. Introduzindo um pouco sobre a fonte, esta fonte foi desenvolvida por padrão para os usuários que usavam como idioma de interface o chinês simplificado e visava melhorar a legibilidade, sendo desenvolvida pela Founder Electronics e Monotype em 2004, e encarregada pela Microsoft. Esta fonte foi desenvolvida com 3 versões de espessura, respectivamente em ordem crescente: Light, Regular, Bold. Portanto é possível constatar que a versão Light é a mais fina, enquanto que a Regular é mediana e a Bold é a considerada mais grossa. Vale dizer que pela Microsoft Yahei ser uma fonte uniforme, a diferença de espessura não entre as suas versões mas sim entre os elementos da letra é muito pequena ou quase nula(a espessura relativa não entre os níveis de espessura mas sim entre os elementos da letra é praticamente nula). A proposta do nosso projeto é de caráter limpo ou minimalista, e objetivo, e as características simples e com poucos detalhes dessa tipografia se encaixam bem no projeto, desempenhando uma função de melhorar a acessibilidade do usuário e fornecer-lhe informação com objetividade. Fora isso, a grossura Bold foi um grande destaque para o projeto, e a função do uso da mesma ao projeto foi o de proporcionar uma experiência mais objetiva paraa os PcDs e lhes fornecer uma melhor visualização da composição da página e o que cada componente significa, evitando provocar uma confusão visual pelo uso de uma mesma espessura para todos os componentes da página.
 
@@ -427,9 +430,13 @@ Tratando-se da fonte utilizada, a Microsoft Yahei é uma tipografia com traços 
 
 Os seguintes ícones serão utilizados como logotipo, distriuídos pelas wireframes de diferentes maneiras, mas sempre visando registrar a marca do projeto. O terceiro, além de logotipo, recebe a funcionalidade de botão "home", que leva à página principal. Todos foram produzidos no apliativo Canva.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/f8c8b455-0549-4b06-b131-757384db7391)
+![Uploading image.png…]()
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/50dbf20e-114f-48c6-8843-190035fdedb0)
+![1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/fe94bbc2-1777-4306-a01b-5778b86bfc88)
+
+![2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/024e7aac-6275-4b3a-b913-35f68804416b)
+
+
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/83a99885-4fbb-4bce-ac6f-266d46db4c09) 
 
