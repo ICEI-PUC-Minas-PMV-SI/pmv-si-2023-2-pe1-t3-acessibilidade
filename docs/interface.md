@@ -58,7 +58,10 @@ REQUISITOS FUNCIONAIS ATENDIDOS:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A página de registro do usuário é composta por poucos elementos e é simples, bem centralizada e compacta, contendo apenas as informações que serão úteis para o cadastro do usuário.
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/0dbaad4b-ae3b-45e7-80b6-902636bba7b3)
+
+![registro](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/19352573-6c41-44b2-bf2e-c721d1a992f3)
+
+
 
 REQUISITOS FUNCIONAIS ATENDIDOS:
 - A aplicação deve permitir que o usuário crie um perfil pessoal
