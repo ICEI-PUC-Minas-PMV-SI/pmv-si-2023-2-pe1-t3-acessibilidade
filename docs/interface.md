@@ -24,6 +24,8 @@ Além disso, haverá algumas funções na parte superior do site, possibilitando
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/fd4e6f73-9287-4e93-9835-a04f0c454851)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/47149ff5-2629-41a3-be22-9c7b18907e99)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/d9a13cde-1765-4e1f-82c5-548c62cb213e)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/e550da50-902c-4d6f-8311-a1308184ed3c)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/25b4f1e4-d5da-4d9c-8481-c5a2b2bf5b7c)
 
 
 
