@@ -21,9 +21,7 @@ Além disso, haverá algumas funções na parte superior do site, possibilitando
 
 ## User Flow
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/2be7f64b-a167-40ea-b2b2-63514fb3dae8)
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/747ea23f-d212-42a4-82ce-87f98dd0e72c)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/fd4e6f73-9287-4e93-9835-a04f0c454851)
 
 
 
