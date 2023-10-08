@@ -82,7 +82,8 @@ REQUISITOS FUNCIONAIS ATENDIDOS:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A página de locais, os cards oferecem uma visão resumida de cada local já cadastrado. Ao clicar no botão saiba mais o usuario é direcionado para uma página com mais detalhes sobre o local.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/83adea05-5692-4224-a3de-2435ca425167)
+![listagem](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/491bad14-3560-4d1d-a6c5-f40bdd3d5a22)
+
 
 REQUISITOS FUNCIONAIS ATENDIDOS:
 - A aplicação deve permitir que o usuário veja uma lista de lugares
@@ -92,7 +93,8 @@ REQUISITOS FUNCIONAIS ATENDIDOS:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A página de informações sobre os locais oferece uma visão completa de cada destino específico. Você encontrará detalhes precisos sobre a localização, facilitando o planejamento de sua visita. Além disso, há uma galeria de fotos, comentários e avaliações de outros usuários. É nesta página que o usuário consegue avaliar e comentar o local. 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/75658b76-aa29-4471-b79c-166ed3e01483)
+![info locais](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/f7cc7c1d-8ac1-4bdc-844c-9ef648ce6a8b)
+
 
 REQUISITOS FUNCIONAIS ATENDIDOS:
 - A aplicação deve permitir que o usuário veja um pefil do um lugar
