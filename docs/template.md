@@ -437,11 +437,13 @@ Os seguintes ícones serão utilizados como logotipo, distriuídos pelas wirefra
 ![2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/024e7aac-6275-4b3a-b913-35f68804416b)
 
 
+![3](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/e1522091-d651-4ba8-aeb0-6d6e0e690482)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/83a99885-4fbb-4bce-ac6f-266d46db4c09) 
 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/27ead8ae-2a4d-41c7-adae-791cc76163cd)
+
+![4](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/3a00825a-227c-429d-9178-7972f75bb630)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
