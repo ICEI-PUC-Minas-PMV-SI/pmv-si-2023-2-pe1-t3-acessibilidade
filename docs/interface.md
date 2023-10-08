@@ -24,7 +24,7 @@ Além disso, haverá algumas funções na parte superior do site, possibilitando
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/fd4e6f73-9287-4e93-9835-a04f0c454851)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/47149ff5-2629-41a3-be22-9c7b18907e99)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/d9a13cde-1765-4e1f-82c5-548c62cb213e)
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/e550da50-902c-4d6f-8311-a1308184ed3c)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/797a78f0-1852-48fd-adaa-6bc6442bef80)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/25b4f1e4-d5da-4d9c-8481-c5a2b2bf5b7c)
 
 
@@ -47,7 +47,7 @@ A página de log in é composta pela barra de navegação na parte superior, no 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/49f35eea-312c-4fab-b634-4d8a1b38895d)
 
 REQUISITOS FUNCIONAIS ATENDIDOS:
-A aplicação deve permitir que o usuário acesse um perfil pessoal
+- A aplicação deve permitir que o usuário consulte seu perfil pessoal, assim como de outra pessoa
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -56,7 +56,7 @@ A página de registro do usuário é composta por poucos elementos e é simples,
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/0dbaad4b-ae3b-45e7-80b6-902636bba7b3)
 
 REQUISITOS FUNCIONAIS ATENDIDOS:
-A aplicação deve permitir que o usuário crie um perfil pessoal
+- A aplicação deve permitir que o usuário crie um perfil pessoal
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -66,10 +66,10 @@ A página de perfil do usuário concentra no menu à esquerda as informações d
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/451f9869-cb63-4122-8082-772f3618a0b5)
 
 REQUISITOS FUNCIONAIS ATENDIDOS:
-A aplicação deve permitir que o usuário crie um perfil pessoal
-A aplicação deve permitir que o usuário delete seu um perfil pessoal
-A aplicação deve permitir que o usuário edite um perfil pessoal
-A aplicação deve permitir que o usuário consulte seu perfil pessoal, assim como de outra pessoa
+- A aplicação deve permitir que o usuário crie um perfil pessoal
+- A aplicação deve permitir que o usuário delete seu um perfil pessoal
+- A aplicação deve permitir que o usuário edite um perfil pessoal
+- A aplicação deve permitir que o usuário consulte seu perfil pessoal, assim como de outra pessoa
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -78,8 +78,8 @@ A página de locais, os cards oferecem uma visão resumida de cada local já cad
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/83adea05-5692-4224-a3de-2435ca425167)
 
 REQUISITOS FUNCIONAIS ATENDIDOS:
-A aplicação deve permitir que o usuário veja uma lista de lugares
-A aplicação deve permitir que o usuário filtre a lista de lugares por tipo de acessibilidade, categoria do lugar e cidade
+- A aplicação deve permitir que o usuário veja uma lista de lugares
+- A aplicação deve permitir que o usuário filtre a lista de lugares por tipo de acessibilidade, categoria do lugar e cidade
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -88,15 +88,15 @@ A página de informações sobre os locais oferece uma visão completa de cada d
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/75658b76-aa29-4471-b79c-166ed3e01483)
 
 REQUISITOS FUNCIONAIS ATENDIDOS:
-A aplicação deve permitir que o usuário veja um pefil do um lugar
-A aplicação deve permitir que o usuário avalie um lugar
-A aplicação deve permitir que o usuário envie um comentário sobre o lugar
-A aplicação deve permitir que o usuário veja comentários sobre o lugar
-A aplicação deve permitir que o usuário avalie um comentário sobre o lugar
-A aplicação deve permitir que o usuário cadastre um evento
-A aplicação deve permitir que o usuário edite um evento
-A aplicação deve permitir que o usuário visualize os eventos de um lugar
-A aplicação deve mostrar para quais deficiências o local é acessível
+- A aplicação deve permitir que o usuário veja um pefil do um lugar
+- A aplicação deve permitir que o usuário avalie um lugar
+- A aplicação deve permitir que o usuário envie um comentário sobre o lugar
+- A aplicação deve permitir que o usuário veja comentários sobre o lugar
+- A aplicação deve permitir que o usuário avalie um comentário sobre o lugar
+- A aplicação deve permitir que o usuário cadastre um evento
+- A aplicação deve permitir que o usuário edite um evento
+- A aplicação deve permitir que o usuário visualize os eventos de um lugar
+- A aplicação deve mostrar para quais deficiências o local é acessível
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 O assistente virtual é o ambiente onde o usuário consegue ser atendido com respostas pré programadas, tirando suas dúvidas e auxiliando na navegação do site. Vale salientar que ele não será direcionado a outra página. Ao clicar no assistente, abrirá uma pequena guia no canto inferior à direita, que funciona como um chat. 
@@ -104,12 +104,12 @@ O assistente virtual é o ambiente onde o usuário consegue ser atendido com res
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/55ed7ba7-188b-4444-96f4-943cbe594015)
 
 REQUISITOS FUNCIONAIS ATENDIDOS:
-A aplicação deve auxiliar o usuário a navegar nas suas funcionalidades com um assistente virtual
+- A aplicação deve auxiliar o usuário a navegar nas suas funcionalidades com um assistente virtual
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 (PRINT DA PAGINA DE CADASTRO DE LOCAL)
 
 
 REQUISITOS FUNCIONAIS ATENDIDOS:
-A aplicação deve permitir que o usuário cadastrar um lugar, mas não poderá excluir
-A aplicação deve permitir que o usuário editar um lugar, mas não poderá excluir. Somente pode alterar se a empresa está ativa e adicionar novo endereço
+- A aplicação deve permitir que o usuário cadastrar um lugar, mas não poderá excluir
+- A aplicação deve permitir que o usuário editar um lugar, mas não poderá excluir. Somente pode alterar se a empresa está ativa e adicionar novo endereço
