@@ -35,10 +35,7 @@ Todas as wireframes contêm, na parte superior à direita, uma funcionalidade de
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A home é composta por uma navigation bar na parte superior com acesso às principais funcionalidades do site, além de uma barra de navegação também na parte superior. Na parte central encontra-se conteúdo informativo quanto a acessibilidade e ao propósito da aplicação. 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/68b0b2d7-4cbd-4cde-a55f-7ab8687679aa)
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/05a91e6b-4806-45de-8ca6-7f1c3be4c9d9)
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/15056098-aa0c-4e25-9b6c-a1db7fe98242)
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/4e745685-4f17-4440-b67d-9f5713428141)
+
 
 
 
