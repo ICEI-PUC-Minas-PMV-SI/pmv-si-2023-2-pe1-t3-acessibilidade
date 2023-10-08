@@ -48,7 +48,7 @@ A home é composta por uma navigation bar na parte superior com acesso às princ
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A página de log in é composta pela barra de navegação na parte superior, no mesmo padrão da página home, e as principais informações de input estão centralizadas no centro da página. As funções são simplificadas e esse impacto visual facilita ainda mais a compreensão do PcD sobre a finalidade da página. 
 
-![login](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/389646a2-749e-4b62-8086-c9cf4566efea)
+![login](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/62b8ed78-495e-4f0c-87ef-f6cb24418adc)
 
 
 REQUISITOS FUNCIONAIS ATENDIDOS:
@@ -65,6 +65,15 @@ A página de registro do usuário é composta por poucos elementos e é simples,
 
 REQUISITOS FUNCIONAIS ATENDIDOS:
 - A aplicação deve permitir que o usuário crie um perfil pessoal
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Na página de cadastrar local, a empresa ou estabelecimento podera registrar seu local e serviço com base nas informações necessárias.
+
+
+![cadastrar local](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/d9c45f33-2806-44f0-8f1f-06fbc1ca076d)
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
