@@ -35,16 +35,21 @@ Todas as wireframes contêm, na parte superior à direita, uma funcionalidade de
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A home é composta por uma navigation bar na parte superior com acesso às principais funcionalidades do site, além de uma barra de navegação também na parte superior. Na parte central encontra-se conteúdo informativo quanto a acessibilidade e ao propósito da aplicação. 
 
+![home1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/a2f972f3-f1de-4ea7-948d-0b47fa94c26e)
 
+![home2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/d1db067b-c72d-4e83-a1a9-4509544d6154)
 
+![home3](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/fcb90222-8bca-4735-870f-60fa1a9c2b2d)
 
+![home4](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/bb465911-bc00-4b38-997f-2a6b9a1d9fdc)
 
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A página de log in é composta pela barra de navegação na parte superior, no mesmo padrão da página home, e as principais informações de input estão centralizadas no centro da página. As funções são simplificadas e esse impacto visual facilita ainda mais a compreensão do PcD sobre a finalidade da página. 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/49f35eea-312c-4fab-b634-4d8a1b38895d)
+![login](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/389646a2-749e-4b62-8086-c9cf4566efea)
+
 
 REQUISITOS FUNCIONAIS ATENDIDOS:
 - A aplicação deve permitir que o usuário consulte seu perfil pessoal, assim como de outra pessoa
@@ -63,7 +68,9 @@ REQUISITOS FUNCIONAIS ATENDIDOS:
 
 A página de perfil do usuário concentra no menu à esquerda as informações de registro como nome, sobrenome, data de nascimento, cidade em que vive, etc., e algumas informações a mais que ele pode adicionar caso queira, como estado civil, identidade de gênero, nível de escolaridade, etc. Abaixo dessa funcionalidade, encontra-se o botão de edição, assim, o usuário pode editar o próprio perfil quantas vezes quiser. Enquanto à direita ficam as informações referentes as suas necessidades em relação à acessibilidade além de uma caixa onde ele pode acrescentar as informações que achar pertinente e uma opção de excluir perfil na parte inferior. As informações vinculadas ao registro são obrigatórias, enquanto todas as outras são opcionais.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/451f9869-cb63-4122-8082-772f3618a0b5)
+![perfil](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/7ecb26dd-e23b-4c03-b00b-4906d2661ae8)
+
+
 
 REQUISITOS FUNCIONAIS ATENDIDOS:
 - A aplicação deve permitir que o usuário crie um perfil pessoal
@@ -101,7 +108,8 @@ REQUISITOS FUNCIONAIS ATENDIDOS:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 O assistente virtual é o ambiente onde o usuário consegue ser atendido com respostas pré programadas, tirando suas dúvidas e auxiliando na navegação do site. Vale salientar que ele não será direcionado a outra página. Ao clicar no assistente, abrirá uma pequena guia no canto inferior à direita, que funciona como um chat. 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/55ed7ba7-188b-4444-96f4-943cbe594015)
+![assistente virtual](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/8b3a0059-1ecd-4b1a-b55e-d4b8fab02c11)
+
 
 REQUISITOS FUNCIONAIS ATENDIDOS:
 - A aplicação deve auxiliar o usuário a navegar nas suas funcionalidades com um assistente virtual
