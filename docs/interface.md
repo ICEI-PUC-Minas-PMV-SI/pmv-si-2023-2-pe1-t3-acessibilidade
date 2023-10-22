@@ -72,6 +72,10 @@ REQUISITOS FUNCIONAIS ATENDIDOS:
 Na página de cadastrar local, a empresa ou estabelecimento podera registrar seu local e serviço com base nas informações necessárias.
 
 
+REQUISITOS FUNCIONAIS ATENDIDOS:
+- A aplicação deve permitir que o usuário cadastrar um lugar, mas não poderá excluir
+- A aplicação deve permitir que o usuário editar um lugar, mas não poderá excluir. Somente pode alterar se a empresa está ativa e adicionar novo endereço
+
 ![cadastrar local](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/d9c45f33-2806-44f0-8f1f-06fbc1ca076d)
 
 
@@ -129,10 +133,4 @@ O assistente virtual é o ambiente onde o usuário consegue ser atendido com res
 REQUISITOS FUNCIONAIS ATENDIDOS:
 - A aplicação deve auxiliar o usuário a navegar nas suas funcionalidades com um assistente virtual
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-(PRINT DA PAGINA DE CADASTRO DE LOCAL)
 
-
-REQUISITOS FUNCIONAIS ATENDIDOS:
-- A aplicação deve permitir que o usuário cadastrar um lugar, mas não poderá excluir
-- A aplicação deve permitir que o usuário editar um lugar, mas não poderá excluir. Somente pode alterar se a empresa está ativa e adicionar novo endereço
