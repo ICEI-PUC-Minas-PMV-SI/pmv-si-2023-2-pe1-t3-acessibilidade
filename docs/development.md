@@ -8,11 +8,11 @@
 |RF-001| A aplicação deve permitir que o usuário crie um perfil pessoal | cadastro.html | Matheus |
 |RF-002| A aplicação deve permitir que o estabelecimento crie um perfil  | cadastro.html | Matheus |
 |RF-003| A aplicação deve permitir que o usuário delete seu perfil pessoal | perfilUser.html | Gabriela |
-|RF-004| A aplicação deve permitir que o usuário delete seu perfil pessoal | perfilEst.html | Gabriela |
+|RF-004| A aplicação deve permitir que o estabelecimento delete seu perfil | perfilEst.html | Gabriela |
 |RF-005| A aplicação deve permitir que o usuário edite o perfil pessoal | perfilUser.html | Gabriela |
 |RF-006| A aplicação deve permitir que o estabelecimento edite o perfil | perfilEst.html | Gabriela |
 |RF-007| A aplicação deve permitir que o usuário consulte seu perfil pessoal |  perfilUser.html  | Gabriela |
-|RF-008| A aplicação deve permitir que o usuário consulte seu perfil  | perfilEst.html | Gabriela |
+|RF-008| A aplicação deve permitir que o estabelecimento consulte seu perfil  | perfilEst.html | Gabriela |
 |RF-009| A aplicação deve permitir que o usuário veja um pefil do um lugar | infoLocal.html | Ana Cecilia|
 |RF-010| A aplicação deve permitir que o usuário veja uma lista de lugares | infoLocal.html |Ana Cecilia |
 |RF-011| A aplicação deve permitir que o usuário filtre a lista de lugares por tipo de acessibilidade, categoria do lugar e cidade | Em construção | Mariana |
