@@ -166,7 +166,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-015| A aplicação deve auxiliar o usuário a navegar nas suas funcionalidades com um assistente virtual | BAIXA | Mariana |
 |RF-016| A aplicação deve mostrar para quais deficiências o local é acessível | ALTA | Ana Cecilia |
 |RF-017| A aplicação deve mostrar quais os tipos de deficiências | BAIXA | Ana Cecilia|
-|RF-018| A aplicação deve apresentar a iniciativa | iniciativa.html | BAIXA|
+|RF-018| A aplicação deve apresentar a iniciativa | BAIXA  | Matheus|
 |RF-019| A aplicação deve apresentar as informações sobre acessibilidade| BAIXA| Gabriela|
 |RF-020| A aplicação deve mostrar como funciona a plataforma| BAIXA| Mariana|
 
