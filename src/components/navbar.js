@@ -65,7 +65,7 @@ const navbarComponent = `
                 <li><a class="dropdown-item" href="#">Sobre a iniciativa</a></li>
                 <li><a class="dropdown-item" href="#">Sobre acessibilidade</a></li>
                 <li><a class="dropdown-item" href="tiposA11y.html">Tipos de acessibilidade</a></li>
-                <li><a class="dropdown-item" href="#">Como funciona</a></li>
+                <li><a class="dropdown-item" href="../como-funciona">Como funciona</a></li>
               </ul>
             </li>
           </ul>
