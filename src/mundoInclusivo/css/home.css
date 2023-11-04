@@ -1,0 +1,64 @@
+/*Main section-one*/
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #f4f4f4;
+}
+#section-one {
+  padding-top: 80px;
+}
+h1 {
+  color: #015776;
+}
+#imgLogo {
+  padding-top: 50px;
+  background-image: none;
+}
+#project {
+  color: #644d15;
+  font-size: 18px;
+  font-weight: 500;
+}
+#about-project {
+  padding-top: 10px;
+}
+
+/*Main section-two*/
+#section-two {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.titulo {
+  color: #015776;
+  font-size: 36px;
+}
+#subtituloS2 {
+  font-size: 20px;
+  color: #644d15;
+}
+.texto-principal {
+  text-align: justify;
+  color: black;
+  font-size: 18px;
+}
+
+#section-three {
+  padding-top: 30px;
+  text-align: center;
+}
+.espBotao {
+  margin: 15px;
+  background-color: #015776;
+  border-color: #015776;
+  color: white;
+  
+}
+.saibaMais {
+  padding-top: 10px;
+  color: #015776;
+
+  
+}
+#subtituloS3 {
+  color: #644d15;
+}
