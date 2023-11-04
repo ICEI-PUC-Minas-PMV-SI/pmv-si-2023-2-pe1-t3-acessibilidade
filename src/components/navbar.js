@@ -2,7 +2,7 @@ const navbarComponent = `
 <header>
   <nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="/src/homepage/"><span class="one-colors">Mundo</span><span class="two-colors">Inclusivo</span>
+      <a class="navbar-brand" href="homePage.html"><span class="one-colors">Mundo</span><span class="two-colors">Inclusivo</span>
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -24,18 +24,9 @@ const navbarComponent = `
               <path d="M3 14m0 1a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v4a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1z">
               </path>
             </svg>
-            <a class="nav-link" href="#"><span id="nav-menu">Lista de locais</span></a>
+            <a class="nav-link" href="listaLocais.html"><span id="nav-menu">Lista de locais</span></a>
           </li>
-          <li class="nav-item  d-flex justify-items-center align-items-center" role="menuitem">
-            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24"
-              viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round"
-              stroke-linejoin="round">
-              <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-              <path d="M8 7a4 4 0 1 0 8 0a4 4 0 0 0 -8 0"></path>
-              <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2"></path>
-            </svg>
-            <a class="nav-link" href="#"><span id="nav-menu">Entrar/Cadastrar</span> </a>
-          </li>
+         
           <li class="nav-item d-flex justify-items-center align-items-center" role="menuitem">
             <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-map-minus" width="24"
               height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none"
@@ -48,6 +39,16 @@ const navbarComponent = `
             </svg>
             <a class="nav-link" href="#"><span id="nav-menu">Cadastrar local</span></a>
           </li>
+          <li class="nav-item  d-flex justify-items-center align-items-center" role="menuitem">
+          <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24"
+            viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round"
+            stroke-linejoin="round">
+            <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+            <path d="M8 7a4 4 0 1 0 8 0a4 4 0 0 0 -8 0"></path>
+            <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2"></path>
+          </svg>
+          <a class="nav-link" href="#"><span id="nav-menu">Entrar</span> </a>
+        </li>
           
           <li class="nav-item dropdown ">
               <a class="d-flex justify-items-center align-items-center nav-link dropdown-toggle text-black" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -64,8 +65,8 @@ const navbarComponent = `
               <ul class="dropdown-menu">
                 <li><a class="dropdown-item" href="#">Sobre a iniciativa</a></li>
                 <li><a class="dropdown-item" href="#">Sobre acessibilidade</a></li>
-                <li><a class="dropdown-item" href="tiposA11y.html">Tipos de acessibilidade</a></li>
-                <li><a class="dropdown-item" href="../como-funciona">Como funciona</a></li>
+                <li><a class="dropdown-item" href="tiposDeficiencia.html">Tipos de deficiência</a></li>
+                <li><a class="dropdown-item" href="#">Como funciona</a></li>
               </ul>
             </li>
           </ul>
