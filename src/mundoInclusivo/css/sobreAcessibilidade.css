@@ -1,0 +1,14 @@
+* {
+    font-family: "Roboto", sans-serif;
+  }
+  body{
+    background-color: #f4f4f4;
+  }
+  .tipoDef{
+    padding-top: 10px;
+  }
+  
+  .card-text{
+    margin-top: 30px;
+  
+  }
