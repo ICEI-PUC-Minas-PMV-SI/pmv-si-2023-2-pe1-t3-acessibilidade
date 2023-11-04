@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head id="head-imports">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Esse site visa auxiliar pessoas com deficiência a encontrar locais acessíveis por meio da colaboração,
+      permitidindo o cadastramento de estabelecimentos e suas respectivas informações referentes à acessibilidade. 
+      Isso facilitará a vida das pessoas com deficiência, diminuindo o estresse e o tempo de busca, 
+      além de incentivar os estabelecimentos a se tornarem mais inclusivos.">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/base_style.css">
+  <script src="components/base_imports.js"></script>
+  <link rel="shortcut icon" type="imagex/png" href="img/acessibilidade.ico">
+  <title>MundoInclusivo</title>
+  <link rel="stylesheet" href="css/tiposDef.css">
+</head>
+
+<body>
+  <section id="navbar-component">
+    <header>
+      <nav class="navbar navbar-expand-lg">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="homePage.html"><span class="one-colors">Mundo</span><span
+              class="two-colors">Inclusivo</span>
+          </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+            aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse w-100" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0 d-flex justify-content-around w-100">
+              <li class="nav-item  d-flex justify-items-center align-items-center " role="menuitem">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-list-details" width="24"
+                  height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none"
+                  stroke-linecap="round" stroke-linejoin="round">
+                  <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                  <path d="M13 5h8"></path>
+                  <path d="M13 9h5"></path>
+                  <path d="M13 15h8"></path>
+                  <path d="M13 19h5"></path>
+                  <path d="M3 4m0 1a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v4a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1z">
+                  </path>
+                  <path d="M3 14m0 1a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v4a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1z">
+                  </path>
+                </svg>
+                <a class="nav-link" href="listaLocais.html"><span id="nav-menu">Lista de locais</span></a>
+              </li>
+
+              <li class="nav-item d-flex justify-items-center align-items-center" role="menuitem">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-map-minus" width="24"
+                  height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none"
+                  stroke-linecap="round" stroke-linejoin="round">
+                  <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                  <path d="M12 18.5l-3 -1.5l-6 3v-13l6 -3l6 3l6 -3v11"></path>
+                  <path d="M9 4v13"></path>
+                  <path d="M15 7v8"></path>
+                  <path d="M16 19h6"></path>
+                </svg>
+                <a class="nav-link" href="#"><span id="nav-menu">Cadastrar local</span></a>
+              </li>
+              <li class="nav-item  d-flex justify-items-center align-items-center" role="menuitem">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24"
+                  viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round"
+                  stroke-linejoin="round">
+                  <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                  <path d="M8 7a4 4 0 1 0 8 0a4 4 0 0 0 -8 0"></path>
+                  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2"></path>
+                </svg>
+                <a class="nav-link" href="#"><span id="nav-menu">Entrar</span> </a>
+              </li>
+
+              <li class="nav-item dropdown ">
+                <a class="d-flex justify-items-center align-items-center nav-link dropdown-toggle text-black" href="#"
+                  role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="me-2 icon icon-tabler icon-tabler-info-circle"
+                    width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none"
+                    stroke-linecap="round" stroke-linejoin="round">
+                    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 0 0 -18 0"></path>
+                    <path d="M12 9h.01"></path>
+                    <path d="M11 12h1v4h1"></path>
+                  </svg>
+                  Informação
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="#">Sobre a iniciativa</a></li>
+                  <li><a class="dropdown-item" href="sobreAcessibilidade.html">Sobre acessibilidade</a></li>
+                  <li><a class="dropdown-item" href="tiposDeficiencia.html">Tipos de deficiência</a></li>
+                  <li><a class="dropdown-item" href="#">Como funciona</a></li>
+                </ul>
+              </li>
+            </ul>
+            <form class="d-flex" role="search">
+              <input class="form-control me-2" type="search" placeholder="Local" aria-label="Search">
+              <button class="btn btn-outline-primary" type="submit">Buscar</button>
+            </form>
+          </div>
+        </div>
+      </nav>
+    </header>
+  </section>
+
+  <main>
+    <section class="sobreAc">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <h1 class="text-md-center">Sobre acessibilidade</h1>
+            <p>A acessibilidade é um conceito fundamental para garantir que todas as pessoas, independentemente de suas
+              limitações físicas, sensoriais ou cognitivas, tenham igualdade de acesso a ambientes físicos e digitais.
+              Isso inclui a adaptação de espaços públicos, edifícios, transporte e infraestrutura para garantir que
+              todas as pessoas possam circular e utilizar esses espaços com segurança. Além disso, a acessibilidade se
+              estende ao ambiente digital, garantindo que sites, aplicativos e conteúdos online sejam acessíveis a todas
+              as pessoas.
+            </p>
+
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+    <div id="visual" class="container">
+      <div class="card mb-3">
+        <div class="row g-0">
+          <div class="col-md-4">
+            <img src="imgs/ac.jpg" class="img-fluid rounded-start" alt="...">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <p class="card-text">
+                Promover a acessibilidade não é apenas uma obrigação legal, mas também uma questão de inclusão social e
+                igualdade. Significa garantir que todas as pessoas possam circular, participar e criar conexões, uma vez
+                que o meio é adaptado para receber todos de maneira equiparada. É criar um espaço seguro e acolhedor,
+                não dando margem à exlcusão e ao preconceito. Dessa forme, dar acessibilidade é essencial para
+                conscientizar a sociedade sobre as necessidades das pessoas com deficiência e garantir que elas tenham
+                as mesmas oportunidades que todos os outros.
+              <p>
+                Para abordar essas questões, esta aplicação fornece informações detalhadas sobre a acessibilidade de
+                locais. Isso permite que empresas e estabelecimentos cadastrem informações sobre suas práticas de
+                acessibilidade e serviços para atender às necessidades das pessoas com deficiência. A plataforma inclui
+                um sistema de avaliação, permitindo que as pessoas forneçam feedbacks que contribuem para melhorias
+                contínuas na acessibilidade.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <p>
+            A acessibilidade não se limita apenas à adaptação de infraestrutura física, mas também envolve a criação
+            de ambientes digitais acessíveis, o que é fundamental na era da crescente digitalização. Garantir que
+            todos possam acessar informações online, utilizar aplicativos e interagir com conteúdo digital é essencial
+            para promover uma sociedade inclusiva.
+          </p>
+
+  </main>
+
+  <section id="footer-component">
+  </section>
+
+  <script src="components/navbar.js"></script>
+  <script src="components/footer.js"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+    integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+    integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+    crossorigin="anonymous"></script>
+
+  <footer class="py-3 my-4" id="rodape">
+    <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+      <li class="nav-item"><a href="homePage.html" class="nav-link px-2 text-muted">Home</a></li>
+      <li class="nav-item"><a href="listaLocais.html" class="nav-link px-2 text-muted"> Lista de locais</a></li>
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Cadastro</a></li>
+    </ul>
+    <p class="text-center text-muted "> © 2023 MundoInclusivo</p>
+  </footer>
+</body>
+
+</html>
