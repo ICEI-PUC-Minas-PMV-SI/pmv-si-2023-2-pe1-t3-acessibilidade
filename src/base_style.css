@@ -93,3 +93,36 @@ section {
 .h1-responsive{
   color: #644d15;
 }
+.rating {
+  display: inline-block;
+}
+
+.rating input {
+  display: none;
+}
+
+.rating label {
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+  background: url('avaliar/img/star-empty.png');
+  background-size: cover;
+  transition: background-image 0.3s;
+}
+
+.rating label.filled {
+  background-image: url('avaliar/img/star-filled.png');
+}
+
+.rating label:before {
+  content: '';
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 0;
+  opacity: 0;
+}
+
+.rating label:hover:before, .rating label:hover ~ label:before {
+  opacity: 1;
+}

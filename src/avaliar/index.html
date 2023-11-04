@@ -12,6 +12,25 @@
     <script src="../components/base_imports.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBkLndHuMv968iinF2ol4_B33JVIf7Gf6A&callback=console.debug&libraries=maps,marker&v=beta">
     </script>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        const stars = document.querySelectorAll('.rating label');
+
+        console.log(stars)
+
+        stars.forEach((star, index) => {
+          star.addEventListener('click', () => {
+            stars.forEach((s, i) => {
+              console.log(s.classList)
+              s.classList.remove('filled');  
+              if (i <= index) {
+                s.classList.add('filled');
+              }
+            });
+          });
+        });
+      });
+    </script>
   </head>
   <body style="min-height: 100vh; display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
     <section id="navbar-component">
@@ -36,6 +55,18 @@
                   Avalie
                 </h2>
                 <form id="avaliar">
+                  <div class="rating">
+                    <input type="radio" id="star5" name="rating" value="5">
+                    <label for="star5"></label>
+                    <input type="radio" id="star4" name="rating" value="4">
+                    <label for="star4"></label>
+                    <input type="radio" id="star3" name="rating" value="3">
+                    <label for="star3"></label>
+                    <input type="radio" id="star2" name="rating" value="2">
+                    <label for="star2"></label>
+                    <input type="radio" id="star1" name="rating" value="1">
+                    <label for="star1"></label>
+                  </div>
                   <div class="mb-3">
                     <label class="form-label" for="feedback">Escreva sua avaliação aqui:</label>
                     <textarea style="min-height: 150px;" class="form-control" id="feedback" type="text" placeholder="Digite sua opinião..." data-sb-validations="required">
