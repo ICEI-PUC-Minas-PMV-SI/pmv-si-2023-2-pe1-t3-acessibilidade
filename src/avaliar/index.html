@@ -10,21 +10,26 @@
     <title>MundoInclusivo</title>
     <link rel="stylesheet" href="../base_style.css">
     <script src="../components/base_imports.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBkLndHuMv968iinF2ol4_B33JVIf7Gf6A&callback=console.debug&libraries=maps,marker&v=beta">
+    </script>
   </head>
-  <body style="min-height: 100vh; display: flex; flex-direction: column; justify-content: space-between;">
+  <body style="min-height: 100vh; display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
     <section id="navbar-component">
     </section>
 
     <main class="sessao1">
       <section>
         <div class="container">
-          <div class="row">
+          <div class="row" style="position: relative; min-height: 700px;">
             <div class="col-sm-12 col-md-6">
               <img class="w-100" src="img/fallback.jpg" alt="Imagem do local" />
             </div>
-            <div class="col-sm-12 col-md-6">
-              <div class="container-fluid d-flex justify-content-center w-100">
-                localização do local (TODO)
+            <div class="col-sm-12 col-md-6" style="display: flex; flex-direction: column;">
+              <div class="container-fluid d-flex justify-content-center w-100 h-100">
+                <gmp-map center="40.12150192260742,-100.45039367675781" zoom="4" map-id="DEMO_MAP_ID">
+                  <gmp-advanced-marker position="40.12150192260742,-100.45039367675781" title="My location">
+                  </gmp-advanced-marker>
+                </gmp-map>
               </div>
               <div class="container-fluid d-flex flex-column justify-content-center h-100">
                 <h2 class="h1-responsive font-weight-bold w-100 mt-4 mb-2">
@@ -33,7 +38,7 @@
                 <form id="avaliar">
                   <div class="mb-3">
                     <label class="form-label" for="feedback">Escreva sua avaliação aqui:</label>
-                    <textarea style="min-height: 200px;" class="form-control" id="feedback" type="text" placeholder="Digite sua opinião..." data-sb-validations="required">
+                    <textarea style="min-height: 150px;" class="form-control" id="feedback" type="text" placeholder="Digite sua opinião..." data-sb-validations="required">
                     </textarea>
                   </div>
                   <div class="d-grid">

@@ -2,6 +2,10 @@
   font-family: "Roboto", sans-serif;
 }
 
+gmp-map {
+  height: 100%;
+}
+
 /* header*/
 header {
   background-color: #ffffff;
