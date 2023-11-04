@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Perfil . MundoInclusivo</title>
+  <link rel="stylesheet" href="css/perfil.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/base_style.css">
+  <script src="components/base_imports.js"></script>
+
+</head>
+
+<body>
+  <section id="navbar-component">
+  </section>
+
+
+  <main>
+    <div class="container">
+      <div class="left box-primary">
+        <img class="image"
+          src="img/user.png"
+          alt="" />
+        <h3 class="username text-center">Username</h3>
+        <a href="#" class="btn btn-primary btn-block"><b>Editar foto</b></a>
+      </div>
+      <div class="right tab-content">
+        <form class="form-horizontal">
+          <div class="form-group">
+            <label for="inputName" class="col-sm-2 control-label">Nome</label>
+
+            <div class="col-sm-10">
+              <input type="email" class="form-control" id="inputName" placeholder="Nome">
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="inputEmail" class="col-sm-2 control-label">Email</label>
+            <div class="col-sm-10">
+              <input type="email" class="form-control" id="inputEmail" placeholder="Email">
+            </div>
+          </div>
+          <div class="form-group">
+            <div class="col-sm-12 has-feedback">
+              <label for="" class="control-label">Modalidades que deseja participar</label>
+              <select title="Para escolher várias modalidades, segure a tecla Ctrl"
+                alt="Para escolher várias modalidades, segure a tecla Ctrl" name="modalidades[]" class="form-control"
+                multiple="">
+                <option value="1">Deficiência - Física</option>
+                <option value="2">Deficiência - Visual </option>
+                <option value="3">Deficiência - Auditiva </option>
+                <option value="4">Deficiência - Intelectual </option>
+                <option value="5">Deficiência - Múltipla</option>
+
+              </select>
+            </div>
+          </div>
+      </div>
+      <div class="form-group">
+        <div class="col-sm-offset-2 col-sm-10">
+          <button type="submit" class="btn btn-danger">Salvar alterações</button>
+        </div>
+      </div>
+      </form>
+    </div>
+    </div>
+  </main>
+
+
+
+
+
+
+  <section id="footer-component">
+  </section>
+
+  <script src="components/navbar.js"></script>
+  <script src="components/footer.js"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+    integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+    integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>
