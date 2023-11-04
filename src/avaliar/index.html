@@ -16,8 +16,6 @@
       document.addEventListener('DOMContentLoaded', function() {
         const stars = document.querySelectorAll('.rating label');
 
-        console.log(stars)
-
         stars.forEach((star, index) => {
           star.addEventListener('click', () => {
             stars.forEach((s, i) => {
@@ -41,7 +39,14 @@
         <div class="container">
           <div class="row" style="position: relative; min-height: 700px;">
             <div class="col-sm-12 col-md-6">
+              <h2 class="h1-responsive font-weight-bold w-100 mt-2 mb-4">
+                Título do local
+              </h2>
               <img class="w-100" src="img/fallback.jpg" alt="Imagem do local" />
+              <p class="subtitulo mt-4">Sobre este local</p>
+              <p class="texto-principal">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit at velit quis ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam condimentum, risus molestie fringilla semper, lorem ex malesuada dolor, et molestie quam tellus quis elit. Fusce non vestibulum risus. Nunc gravida lectus quis diam sodales mattis. Etiam convallis ante purus, eu commodo risus tincidunt a. Morbi pretium nisl dapibus ante commodo, nec tempor turpis facilisis. Sed ornare purus ut nulla ultrices tristique vel vel risus. Donec mattis lorem quis urna elementum, eu molestie dui tincidunt. Sed rhoncus elit id metus eleifend mattis. Suspendisse potenti. Aliquam mollis pharetra purus, sit amet viverra leo interdum dictum. In interdum diam nec tempus sollicitudin. Proin in hendrerit libero. Aliquam a justo nec urna molestie dignissim. Vestibulum non ex odio.
+              </p>
             </div>
             <div class="col-sm-12 col-md-6" style="display: flex; flex-direction: column;">
               <div class="container-fluid d-flex justify-content-center w-100 h-100">
@@ -50,7 +55,7 @@
                   </gmp-advanced-marker>
                 </gmp-map>
               </div>
-              <div class="container-fluid d-flex flex-column justify-content-center h-100">
+              <div class="container-fluid d-flex flex-column justify-content-center">
                 <h2 class="h1-responsive font-weight-bold w-100 mt-4 mb-2">
                   Avalie
                 </h2>

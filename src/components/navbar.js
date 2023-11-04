@@ -2,7 +2,7 @@ const navbarComponent = `
 <header>
   <nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="/"><span class="one-colors">Mundo</span><span class="two-colors">Inclusivo</span>
+      <a class="navbar-brand" href="/src/homepage/"><span class="one-colors">Mundo</span><span class="two-colors">Inclusivo</span>
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
