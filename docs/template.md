@@ -9,12 +9,11 @@ O template padrão do site se encontra-se na pasta src/homepage dentro dela tem 
 ## Design
 
 
-https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/113299281/7e8c2ce1-8414-479e-81bb-562b117e4368
+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/113299281/cbe94342-b54c-4fa8-9594-7a9595b58f69
 
 
 
 
-https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/113299281/66d8f706-32a7-45cf-988f-8579912e6d13
 
 
 
