@@ -24,7 +24,7 @@ As tonalidades mais escuras de azul fazem referência à confiança, credibilida
 
 ## Tipografia
 
-Foi empregada uma fonte apenas para o desenvolvimento do trabalho, e essa escolha foi feita com o objetivo de padronizar e tornar o design geral mais limpo. A fonte utilizada foi a Microsoft Yahei. Esta fonte foi utilizada para todos os componentes da página, e em alguns momentos foi utilizado o recurso Bold, principalmente para os títulos e rótulos.
+Foi empregada uma fonte apenas para o desenvolvimento do trabalho, e essa escolha foi feita com o objetivo de padronizar e tornar o design geral mais limpo. A fonte utilizada foi a "Roboto", sans-serif. Esta fonte foi utilizada para todos os componentes da página, e em alguns momentos foi utilizado o recurso Bold, principalmente para os títulos e rótulos.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/5e93731c-cb8f-4b02-95f1-ff9952a9fab0)
 
@@ -38,7 +38,11 @@ Como pode-se verificar, o Bold é um fator para destacar a fonte e a enfatizar, 
 
 
 
-Tratando-se da fonte utilizada, a Microsoft Yahei é uma tipografia com traços suaves e sem serifa(elemento presente no terminal de uma letra, que é basicamente o fim de uma letra) e por isso seu visual é bem simplificado. Introduzindo um pouco sobre a fonte, esta fonte foi desenvolvida por padrão para os usuários que usavam como idioma de interface o chinês simplificado e visava melhorar a legibilidade, sendo desenvolvida pela Founder Electronics e Monotype em 2004, e encarregada pela Microsoft. Esta fonte foi desenvolvida com 3 versões de espessura, respectivamente em ordem crescente: Light, Regular, Bold. Portanto é possível constatar que a versão Light é a mais fina, enquanto que a Regular é mediana e a Bold é a considerada mais grossa. Vale dizer que pela Microsoft Yahei ser uma fonte uniforme, a diferença de espessura não entre as suas versões mas sim entre os elementos da letra é muito pequena ou quase nula(a espessura relativa não entre os níveis de espessura mas sim entre os elementos da letra é praticamente nula). A proposta do nosso projeto é de caráter limpo ou minimalista, e objetivo, e as características simples e com poucos detalhes dessa tipografia se encaixam bem no projeto, desempenhando uma função de melhorar a acessibilidade do usuário e fornecer-lhe informação com objetividade. Fora isso, a grossura Bold foi um grande destaque para o projeto, e a função do uso da mesma ao projeto foi o de proporcionar uma experiência mais objetiva paraa os PcDs e lhes fornecer uma melhor visualização da composição da página e o que cada componente significa, evitando provocar uma confusão visual pelo uso de uma mesma espessura para todos os componentes da página.
+Tratando-se da fonte utilizada, a "Roboto", sans-serif é uma tipografia é uma fonte sans-serif geométrica, o que significa que suas letras são baseadas em formas geométricas simples. Isso a torna uma fonte fácil de ler em telas, pois não há detalhes finos que possam ser perdidos. A Roboto é uma fonte neutra, com um leve toque de modernidade. Ela é adequada para uma ampla gama de aplicações, incluindo design web, design de aplicativos e impressão. 
+
+Tem como características tipograficas: Corpo: A Roboto tem um corpo largo, o que a torna fácil de ler em telas, Espaçamento: As letras da Roboto são espaçadas de forma uniforme, o que facilita a identificação, Curvas: As curvas da Roboto são abertas e amigáveis, o que lhe confere uma aparência moderna e acessível e Altura x-height: A altura x-height da Roboto é alta, o que a torna uma fonte fácil de ler em telas.
+
+A proposta do nosso projeto é de caráter limpo ou minimalista, e objetivo, e as características simples e com poucos detalhes dessa tipografia se encaixam bem no projeto, desempenhando uma função de melhorar a acessibilidade do usuário e fornecer-lhe informação com objetividade. Fora isso, a grossura Bold foi um grande destaque para o projeto, e a função do uso da mesma ao projeto foi o de proporcionar uma experiência mais objetiva paraa os PcDs e lhes fornecer uma melhor visualização da composição da página e o que cada componente significa, evitando provocar uma confusão visual pelo uso de uma mesma espessura para todos os componentes da página.
 
 ## Iconografia
 
