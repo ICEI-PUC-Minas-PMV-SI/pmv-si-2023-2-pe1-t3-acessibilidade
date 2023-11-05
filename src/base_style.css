@@ -105,13 +105,13 @@ section {
   cursor: pointer;
   width: 20px;
   height: 20px;
-  background: url('avaliar/img/star-empty.png');
+  background: url('mundoInclusivo/img/star-empty.png');
   background-size: cover;
   transition: background-image 0.3s;
 }
 
 .rating label.filled {
-  background-image: url('avaliar/img/star-filled.png');
+  background-image: url('mundoInclusivo/img/star-filled.png');
 }
 
 .rating label:before {

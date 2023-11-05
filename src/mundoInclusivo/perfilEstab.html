@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
+<head id="head-imports">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Perfil . MundoInclusivo</title>
@@ -24,10 +24,9 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
-
-          <h3 class="username text-center">Título do Estabelecimento</h3>
-          <img class="image d-flex justify-content-center" src="img/user.png" alt="fotoUser">
+        <div class="col-md-12 d-flex flex-column align-items-center justify-content-center">
+          <h3 class="username text-center">Estabelecimento</h3>
+          <img class="d-flex align-items-center justify-content-center my-4" style="height: 100px; width: 100px;" src="img/user.png" alt="fotoUser">
           <div class="d-grid gap-2 col-4 mx-auto">
             <a class="btn btn-primary" href="#" role="button"><b>Editar foto</b></a>
           </div>
@@ -50,11 +49,11 @@
             <input type="password" class="form-control" id="inputPassword4" placeholder="Nova Senha">
           </div>
 
-          <div class="col-8">
+          <div class="col-md-8">
             <label for="inputAddress" class="form-label">Endereço</label>
             <input type="text" class="form-control" id="inputAddress" placeholder="Rua tal 27">
           </div>
-          <div class="col-4">
+          <div class="col-md-4">
             <label for="inputAddress2" class="form-label">Complemento</label>
             <input type="text" class="form-control" id="inputAddress2" placeholder="sala, andar...">
           </div>
@@ -71,7 +70,7 @@
 
           <div class="col-md-12">
             <label for="info" class="form-label">Sobre este local:</label> <br>
-            <textarea id="info" name="info" rows="10" cols="100"
+            <textarea id="info" name="info" class="w-100"
               placeholder="Adicione informações sobre o local e a acessibilidade..."></textarea>
           </div>
           <div class="form-group">
