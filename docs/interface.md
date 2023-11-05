@@ -34,15 +34,11 @@ Todas as wireframes contêm, na parte superior à direita, uma funcionalidade de
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A home é composta por uma navigation bar na parte superior com acesso às principais funcionalidades do site, além de uma barra de navegação também na parte superior. Na parte central encontra-se conteúdo informativo quanto a acessibilidade e ao propósito da aplicação. 
+![Captura de tela 2023-11-04 222034](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/113299281/1c042629-8ad0-4b4b-8961-c09661092b27)
 
-![home1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/a2f972f3-f1de-4ea7-948d-0b47fa94c26e)
+![Captura de tela 2023-11-04 222114](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/113299281/76bfd9c5-294c-4714-b620-2eee20341be6)
 
-![home2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/d1db067b-c72d-4e83-a1a9-4509544d6154)
-
-![home3](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/fcb90222-8bca-4735-870f-60fa1a9c2b2d)
-
-![home4](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141170035/bb465911-bc00-4b38-997f-2a6b9a1d9fdc)
-
+![Captura de tela 2023-11-04 222135](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/113299281/9a9bf1cd-518d-4605-8747-477315ebf21e)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
