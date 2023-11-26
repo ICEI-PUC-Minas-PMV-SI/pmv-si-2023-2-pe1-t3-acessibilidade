@@ -63,7 +63,7 @@ window.readByEvent = readByEvent
 window.activateReader = activateReader
 
 const availableReaderComponent = `
-  <div style="position: fixed; top: 10px; left: 10px; z-index: 1000">
+  <div style="position: fixed; top: 90px; right: 10px; z-index: 1000">
     <p id="activeReader" style="display: none">${ACTIVE_MESSAGE}</p>
     <button id="readerButton" class="btn btn-primary" onclick="window.readBySelector('p#activeReader') && window.activateReader()">
       <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="black" class="bi bi-megaphone-fill" viewBox="0 0 16 16">
