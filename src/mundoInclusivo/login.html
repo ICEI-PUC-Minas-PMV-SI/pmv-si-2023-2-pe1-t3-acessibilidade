@@ -24,6 +24,8 @@
 
   <section id="navbar-component"></section>
   <script src="components/leitor-de-tela.js"></script>
+  <script src="components/local-storage.js"></script>
+  <script src="components/base.js"></script>
 
   <section class="
     container
@@ -38,13 +40,13 @@
     <div id="estab" class="form login">
       <div class="form-content">
         <header class="header-form"> Estabelecimento</header>
-        <form action="#">
+        <form action="#" id="estabLoginForm">
           <div class="field input-field">
             <input type="email" placeholder="Email" class="input" id="estabEmail">
           </div>
 
           <div class="field input-field">
-            <input type="password" placeholder="Senha" class="password" id="estabEmail">
+            <input type="password" placeholder="Senha" class="password" id="estabPass">
             <i class='bx bxs-hide eye-icon'></i>
           </div>
 
@@ -53,16 +55,14 @@
           </div>
 
           <div class="field button-field">
-            <input class="btn btn-primary" type="submit" value="Entrar">
+            <button class="btn btn-primary" type="submit">Entrar</button>
           </div>
-
-          <!-- Button modal estab -->
-          <button type="button" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#modalEstab">
-            Ainda não tem uma conta? Cadastre-se
-          </button>
-
-          <!-- Modal -->
-          <div class="modal fade" id="modalEstab" tabindex="-1" aria-labelledby="modalEstab" aria-hidden="true">
+        </form>
+         <button type="button" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#estabFormSigninModal">
+          Ainda não tem uma conta? Cadastre-se
+        </button>
+        <!-- Modal -->
+          <div class="modal fade" id="estabFormSigninModal" tabindex="-1" aria-labelledby="estabFormSigninModal" aria-hidden="true">
             <div class="modal-dialog">
               <div class="modal-content">
                 <div class="modal-header">
@@ -155,8 +155,6 @@
               </div>
             </div>
           </div>
-
-        </form>
       </div>
     </div>
     <!--Estabelecimento -->
