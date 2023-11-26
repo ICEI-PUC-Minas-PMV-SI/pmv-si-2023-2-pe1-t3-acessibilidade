@@ -1,10 +1,10 @@
 /*Main section-one*/
 body {
   font-family: "Roboto", sans-serif;
-  background-color: #f4f4f4;
+  background-color:white;
 }
 #section-one {
-  padding-top: 80px;
+  padding-top: 20px;
 }
 h1 {
   color: #015776;
@@ -42,23 +42,11 @@ h1 {
   font-size: 18px;
 }
 
-#section-three {
-  padding-top: 30px;
-  text-align: center;
-}
-.espBotao {
-  margin: 15px;
-  background-color: #015776;
-  border-color: #015776;
-  color: white;
-  
-}
-.saibaMais {
-  padding-top: 10px;
-  color: #015776;
+
+
 
   
-}
+
 #subtituloS3 {
   color: #644d15;
 }

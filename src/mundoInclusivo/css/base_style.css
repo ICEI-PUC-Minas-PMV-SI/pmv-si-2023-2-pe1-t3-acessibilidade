@@ -1,12 +1,12 @@
 
 body{
   font-family: "Roboto", sans-serif;
-  background-color: #f4f4f4;
+  background-color:white;
 }
 
 /* header*/
 nav{
-  background-color:white;
+  background-color:#f4f4f4;
 }
 .one-colors {
   color: #015776;

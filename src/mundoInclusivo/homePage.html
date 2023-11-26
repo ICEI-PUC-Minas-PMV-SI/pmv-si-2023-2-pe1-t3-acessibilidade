@@ -14,76 +14,16 @@
   <link rel="stylesheet" href="css/base_style.css">
   <link rel="stylesheet" href="css/home.css">
   <link rel="shortcut icon" type="imagex/png" href="img/acessibilidade.ico">
+  <script src="components/base_imports.js"></script>
   <title>MundoInclusivo</title>
 </head>
 
 <body>
-  <header>
-
-    <nav class="navbar navbar-expand-lg fixed-top  ">
-      <div class="container-fluid">
-        <a class="navbar-brand" href="homePage.html"><span class="one-colors">Mundo</span><span
-            class="two-colors">Inclusivo</span>
-        </a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
-          aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse w-100" id="navbarSupportedContent">
-          <ul class="navbar-nav me-auto mb-2 mb-lg-0 d-flex justify-content-around w-100">
-            <li class="nav-item  d-flex justify-items-center align-items-center " role="menuitem">
-              <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-list-details" width="24"
-                height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none"
-                stroke-linecap="round" stroke-linejoin="round">
-                <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-                <path d="M13 5h8"></path>
-                <path d="M13 9h5"></path>
-                <path d="M13 15h8"></path>
-                <path d="M13 19h5"></path>
-                <path d="M3 4m0 1a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v4a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1z">
-                </path>
-                <path d="M3 14m0 1a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v4a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1z">
-                </path>
-              </svg>
-              <a class="nav-link" href="listaLocais.html"><span id="nav-menu">Lista de locais</span></a>
-            </li>
-
-            <li class="nav-item d-flex justify-items-center align-items-center" role="menuitem">
-              <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-map-minus" width="24"
-                height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none"
-                stroke-linecap="round" stroke-linejoin="round">
-                <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-                <path d="M12 18.5l-3 -1.5l-6 3v-13l6 -3l6 3l6 -3v11"></path>
-                <path d="M9 4v13"></path>
-                <path d="M15 7v8"></path>
-                <path d="M16 19h6"></path>
-              </svg>
-              <a class="nav-link" href="#"><span id="nav-menu">Cadastrar local</span></a>
-            </li>
-
-            <li class="nav-item  d-flex justify-items-center align-items-center" role="menuitem">
-              <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24"
-                viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round"
-                stroke-linejoin="round">
-                <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-                <path d="M8 7a4 4 0 1 0 8 0a4 4 0 0 0 -8 0"></path>
-                <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2"></path>
-              </svg>
-              <a class="nav-link" href="perfil.html"><span id="nav-menu">Entrar</span> </a>
-            </li>
-
-          </ul>
-          <form class="d-flex" role="search">
-            <input class="form-control me-2" type="search" placeholder="Buscar..." aria-label="Search">
-            <button class="btn btn-outline-primary" type="submit">Buscar</button>
-          </form>
-        </div>
-      </div>
-    </nav>
-  </header>
+  <section id="navbar-component"> </section>
 
   <main>
-
+    <script src="components/leitor-de-tela.js"></script>
+    
     <section id="section-one">
       <div class="container">
         <div class="row">
@@ -148,43 +88,19 @@
       </div>
 
     </section>
-    <hr>
-    <section id="section-three">
-      <div class="container">
-        <div class="row">
-          <div class="col-12 ">
-            <h3 class="saibaMais">Saiba mais!</h3>
-            <p id="subtituloS3">Aqui, você pode encontrar informações adicionais sobre o nosso site e aprender mais
-              sobre acessibilidade e inclusão.</p>
-          </div>
-          <div class="saibaMais flex-md-row flex-sm-column ">
-            <a class="btn  espBotao col-sm-12" href="#" role="button">Iniciativa</a>
-            <a class="btn  espBotao col-sm-12" href="#" role="button">Acessibilidade</a>
-            <a class="btn  espBotao col-sm-12" href="tiposDeficiencia.html" role="button">Tipos de deficiência</a>
-            <a class="btn  espBotao col-sm-12" href="#" role="button">Como funciona</a>
-          </div>
-        </div>
-      </div>
-    </section>
-
   </main>
 
-  <footer class="py-3 my-4" id="rodape">
-    <ul class="nav justify-content-center border-bottom pb-3 mb-3">
-      <li class="nav-item"><a href="homePage.html" class="nav-link px-2 text-muted">Home</a></li>
-      <li class="nav-item"><a href="listaLocais.html" class="nav-link px-2 text-muted"> Lista de locais</a></li>
-      <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Cadastro</a></li>
-  
-    </ul>
-    <p class="text-center text-muted "> © 2023 MundoInclusivo</p>
-  </footer>
+  <section id="footer-component"></section>
+
+  <script src="components/navbar.js"></script>
+  <script src="components/footer.js"></script>
 
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
-    integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
-    crossorigin="anonymous"></script>
+    integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous">
+    </script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
-    integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
-    crossorigin="anonymous"></script>
+    integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous">
+    </script>
 </body>
 
 </html>
