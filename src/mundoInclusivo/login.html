@@ -42,11 +42,11 @@
         <header class="header-form"> Estabelecimento</header>
         <form action="#" id="estabLoginForm">
           <div class="field input-field">
-            <input type="email" placeholder="Email" class="input" id="estabEmail">
+            <input type="email" placeholder="Email" class="input" id="email">
           </div>
 
           <div class="field input-field">
-            <input type="password" placeholder="Senha" class="password" id="estabPass">
+            <input type="password" placeholder="Senha" class="password" id="pass">
             <i class='bx bxs-hide eye-icon'></i>
           </div>
 
@@ -163,14 +163,13 @@
     <div id="user" class="form login">
       <div class="form-content">
         <header class="header-form"> Cliente</header>
-        <form action="#">
+        <form action="#" id="userFormLogin">
           <div class="field input-field">
-
-            <input for="loginUsername" type="email" placeholder="Email" class="input" id="loginUsername">
+            <input for="loginUsername" type="email" placeholder="Email" class="input" id="email">
           </div>
 
           <div class="field input-field">
-            <input  for="loginPasswd" type="password" placeholder="Senha" class="password" id="loginPasswd">
+            <input  for="loginPasswd" type="password" placeholder="Senha" class="password" id="pass">
             <i class='bx bxs-hide eye-icon'></i>
           </div>
 
@@ -179,102 +178,101 @@
           </div>
 
           <div class="field button-field">
-            <input id="loginBtn" class="btn btn-primary" type="submit" value="Entrar">
+            <button id="loginBtn" class="btn btn-primary" type="submit">Entrar</button>
           </div>
+        </form>
+        <!-- Button  modal user -->
+        <button type="button" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#modalUser">
+          Ainda não tem uma conta? Cadastre-se
+        </button>
 
-          <!-- Button  modal user -->
-          <button type="button" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#modalUser">
-            Ainda não tem uma conta? Cadastre-se
-          </button>
+        <!-- Modal User -->
+        <div class="modal fade" id="modalUser" tabindex="-1" aria-labelledby="modalUser" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h1 class="modal-title fs-5" id="userEstab">Novo usuário</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
 
-          <!-- Modal User -->
-          <div class="modal fade" id="modalUser" tabindex="-1" aria-labelledby="modalUser" aria-hidden="true">
-            <div class="modal-dialog">
-              <div class="modal-content">
-                <div class="modal-header">
-                  <h1 class="modal-title fs-5" id="userEstab">Novo usuário</h1>
-                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
+              <div class="modal-body">
+                <form id="login-form" class="form" method="post" onsubmit="loginUser (this)">
+                  <h3 class="text-center text-black">Cliente</h3>
+                  <div class="form-group">
+                    <label for="nomeUser" class="text-black">Nome completo</label><br>
+                    <input type="text" name="txt_nomeUser" id="txt_nomeUser" class="form-control">
+                  </div>
 
-                <div class="modal-body">
-                  <form id="login-form" class="form" method="post" onsubmit="loginUser (this)">
-                    <h3 class="text-center text-black">Cliente</h3>
-                    <div class="form-group">
-                      <label for="nomeUser" class="text-black">Nome completo</label><br>
-                      <input type="text" name="txt_nomeUser" id="txt_nomeUser" class="form-control">
+                  <div class="form-group">
+                    <label for="emailUSer" class="text-black">email</label><br>
+                    <input type="text" name="txt_emailUSer" id="txt_emailUser" class="form-control">
+                  </div>
+                  <div class="form-group">
+                    <label for="inputAddressUser" class="form-label">Endereço</label>
+                    <input type="text" class="form-control" id="inputAddressUser">
+                  </div>
+                  <div class="form-group">
+                    <label for="txtTelefoneUser" class="form-label">Telefone</label>
+                    <input type="text" name="telefone" class="form-control" id="txtTelefoneUser"
+                      placeholder="Formato (xx) xxxx-xxxx" />
+                  </div>
+                  <div class="form-group">
+                    <label for="senhaUser" class="text-black">Senha</label><br>
+                    <input type="password" name="txt_senhaUser" id="txt_senhaUser" class="form-control">
+                  </div>
+                  <div class="form-group">
+                    <label for="senha2User" class="text-black">Confirmação de Senha</label><br>
+                    <input type="password" name="txt_senha2User" id="txt_senha2User" class="form-control">
+                  </div> <br>
+                  <div class="form-group">
+
+                    <label class="form-label"> Qual é sua deficiência(s)?</label>
+                    <div class="form-check">
+                      <input class="form-check-input" type="checkbox" id="dUserFisica">
+                      <label class="form-check-label" for="dUserFisica">
+                        Deficiência - Física
+                      </label>
                     </div>
+                    <div class="form-check">
+                      <input class="form-check-input" type="checkbox" id="dUserVisual">
+                      <label class="form-check-label" for="dUserVisual">
+                        Deficiência - Visual
+                      </label>
+                    </div>
+                    <div class="form-check">
+                      <input class="form-check-input" type="checkbox" id="dUserAuditiva">
+                      <label class="form-check-label" for="dUserAuditiva">
+                        Deficiência - Auditiva
+                      </label>
+                    </div>
+                    <div class="form-check">
+                      <input class="form-check-input" type="checkbox" id="dUserIntelectual">
+                      <label class="form-check-label" for="dUserIntelectual">
+                        Deficiência - Intelectual
+                      </label>
+                    </div>
+                    <div class="form-check">
+                      <input class="form-check-input" type="checkbox" id="dUserMultipla">
+                      <label class="form-check-label" for="dUserMultipla">
+                        Deficiência - Múltipla
+                      </label>
+                    </div>
+                  </div> <br>
+                  <div class="form-group">
+                    <label for="file" class="text-black">Foto de Perfil</label> <br>
 
-                    <div class="form-group">
-                      <label for="emailUSer" class="text-black">email</label><br>
-                      <input type="text" name="txt_emailUSer" id="txt_emailUser" class="form-control">
-                    </div>
-                    <div class="form-group">
-                      <label for="inputAddressUser" class="form-label">Endereço</label>
-                      <input type="text" class="form-control" id="inputAddressUser">
-                    </div>
-                    <div class="form-group">
-                      <label for="txtTelefoneUser" class="form-label">Telefone</label>
-                      <input type="text" name="telefone" class="form-control" id="txtTelefoneUser"
-                        placeholder="Formato (xx) xxxx-xxxx" />
-                    </div>
-                    <div class="form-group">
-                      <label for="senhaUser" class="text-black">Senha</label><br>
-                      <input type="password" name="txt_senhaUser" id="txt_senhaUser" class="form-control">
-                    </div>
-                    <div class="form-group">
-                      <label for="senha2User" class="text-black">Confirmação de Senha</label><br>
-                      <input type="password" name="txt_senha2User" id="txt_senha2User" class="form-control">
-                    </div> <br>
-                    <div class="form-group">
+                    <input type="file" class="form-control" id="inputFotoPerfil">
+                  </div>
 
-                      <label class="form-label"> Qual é sua deficiência(s)?</label>
-                      <div class="form-check">
-                        <input class="form-check-input" type="checkbox" id="dUserFisica">
-                        <label class="form-check-label" for="dUserFisica">
-                          Deficiência - Física
-                        </label>
-                      </div>
-                      <div class="form-check">
-                        <input class="form-check-input" type="checkbox" id="dUserVisual">
-                        <label class="form-check-label" for="dUserVisual">
-                          Deficiência - Visual
-                        </label>
-                      </div>
-                      <div class="form-check">
-                        <input class="form-check-input" type="checkbox" id="dUserAuditiva">
-                        <label class="form-check-label" for="dUserAuditiva">
-                          Deficiência - Auditiva
-                        </label>
-                      </div>
-                      <div class="form-check">
-                        <input class="form-check-input" type="checkbox" id="dUserIntelectual">
-                        <label class="form-check-label" for="dUserIntelectual">
-                          Deficiência - Intelectual
-                        </label>
-                      </div>
-                      <div class="form-check">
-                        <input class="form-check-input" type="checkbox" id="dUserMultipla">
-                        <label class="form-check-label" for="dUserMultipla">
-                          Deficiência - Múltipla
-                        </label>
-                      </div>
-                    </div> <br>
-                    <div class="form-group">
-                      <label for="file" class="text-black">Foto de Perfil</label> <br>
-
-                      <input type="file" class="form-control" id="inputFotoPerfil">
-                    </div>
-
-                  </form>
-                </div>
-                <div class="modal-footer">
-                  <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
-                  <button type="button" id="btn_salvarUser" class="btn btn-info">Salvar</button>
-                </div>
+                </form>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                <button type="button" id="btn_salvarUser" class="btn btn-info">Salvar</button>
               </div>
             </div>
           </div>
-        </form>
+        </div>
       </div>
     </div>
     <!--User -->
