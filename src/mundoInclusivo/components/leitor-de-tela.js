@@ -84,7 +84,7 @@ const initializeReader = () => {
   }
 }
 
-window.onload = function() {
+window.initializeReader = function() {
   initializeReader();
   window.speechSynthesis.onvoiceschanged = () => {
     initializeReader()
