@@ -99,17 +99,17 @@ const getSessionUser = () => {
 }
 
 window.onload = function() {
-  window.saveStores = saveStores
-  window.getStores = getStores
+  window.saveStores = saveStores // Adiciona novo estabelecimento
+  window.getStores = getStores // Carrega todos os estabelecimentos
 
-  window.loginStore = loginStore
-  window.getSessionStore = getSessionStore
+  window.loginStore = loginStore // Altera estabelecimento logado
+  window.getSessionStore = getSessionStore // Puxa estabelecimento logado
 
-  window.saveUsers = saveUsers
-  window.getUsers = getUsers
+  window.saveUsers = saveUsers // Adiciona usuário
+  window.getUsers = getUsers // Carrega todos os usuários
 
-  window.loginUser = loginUser
-  window.getSessionUser = getSessionUser
+  window.loginUser = loginUser // Altera usuário logado
+  window.getSessionUser = getSessionUser // Mostra usuário logado atual
 
   window.saveStores({})
   window.saveUsers({})

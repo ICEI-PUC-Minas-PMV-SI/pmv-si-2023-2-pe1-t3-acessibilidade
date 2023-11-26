@@ -139,6 +139,6 @@ const filUserFields = () => {
   return element
 }
 
-window.setLogins = setLogins
-window.fillEstabFields = fillEstabFields
-window.filUserFields = filUserFields
+window.setLogins = setLogins // Comunica formulários com o login
+window.fillEstabFields = fillEstabFields // Pre-preenche formulario com o login estabelecimento (edição)
+window.filUserFields = filUserFields // Pre-preencher formulario de login usuario (edição)
