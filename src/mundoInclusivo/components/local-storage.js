@@ -12,7 +12,8 @@ const BASE_STORES = [{
   "Telefone": "21996903276",
   "Senha": "12345678",
   "Tipos de deficiência": [],
-  "Foto": ''
+  "Foto": '',
+  "Sobre": "lorem ipsum"
 }]
 
 const BASE_USERS = [{

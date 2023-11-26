@@ -20,6 +20,7 @@ const SINGIN_INPUT_KEYS = {
   image: "Fotos",
   confirm: "Confirmar senha",
   userName: "Nome completo",
+  about: "Sobre",
   ...LOGIN_INPUT_KEYS
 }
 
@@ -108,4 +109,20 @@ const setLogins = () => {
   })
 }
 
+const fillEstabFields = () => {
+  let element = getEstabSigninModal();
+  let data = window.getSessionStore();
+
+  let inputs = element.querySelectorAll('input')
+ 
+  for (const input of inputs) {
+    let key = SINGIN_INPUT_KEYS[input.id];
+    let value = data[key];
+    input.setAttribute('value', value)
+  }
+
+  return element
+}
+
 window.setLogins = setLogins
+window.fillEstabFields = fillEstabFields
