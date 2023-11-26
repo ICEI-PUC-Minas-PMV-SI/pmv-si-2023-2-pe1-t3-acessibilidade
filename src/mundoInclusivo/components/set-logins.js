@@ -124,5 +124,21 @@ const fillEstabFields = () => {
   return element
 }
 
+const filUserFields = () => {
+  let element = getUserSigninModal();
+  let data = window.getSessionUser();
+
+  let inputs = element.querySelectorAll('input')
+ 
+  for (const input of inputs) {
+    let key = SINGIN_INPUT_KEYS[input.id];
+    let value = data[key];
+    input.setAttribute('value', value)
+  }
+
+  return element
+}
+
 window.setLogins = setLogins
 window.fillEstabFields = fillEstabFields
+window.filUserFields = filUserFields

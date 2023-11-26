@@ -93,6 +93,11 @@ const saveUsers = (user) => {
   return user
 }
 
+const getSessionUser = () => {
+  let parsedStore = getStoreItem(USER_SESSION_KEY)
+  return parsedStore
+}
+
 window.onload = function() {
   window.saveStores = saveStores
   window.getStores = getStores
@@ -104,6 +109,7 @@ window.onload = function() {
   window.getUsers = getUsers
 
   window.loginUser = loginUser
+  window.getSessionUser = getSessionUser
 
   window.saveStores({})
   window.saveUsers({})
