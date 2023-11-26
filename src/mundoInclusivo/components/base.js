@@ -1,7 +1,7 @@
 const getEstabLoginForm = () => document.getElementById('estabLoginForm');
 const getEstabSigninModal = () => document.getElementById('estabFormSigninModal');
 const getUserLoginForm = () => document.getElementById('userFormLogin');
-const getUserSigninModal = () => document.getElementById('estabFormSigninModal');
+const getUserSigninModal = () => document.getElementById('userSigninForm');
 
 const emailRegex = /^[a-z0-9.]+@[a-z0-9]+\.[a-z]+\.([a-z]+)?$/i;
 
@@ -10,17 +10,29 @@ const LOGIN_INPUT_KEYS = {
   pass: "Senha"
 }
 
-const setLoginData = (ev) => {
+const SINGIN_INPUT_KEYS = {
+  nameEstab: "Nome do Proprietário",
+  razSoc: "Razão Social",
+  cnpj: "CNPJ",
+  address: "Endereço",
+  telefone: "Telefone",
+  defs: "Tipos de deficiência",
+  image: "Fotos",
+  confirm: "Confirmar senha",
+  userName: "Nome completo",
+  ...LOGIN_INPUT_KEYS
+}
+
+const setData = (ev, mapper = {}) => {
   ev.preventDefault();
 
   let currentForm = ev.target;
-  console.log
   let inputs = currentForm.querySelectorAll('input')
 
   let currentLogin = {}
   
   for (const input of inputs) {
-    let key = LOGIN_INPUT_KEYS[input.id]
+    let key = mapper[input.id]
     currentLogin[key] = input.value
   }
 
@@ -44,53 +56,54 @@ const verifyLogin = (base, loginData, callback) => {;
   }
 }
 
+const registerSessionRecord = (loginData, callback) => {;
+  let loginPassowrdKey = SINGIN_INPUT_KEYS['pass']
+  let confirmPassKey = SINGIN_INPUT_KEYS['confirm']
+
+  let isSamePassword = loginData[loginPassowrdKey] === loginData[confirmPassKey]
+
+  if(isSamePassword) {
+    callback(loginData)
+  }
+}
+
 document.addEventListener("DOMContentLoaded", () => {
   let estabLoginForm = getEstabLoginForm();
   let estabSigninFormModal = getEstabSigninModal();
   let userLoginForm = getUserLoginForm();
+  let userSinginForm = getUserSigninModal()
 
   estabLoginForm.addEventListener('submit', ev => {
-    let currentLogin = setLoginData(ev)
+    let currentLogin = setData(ev, LOGIN_INPUT_KEYS)
     let currentStores = window.getStores();
 
     verifyLogin(currentStores, currentLogin, window.loginStore)
   })
 
   userLoginForm.addEventListener('submit', ev => {
-    let currentLogin = setLoginData(ev)
+    let currentLogin = setData(ev, LOGIN_INPUT_KEYS)
     let currentUsers = window.getUsers();
 
     verifyLogin(currentUsers, currentLogin, window.loginUser)
   })
 
   estabSigninFormModal.addEventListener('submit',ev=>{
-      ev.preventDefault();
+    let currentLogin = setData(ev, SINGIN_INPUT_KEYS)
 
-      const modalData = new FormData(estabFormModal);
+    registerSessionRecord(currentLogin, window.saveStores)
+    
+    let currentStores = window.getStores();
 
-      const gaps = estabFormModal.getElementsByClassName('form-control');
-
-      const modalObj = {
-          "Nome do Proprietário":gaps[0].value,
-          "Razão Social":gaps[1].value,
-          "CNPJ":gaps[2].value,
-          "Email Estabelecimento":gaps[3].value,
-          "Endereço":gaps[4].value,
-          "Telefone":gaps[5].value,
-          "Senha":gaps[6].value,
-          "Confirmar senha":gaps[7].value
-      }
-      
-      Object.keys(modalObj).forEach((str,index)=>{
-        if(str === "Senha" || str === "Confirmar senha" ){
-          localStorage.setItem(str,modalObj[str]);
-          localStorage.getItem(str);
-        }
-        else{
-          localStorage.setItem(str,JSON.stringify(modalObj[str]));
-          localStorage.getItem(str);
-        }
-      })
+    verifyLogin(currentStores, currentLogin, window.loginStore)
   })
 
+  userSinginForm.addEventListener('submit',ev=>{
+    let currentLogin = setData(ev, SINGIN_INPUT_KEYS)
+
+    registerSessionRecord(currentLogin, window.saveUsers)
+    
+    let currentUsers = window.getUsers();
+
+    verifyLogin(currentUsers, currentLogin, window.loginUser)
+  })
 });

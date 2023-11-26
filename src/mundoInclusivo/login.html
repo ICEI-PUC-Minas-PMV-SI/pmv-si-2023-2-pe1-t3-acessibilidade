@@ -70,45 +70,44 @@
                   <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                  <form id="login-form-estab" class="form" method="post" onsubmit="loginEstab (this)">
+                  <form id="estabFormSigninModal" class="form" method="post">
                     <h3 class="text-center text-black">Cadastre o seu Estabelecimento</h3>
                     <div class="form-group">
                       <label for="nomeDonoEstab" class="text-black">Nome do proprietário</label><br>
-                      <input type="text" name="txt_nomeDonoEstab" id="txt_nomeDonoEstab" class="form-control">
+                      <input type="text" name="nameEstab" id="nameEstab" class="form-control">
                     </div>
                     <div class="form-group">
                       <label for="razaoSocial" class="text-black">Razão social</label><br>
-                      <input type="text" name="txt_razaoSocial" id="txt_razaoSocial" class="form-control">
+                      <input type="text" name="razSoc" id="razSoc" class="form-control">
                     </div>
 
                     <div class="form-group">
                       <label for="cnpj" class="text-black">CNPJ</label><br>
-                      <input type="text" name="txt_nome" id="txt_cnpj" class="form-control">
+                      <input type="text" name="cnpj" id="cnpj" class="form-control">
                     </div>
 
                     <div class="form-group">
                       <label for="emailEstab" class="text-black">email</label><br>
-                      <input type="text" name="txt_emailEstab" id="txt_emailEstab" class="form-control">
+                      <input type="text" name="email" id="email" class="form-control">
                     </div>
                     <div class="form-group">
-                      <label for="inputAddressEstab" class="form-label">Endereço</label>
-                      <input type="text" class="form-control" id="inputAddressEstab">
+                      <label for="address" class="form-label">Endereço</label>
+                      <input type="text" class="form-control" id="address">
                     </div>
                     <div class="form-group">
-                      <label for="txtTelefoneEstab" class="form-label">Telefone</label>
-                      <input type="text" name="telefone" class="form-control" id="txtTelefoneEstab"
+                      <label for="telefone" class="form-label">Telefone</label>
+                      <input type="text" name="telefone" class="form-control" id="telefone"
                         placeholder="Formato (xx) xxxx-xxxx" />
                     </div>
                     <div class="form-group">
                       <label for="senhaEstab" class="text-black">Senha</label><br>
-                      <input type="password" name="txt_senhaEstab" id="txt_senhaEstab" class="form-control">
+                      <input type="password" name="pass" id="pass" class="form-control">
                     </div>
                     <div class="form-group">
                       <label for="senha2Estab" class="text-black">Confirmação de Senha</label><br>
-                      <input type="password" name="txt_senha2Estab" id="txt_senha2Estab" class="form-control">
+                      <input type="password" name="confirm" id="confirm" class="form-control">
                     </div> <br>
                     <div class="form-group">
-
                       <label class="form-label"> Quais deficiências são atendidas?</label>
                       <div class="form-check">
                         <input class="form-check-input" type="checkbox" id="dFisica">
@@ -143,14 +142,13 @@
                     </div> <br>
                     <div class="form-group">
                       <label for="file" class="text-black">Fotos do Estabelecimento</label> <br>
-
                       <input type="file" class="form-control" id="inputGroupFile01" multiple="multiple">
                     </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                      <button id="btn_salvarEStab" type="submit" class="btn btn-info">Salvar</button>
+                    </div>
                   </form>
-                </div>
-                <div class="modal-footer">
-                  <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
-                  <button type="button" id="btn_salvarEStab" class="btn btn-info">Salvar</button>
                 </div>
               </div>
             </div>
@@ -196,33 +194,33 @@
               </div>
 
               <div class="modal-body">
-                <form id="login-form" class="form" method="post" onsubmit="loginUser (this)">
+                <form id="userSigninForm" class="form" method="post" onsubmit="loginUser (this)">
                   <h3 class="text-center text-black">Cliente</h3>
                   <div class="form-group">
                     <label for="nomeUser" class="text-black">Nome completo</label><br>
-                    <input type="text" name="txt_nomeUser" id="txt_nomeUser" class="form-control">
+                    <input type="text" name="userName" id="userName" class="form-control">
                   </div>
 
                   <div class="form-group">
                     <label for="emailUSer" class="text-black">email</label><br>
-                    <input type="text" name="txt_emailUSer" id="txt_emailUser" class="form-control">
+                    <input type="text" name="email" id="email" class="form-control">
                   </div>
                   <div class="form-group">
-                    <label for="inputAddressUser" class="form-label">Endereço</label>
-                    <input type="text" class="form-control" id="inputAddressUser">
+                    <label for="address" class="form-label">Endereço</label>
+                    <input type="text" class="form-control" id="address">
                   </div>
                   <div class="form-group">
-                    <label for="txtTelefoneUser" class="form-label">Telefone</label>
-                    <input type="text" name="telefone" class="form-control" id="txtTelefoneUser"
+                    <label for="telefone" class="form-label">Telefone</label>
+                    <input type="text" name="telefone" class="form-control" id="telefone"
                       placeholder="Formato (xx) xxxx-xxxx" />
                   </div>
                   <div class="form-group">
-                    <label for="senhaUser" class="text-black">Senha</label><br>
-                    <input type="password" name="txt_senhaUser" id="txt_senhaUser" class="form-control">
+                    <label for="pass" class="text-black">Senha</label><br>
+                    <input type="password" name="pass" id="pass" class="form-control">
                   </div>
                   <div class="form-group">
                     <label for="senha2User" class="text-black">Confirmação de Senha</label><br>
-                    <input type="password" name="txt_senha2User" id="txt_senha2User" class="form-control">
+                    <input type="password" name="confirm" id="confirm" class="form-control">
                   </div> <br>
                   <div class="form-group">
 
@@ -260,15 +258,13 @@
                   </div> <br>
                   <div class="form-group">
                     <label for="file" class="text-black">Foto de Perfil</label> <br>
-
                     <input type="file" class="form-control" id="inputFotoPerfil">
                   </div>
-
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                    <button type="submit" id="btn_salvarUser" class="btn btn-info">Salvar</button>
+                  </div>
                 </form>
-              </div>
-              <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
-                <button type="button" id="btn_salvarUser" class="btn btn-info">Salvar</button>
               </div>
             </div>
           </div>
