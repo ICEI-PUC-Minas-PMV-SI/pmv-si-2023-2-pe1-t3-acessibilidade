@@ -89,10 +89,7 @@ const setLogins = () => {
   })
 
   estabSigninFormModal?.addEventListener('submit',ev=>{
-    console.log(ev)
     let currentLogin = setData(ev, SINGIN_INPUT_KEYS)
-
-    console.log(currentLogin)
 
     registerSessionRecord(currentLogin, window.saveStores)
     
