@@ -25,21 +25,55 @@ Nesta seção o grupo deverá documentar os testes de software que verificam a c
 Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe qual o Requisito  Funcional ou não funcional que ele está verificando. Associe também a página (ou artefato) onde o teste será realizado e descreva o cenário do teste. Veja a tabela de exemplo.
 
 
-**Caso de Teste** | **CT01 - Criar conta parte 1**
+**Caso de Teste** | **CT01 - Criar conta usuario **
  :--------------: | ------------
-**Procedimento**  | 1) Usuário informa nome, sobrenome, email, senha, Estado e Cidade e clica no botão "Continuar".<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.
+**Procedimento**  | 1) Usuário informa nome completo, email, endereço, telefone,  senha, sua deficiência, adiciona uma foto de perfil e clica no botão "Salvar".<br> 2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.
 **Requisitos associados** | RF-001
-**Resultado esperado** | Prosseguir para a parte 2 do cadastro.
+**Resultado esperado** | Criação de cadastro.
 **Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT02 - Criar conta parte 2**
+**Caso de Teste** | **CT02 - Criar conta estabelecimento **
  :--------------: | ------------
-**Procedimento**  | 1) Usuário informa gênero, seu tipo de usuário (cuidador ou comum), data de nascimento e clica em criar.<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.<br> 3) A aplicação armazena os dados e direciona o usuário para a tela de login.
-**Requisitos associados** | RF-001
-**Resultado esperado** | Criação de cadastro
+**Procedimento**  | 1) Usuário informa nome do proprietario, razão social, CNPJ, email, endereço, telefone, senha, deficiência atendida, descreve sobre a acessibilidade do local, adiciona fotos do estabeleciemnto e clica em "Salvar".<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.<br> 3) A aplicação armazena os dados e direciona o usuário para a tela principal.
+**Requisitos associados** | RF-002
+**Resultado esperado** | Criação de cadastro.
 **Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
 **Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT03 - Editar ou deletar perfil usuário**
+ :--------------: | ------------
+**Procedimento**  | 1) Usuário acessa a opção perfil, onde pode consultar, editar ou deletar o seu perfil.
+**Requisitos associados** | RF-003
+**Resultado esperado** | Altear ou deletar o perfil.
+**Dados de entrada** | Alteração dos dados de cadastro
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT04 - Editar ou deletar perfil estabelecimento**
+ :--------------: | ------------
+**Procedimento**  | 1) Usuário acessa a opção perfil, onde pode consultar, editar ou deletar o seu perfil.
+**Requisitos associados** | RF-004
+**Resultado esperado** | Altear ou deletar o perfil.
+**Dados de entrada** | Alteração dos dados de cadastro.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT05 -  Consultar Perfil de um Lugar  **
+ :--------------: | ------------
+**Procedimento**  | 1) O usuário atraves da pagina de locais clica no botão "Saiba Mais" onde é direcionado para a pagina do estabeleciemnto onde encontra mais detalhes sobre o lugar.
+**Requisitos associados** | RF-009
+**Resultado esperado** | A aplicação exibe as informações do lugar.
+**Resultado obtido** | Informações detalhadas sobre o local.
+
+**Caso de Teste** | **CT05 - Filtrar Lista de Lugares **
+ :--------------: | ------------
+**Procedimento**  | 1) Na navbar o usuário pode filtrar a lista de locais por tipo de acessibilidade, categoria do lugar e cidade.
+**Requisitos associados** | RF-011
+**Resultado esperado** |  A aplicação apresenta a lista filtrada conforme os critérios.
+**Dados de entrada** | Informações sobre o local
+**Resultado obtido** | Lista de locais com base no filtro.
+
+
+
 
 ## Registro dos Testes de Software
 
