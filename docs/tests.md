@@ -94,6 +94,32 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | Ativação do assistente virtual e pergunta ou solicitação do usuário.
 **Resultado obtido** |O assitente consegue auxiliar o usuário.
 
+### Plano de Teste de Requisitos Não Funcionais (RNF) 
+
+**Caso de Teste** | **RNF-001 - Responsividade**
+ :--------------: | ------------
+**Objetivo**  |  Verificar se o sistema é responsivo para rodar em dispositivos móveis.
+**Procedimento** | Acessar o sistema por meio de diferentes dispositivos móveis (smartphones, tablets) e verificar se a interface se ajusta corretamente.
+
+**Caso de Teste** | **RNF-002 - Tempo de Resposta**
+ :--------------: | ------------
+**Objetivo**  |  Garantir que o sistema processe requisições do usuário em no máximo 1.8 segundos.
+**Procedimento** | Realizar diferentes tipos de requisições no sistema e medir o tempo de resposta. Verificar se todas as requisições atendem ao limite de 1.8 segundos.
+
+**Caso de Teste** | **RNF-003 -  Acessibilidade para Leitores de Tela**
+ :--------------: | ------------
+**Objetivo**  |  Certificar-se de que o sistema é acessível para leitores de tela.
+**Procedimento** | Utilizar um leitor de tela para navegar pelo sistema, verificando se todas as informações essenciais são adequadamente narradas.
+
+**Caso de Teste** | **RNF-004 -  Navegação Facilitada**
+ :--------------: | ------------
+**Objetivo**  |  Avaliar se o sistema possui uma navegação facilitada.
+**Procedimento** | Realizar testes de navegação pelo sistema, incluindo acesso a diferentes seções e funcionalidades. Verificar se a navegação é intuitiva e fácil de entender.
+
+**Caso de Teste** | **RNF-005 -  Core Web Vital**
+ :--------------: | ------------
+**Objetivo**  |  Assegurar que o sistema atinge notas superiores a 95% em Core Web Vitals.
+**Procedimento** | Utilizar ferramentas de teste de desempenho para avaliar as métricas do Core Web Vitals, como Largest Contentful Paint (LCP), First Input Delay (FID) e Cumulative Layout Shift (CLS). Garantir que todas as métricas atendam ou ultrapassem os 95%.
 
 ## Registro dos Testes de Software
 
