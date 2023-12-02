@@ -56,7 +56,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | Alterações nos dados de cadastro, caso a opção escolhida seja editar o perfil..
 **Resultado obtido** | A operação de alteração ou deleção do perfil é realizada com sucesso.
 
-**Caso de Teste** | **CT07 - Vizualizar uma lista de locais**
+**Caso de Teste** | **CT05 - Vizualizar uma lista de locais**
  :--------------: | ------------
 **Procedimento**  | 1)O usuário acessa a página que lista os locais disponíveis. <br> 2)Para cada local listado, o usuário lê uma breve descrição, obtendo uma ideia rápida do que esperar. <br> 3) O usuário verifica a avaliação atribuída ao local, proporcionando uma visão resumida da experiência de outros usuários.
 **Requisitos associados** | RF-010
