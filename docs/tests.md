@@ -25,54 +25,74 @@ Nesta seção o grupo deverá documentar os testes de software que verificam a c
 Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe qual o Requisito  Funcional ou não funcional que ele está verificando. Associe também a página (ou artefato) onde o teste será realizado e descreva o cenário do teste. Veja a tabela de exemplo.
 
 
-**Caso de Teste** | **CT01 - Criar conta usuario **
+**Caso de Teste** | **CT01 - Criar conta usuário**
  :--------------: | ------------
-**Procedimento**  | 1) Usuário informa nome completo, email, endereço, telefone,  senha, sua deficiência, adiciona uma foto de perfil e clica no botão "Salvar".<br> 2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.
+**Procedimento**  | 1) Usuário informa nome completo, e-mail, endereço, telefone, senha, sua deficiência, adiciona uma foto de perfil e clica no botão "Salvar".<br> 2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.
 **Requisitos associados** | RF-001
 **Resultado esperado** | Criação de cadastro.
 **Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT02 - Criar conta estabelecimento **
+**Caso de Teste** | **CT02 - Criar conta estabelecimento**
  :--------------: | ------------
-**Procedimento**  | 1) Usuário informa nome do proprietario, razão social, CNPJ, email, endereço, telefone, senha, deficiência atendida, descreve sobre a acessibilidade do local, adiciona fotos do estabeleciemnto e clica em "Salvar".<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.<br> 3) A aplicação armazena os dados e direciona o usuário para a tela principal.
+**Procedimento**  | 1) Usuário informa nome do proprietário, razão social, CNPJ, e-mail, endereço, telefone, senha, deficiência atendida, descreve sobre a acessibilidade do local, adiciona fotos do estabelecimento e clica em "Salvar".<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.<br> 3) A aplicação armazena os dados e direciona o usuário para a tela principal.
 **Requisitos associados** | RF-002
 **Resultado esperado** | Criação de cadastro.
 **Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT03 - Editar ou deletar perfil usuário**
+**Caso de Teste** | **CT03 - Editar, consultar ou deletar perfil usuário**
  :--------------: | ------------
-**Procedimento**  | 1) Usuário acessa a opção perfil, onde pode consultar, editar ou deletar o seu perfil.
-**Requisitos associados** | RF-003
-**Resultado esperado** | Altear ou deletar o perfil.
-**Dados de entrada** | Alteração dos dados de cadastro
-**Resultado obtido** | Sucesso.
+**Procedimento**  | 1) O usuário acessa a opção "Perfil" na aplicação, onde pode realizar a consulta, edição ou deleção do seu perfil de usuário.
+**Requisitos associados** | RF-003, RF-005 e RF-007
+**Resultado esperado** | O usuário consegue com sucesso realizar a consulta, edição ou deleção do seu perfil de usuário, conforme a ação escolhida.
+**Dados de entrada** | Alterações nos dados de cadastro, caso a opção escolhida seja editar o perfil.
+**Resultado obtido** | A operação de alteração ou deleção do perfil é realizada com sucesso.
 
-**Caso de Teste** | **CT04 - Editar ou deletar perfil estabelecimento**
+**Caso de Teste** | **CT04 - Editar, Consultar ou Deletar Perfil de Estabelecimento**
  :--------------: | ------------
-**Procedimento**  | 1) Usuário acessa a opção perfil, onde pode consultar, editar ou deletar o seu perfil.
-**Requisitos associados** | RF-004
-**Resultado esperado** | Altear ou deletar o perfil.
-**Dados de entrada** | Alteração dos dados de cadastro.
-**Resultado obtido** | Sucesso.
+**Procedimento**  | 1) O usuário acessa a opção "Perfil" na aplicação, onde tem a capacidade de consultar, editar ou deletar seu perfil de estabelecimento.
+**Resultado esperado** | O usuário consegue com sucesso realizar a consulta, edição ou deleção do seu perfil de estabelecimento, conforme a ação escolhida.
+**Dados de entrada** | Alterações nos dados de cadastro, caso a opção escolhida seja editar o perfil..
+**Resultado obtido** | A operação de alteração ou deleção do perfil é realizada com sucesso.
 
-**Caso de Teste** | **CT05 -  Consultar Perfil de um Lugar  **
+**Caso de Teste** | **CT07 - Vizualizar uma lista de locais**
  :--------------: | ------------
-**Procedimento**  | 1) O usuário atraves da pagina de locais clica no botão "Saiba Mais" onde é direcionado para a pagina do estabeleciemnto onde encontra mais detalhes sobre o lugar.
+**Procedimento**  | 1)O usuário acessa a página que lista os locais disponíveis. <br> 2)Para cada local listado, o usuário lê uma breve descrição, obtendo uma ideia rápida do que esperar. <br> 3) O usuário verifica a avaliação atribuída ao local, proporcionando uma visão resumida da experiência de outros usuários.
+**Requisitos associados** | RF-010
+**Resultado esperado** | O usuário consegue visualizar, de maneira clara e concisa, informações breves sobre cada local, incluindo uma breve descrição e a avaliação média do estabelecimento.
+**Resultado obtido** |Informações breves sobre o local apresentadas de forma clara.
+
+**Caso de Teste** | **CT06 - Consultar Perfil de um Lugar**
+ :--------------: | ------------
+**Procedimento**  | 1) O usuário, na página de locais, clica no botão "Saiba Mais" associado ao estabelecimento desejado. <br> 2) O usuário é direcionado para a página específica do estabelecimento, onde encontra informações mais detalhadas sobre o lugar.
 **Requisitos associados** | RF-009
-**Resultado esperado** | A aplicação exibe as informações do lugar.
+**Resultado esperado** |  aplicação exibe de maneira completa e detalhada as informações relacionadas ao estabelecimento na página específica, após o clique no botão "Saiba Mais".
 **Resultado obtido** | Informações detalhadas sobre o local.
 
-**Caso de Teste** | **CT05 - Filtrar Lista de Lugares **
+**Caso de Teste** | **CT07 - Filtrar Lista de Lugares**
  :--------------: | ------------
-**Procedimento**  | 1) Na navbar o usuário pode filtrar a lista de locais por tipo de acessibilidade, categoria do lugar e cidade.
+**Procedimento**  | 1) O usuário acessa a barra de navegação da aplicação. <br> 2) Utilizando os menus disponíveis, o usuário seleciona os filtros desejados para acessibilidade, categoria do lugar e cidade.
 **Requisitos associados** | RF-011
-**Resultado esperado** |  A aplicação apresenta a lista filtrada conforme os critérios.
-**Dados de entrada** | Informações sobre o local
+**Resultado esperado** |  A aplicação responde apresentando uma lista filtrada de locais de acordo com os critérios selecionados pelo usuário.
+**Dados de entrada** | Informações sobre o local, como tipo de acessibilidade, categoria e cidade.
 **Resultado obtido** | Lista de locais com base no filtro.
 
+**Caso de Teste** | **CT08 - Avaliar e comentar sobre um estabelecimento e vizualizar outros comentários**
+ :--------------: | ------------
+**Procedimento**  | 1) O usuário logado acessa a página do estabelecimento desejado.<br> 2) O usuário atribui uma pontuação e adiciona um comentário sobre o local. <br>  3) O usuário verifica a seção de comentários para visualizar as opiniões de outros usuários sobre o mesmo estabelecimento.
+**Requisitos associados** | RF-012, RF-013 e RF-014
+**Resultado esperado** |  A aplicação registra com sucesso a avaliação e o comentário do usuário, e os comentários de outros usuários são exibidos na seção correspondente.
+**Dados de entrada** |Avaliação (pontuação) fornecida pelo usuário. <br>Comentário detalhando a experiência no local
+**Resultado obtido** | O comentário e avaliação são registrados.
 
+**Caso de Teste** | **CT09 - Navegação com Assistente Virtual**
+ :--------------: | ------------
+**Procedimento**  | 1) O usuário ativa o assistente virtual na página principal.<br> 2) O assistente virtual cumprimenta o usuário e pergunta como pode ajudar. <br> 3) O usuário faz uma solicitação ou pergunta relacionada à navegação na aplicação.
+**Requisitos associados** | RF-015
+**Resultado esperado** |  O assistente virtual fornece uma resposta relevante e útil, auxiliando o usuário na navegação da aplicação..
+**Dados de entrada** | Ativação do assistente virtual e pergunta ou solicitação do usuário.
+**Resultado obtido** |O assitente consegue auxiliar o usuário.
 
 
 ## Registro dos Testes de Software
