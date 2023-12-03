@@ -24,7 +24,13 @@ const BASE_STORES = [
       "nota": 5,
       "usuário": "marianasmmattos@gmail.com",
       "texto": "Ótimo lugar para comer, com rampas e cardápio em braile"
-    }]
+    },
+    {
+      "nota": 3,
+      "usuário": "ceci@gmail.com",
+      "texto": "Bom lugar, muito barulhento e atendimento um pouco lento"
+    }
+  ]
   },
 {
   "Nome do Proprietário": "Ana Cecília",
@@ -46,7 +52,7 @@ const BASE_STORES = [
   "Avaliações": [{
     "nota": 2,
     "usuário": "marianasmmattos@gmail.com",
-    "texto": "Ótimo lugar para comer, com rampas e cardápio em braile"
+    "texto": "Lugar ok, atendimento pouco empático e sem rampas"
   }]
 }
 ]
@@ -173,4 +179,19 @@ window.onload = function() {
   let meusLocais = window.getStores()
   window?.renderLocaisList(meusLocais)
   window?.renderCurrentLocal(meusLocais)
+
+  let loggedUser = getSessionUser();
+  let loggedStore = getSessionStore();
+
+  let isLogin = window.location.href?.includes('login.html')
+
+  console.log(isLogin)
+
+  if(isLogin) {
+    if(!!loggedUser) {
+      return window.location = `${window.location.origin}/src/mundoInclusivo/perfilUser.html`
+    } else if (!!loggedStore) {
+      return window.location = `${window.location.origin}/src/mundoInclusivo/perfilEstab.html`
+    }
+  }
 }

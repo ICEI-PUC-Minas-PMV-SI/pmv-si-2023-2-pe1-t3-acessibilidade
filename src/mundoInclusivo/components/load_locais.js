@@ -43,6 +43,9 @@ const renderLocaisList = (array) => {
 }
 
 const renderLocal = (local) => {
+  if(!local) {
+    return
+  }
 
   let localHtml = `
     <div class="col-sm-12 col-md-6">
