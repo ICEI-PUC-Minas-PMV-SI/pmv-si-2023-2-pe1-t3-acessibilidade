@@ -19,10 +19,12 @@
 <body>
   <section id="navbar-component">
   </section>
+  <script src="components/set-logins.js"></script>
+  <script src="components/load_locais.js"></script>
   <script src="components/leitor-de-tela.js"></script>
   <script src="components/local-storage.js"></script>
   <script src="components/base.js"></script>
-  
+
   <header>
     <nav class="navbar navbar-expand-lg">
       <div class="container-fluid">
@@ -95,53 +97,27 @@
     </nav>
   </header>
   <main>
-    <div class="container">
-      <div class="row">
-        <div class="col-4 d-flex flex-column align-items-center justify-content-center">
-          <h3 class="username text-center">Usuário</h3>
-          <img class="image d-flex justify-content-center my-4" style="height: 100px; width: 100px;" src="img/user.png"
-            alt="fotoUser" />
-          <div class="d-grid gap-2 col-4 mx-auto">
-            <a class="btn btn-primary" href="#" role="button"><b>Editar foto</b></a>
-          </div>
-        </div>
+    <div class="container" style="margin-top: 25px; display: flex; justify-content: center;">
+      <div class="row" style="margin-top: 25px; display: flex; justify-content: center;">
         <div class="col-8">
-          <div class="mb-3">
-            <label for="formGroupExampleInput" class="form-label">Nome</label>
-            <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Nome" />
-          </div>
-          <div class="mb-3">
-            <label for="formSobrenome" class="form-label">Sobrenome</label>
-            <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Sobrenome" />
-          </div>
-          <form class="row g-3">
+          <form class="row g-3" id="userSigninForm">
+            <div class="mb-3">
+              <label for="formGroupExampleInput" class="form-label">Nome</label>
+              <input type="text" class="form-control" name="userName" id="userName" placeholder="Nome" />
+            </div>
             <div class="col-md-6">
               <label for="inputEmail4" class="form-label">Email</label>
-              <input type="email" class="form-control" id="inputEmail4" placeholder="seuemail@email.com" />
+              <input type="email" class="form-control" id="email" name="email" placeholder="seuemail@email.com" />
             </div>
             <div class="col-md-6">
               <label for="inputPassword4" class="form-label">Senha</label>
-              <input type="password" class="form-control" id="inputPassword4" placeholder="Nova Senha" />
-            </div>
-            <div class="col-8">
-              <label for="inputAddress" class="form-label">Endereço</label>
-              <input type="text" class="form-control" id="inputAddress" placeholder="Rua tal 27" />
-            </div>
-            <div class="col-4">
-              <label for="inputAddress2" class="form-label">Complemento</label>
-              <input type="text" class="form-control" id="inputAddress2" placeholder="Apto, casa..." />
-            </div>
-            <div class="col-md-6">
-              <label for="inputCity" class="form-label">Cidade</label>
-              <input type="text" class="form-control" id="inputCity" placeholder="Rio de janeiro" />
+              <input type="password" class="form-control" id="inputPassword4" name="pass" placeholder="Nova Senha" />
             </div>
             <div class="col-md-6">
               <label for="txtTelefone" class="form-label">Telefone</label>
-              <input type="text" name="telefone" class="form-control" id="txtTelefone"
+              <input type="text" name="telefone" class="form-control" id="telefone"
                 placeholder="Formato (99) 99999-9999" />
-            </div>
-
-           
+            </div>          
               <div class="col-12">
                 <label class="form-label d-block " >Deficiência</label> <br>
                 <div class="form-check-inline">
@@ -190,9 +166,7 @@
   <section id="footer-component">
   </section>
 
-
   <script src="components/footer.js"></script>
-
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
     integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
     crossorigin="anonymous"></script>

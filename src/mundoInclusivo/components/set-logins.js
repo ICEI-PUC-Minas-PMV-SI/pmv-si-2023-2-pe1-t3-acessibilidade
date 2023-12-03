@@ -33,7 +33,7 @@ const setData = async (ev, mapper = {}) => {
   let currentLogin = {}
   
   for (const input of inputs) {
-    let key = mapper[input.id]
+    let key = mapper[input.id || input['name']]
 
     if(key === "Endereço") {
       let end = await window.getAddress(input.value)
@@ -137,7 +137,7 @@ const filUserFields = () => {
   let inputs = element?.querySelectorAll('input') || []
  
   for (const input of inputs) {
-    let key = SINGIN_INPUT_KEYS[input.id];
+    let key = SINGIN_INPUT_KEYS[input.id || input['name']];
     let value = data[key];
     input.setAttribute('value', value)
   }
