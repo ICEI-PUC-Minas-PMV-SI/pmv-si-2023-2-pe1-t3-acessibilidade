@@ -23,7 +23,7 @@
 <body style="height: 100%;">
 
   <section id="navbar-component"></section>
-  <script src="components/set-login.js"></script>
+  <script src="components/set-logins.js"></script>
   <script src="components/load_locais.js"></script>
   <script src="components/leitor-de-tela.js"></script>
   <script src="components/local-storage.js"></script>
@@ -72,26 +72,26 @@
                     <h3 class="text-center text-black">Cadastre o seu Estabelecimento</h3>
                     <div class="form-group">
                       <label for="nomeDonoEstab" class="text-black">Nome do proprietário</label><br>
-                      <input type="text" name="nameEstab" id="nameEstab" class="form-control">
+                      <input type="text" name="nameEstab" placeholder="Nome proprietário" id="nameEstab" class="form-control">
                     </div>
                     <div class="form-group">
                       <label for="razaoSocial" class="text-black">Razão social</label><br>
-                      <input type="text" name="razSoc" id="razSoc" class="form-control">
+                      <input type="text" name="razSoc" id="razSoc" placeholder="Nome da empresa" class="form-control">
                     </div>
 
                     <div class="form-group">
                       <label for="cnpj" class="text-black">CNPJ</label><br>
-                      <input type="text" name="cnpj" id="cnpj" class="form-control">
+                      <input type="text" name="cnpj" id="cnpj" placeholder="173.017.553-23" class="form-control">
                     </div>
 
                     <div class="form-group">
                       <label for="emailEstab" class="text-black">E-mail</label><br>
-                      <input type="text" name="email" id="email" class="form-control">
+                      <input type="text" name="email" id="email" placeholder="meuemail@gmail.com" class="form-control">
                     </div>
 
                     <div class="form-group">
                       <label for="address" class="form-label">Endereço</label>
-                      <input type="text" class="form-control" id="address">
+                      <input type="text" placeholder="38 Rua Araújo Lima, Rio de Janeiro, Brasil" class="form-control" id="address">
                     </div>
                     <div class="form-group">
                       <label for="telefone" class="form-label">Telefone</label>
@@ -100,11 +100,11 @@
                     </div>
                     <div class="form-group">
                       <label for="senhaEstab" class="text-black">Senha</label><br>
-                      <input type="password" name="pass" id="pass" class="form-control">
+                      <input type="password" placeholder="Sua senha" name="pass" id="pass" class="form-control">
                     </div>
                     <div class="form-group">
                       <label for="senha2Estab" class="text-black">Confirmação de Senha</label><br>
-                      <input type="password" name="confirm" id="confirm" class="form-control">
+                      <input type="password" placeholder="Sua senha" name="confirm" id="confirm" class="form-control">
                     </div> <br>
                     <div class="form-group">
                       <label class="form-label"> Quais deficiências são atendidas?</label>
@@ -147,7 +147,7 @@
                     
                     <div class="form-group">
                       <label for="file" class="text-black">Fotos do Estabelecimento</label> <br>
-                      <input type="file" class="form-control" id="inputGroupFile01" multiple="multiple">
+                      <input class="form-control" id="image" placeholder="Url de uma imagem">
                     </div>
                     <div class="modal-footer">
                       <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
@@ -274,8 +274,6 @@
     </div>
     <!--User -->
   </section>
-
-
 
   <section id="footer-component"></section>
   <script src="components/navbar.js"></script>
