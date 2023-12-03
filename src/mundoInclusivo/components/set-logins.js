@@ -17,10 +17,11 @@ const SINGIN_INPUT_KEYS = {
   address: "Endereço",
   telefone: "Telefone",
   defs: "Tipos de deficiência",
-  image: "Fotos",
+  image: "Foto",
   confirm: "Confirmar senha",
   userName: "Nome completo",
   about: "Sobre",
+  description: "Descrição",
   ...LOGIN_INPUT_KEYS
 }
 
@@ -60,7 +61,7 @@ const verifyLogin = (base, loginData, callback) => {;
 
   if(isSamePassword) {
     callback(currentLogin)
-    
+
     let loggedUser = getSessionUser();
     let loggedStore = getSessionStore();
   

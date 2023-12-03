@@ -27,61 +27,54 @@
 
   <main>
     <div class="container">
-      <div class="row mb-3">
+      <div class="row mb-3" style="margin-top: 20px;">
         <div class="col-md-12 d-flex flex-column align-items-center justify-content-center">
           <h3 class="username text-center">Estabelecimento</h3>
-          <img class="d-flex align-items-center justify-content-center my-4" style="height: 100px; width: 100px;" src="img/user.png" alt="fotoUser">
-          <div class="d-grid gap-2 col-4 mx-auto">
-            <a class="btn btn-primary" href="#" role="button"><b>Editar foto</b></a>
-          </div>
         </div>
       </div>
-      <div class="col-md-12">
-        <form class="row g-3" id="estabFormSigninModal">
-          <div class="mb-3">
-            <label for="nameEstab" class="form-label">Nome do Estabelecimento</label>
-            <input type="text" class="form-control" id="nameEstab" placeholder="Nome do Estabelecimento">
-          </div>
-          <div class="col-md-6">
-            <label for="email" class="form-label">E-mail</label>
-            <input type="email" class="form-control" value="email" id="email" placeholder="seuemail@email.com">
-          </div>
-          <div class="col-md-6">
-            <label for="pass" class="form-label">Senha</label>
-            <input type="password" class="form-control" id="pass" placeholder="Nova Senha">
-          </div>
-          <div class="col-md-6">
-            <label for="confirm" class="form-label">Confirmar Senha</label>
-            <input type="password" class="form-control" id="confirm" placeholder="Nova Senha">
-          </div>
-          <div class="col-md-8">
-            <label for="adress" class="form-label">Endereço</label>
-            <input type="text" class="form-control" id="adress" placeholder="Rua tal 27">
-          </div>
-          <div class="col-md-4">
-            <label for="adress" class="form-label">Complemento</label>
-            <input type="text" class="form-control" id="adress" placeholder="sala, andar...">
-          </div>
-          <div class="col-md-6">
-            <label for="address" class="form-label">Cidade</label>
-            <input type="text" class="form-control" id="address" placeholder="Rio de janeiro">
-          </div>
-          <div class="col-md-6">
-            <label for="telefone" class="form-label">Telefone</label>
-            <input type="text" name="telefone" class="form-control" id="telefone"
-              placeholder="Formato (99) 99999-9999" />
-          </div>
-
-          <div class="col-md-12">
-            <label for="about" class="form-label">Sobre este local:</label> <br>
-            <textarea id="about" name="about" class="w-100"
-              placeholder="Adicione informações sobre o local e a acessibilidade..."></textarea>
-          </div>
-          <div class="form-group">
-            <div class="d-flex justify-content-end">
-              <button type="submit" class="btn btn-danger">Salvar alterações</button>
+      <div class="row">
+        <div class="col-md-12">
+          <form class="row g-3" id="estabFormSigninModal">
+            <div class="mb-3">
+              <label for="nameEstab" class="form-label">Url da imagem</label>
+              <input type="text" class="form-control" id="image" placeholder="Foto do Estabelecimento">
             </div>
-        </form>
+            <div class="mb-3">
+              <label for="nameEstab" class="form-label">Nome do Estabelecimento</label>
+              <input type="text" class="form-control" id="nameEstab" placeholder="Nome do Estabelecimento">
+            </div>
+            <div class="col-md-6">
+              <label for="email" class="form-label">E-mail</label>
+              <input type="email" class="form-control" value="email" id="email" placeholder="seuemail@email.com">
+            </div>
+            <div class="col-md-6">
+              <label for="pass" class="form-label">Senha</label>
+              <input type="password" class="form-control" id="pass" placeholder="Nova Senha">
+            </div>
+            <div class="col-md-6">
+              <label for="confirm" class="form-label">Confirmar Senha</label>
+              <input type="password" class="form-control" id="confirm" placeholder="Nova Senha">
+            </div>
+            <div class="col-md-6">
+              <label for="adress" class="form-label">Endereço</label>
+              <input type="text" class="form-control" id="adress" placeholder="Rua tal 27">
+            </div>
+            <div class="col-md-6">
+              <label for="telefone" class="form-label">Telefone</label>
+              <input type="text" name="telefone" class="form-control" id="telefone"
+                placeholder="Formato (99) 99999-9999" />
+            </div>
+            <div class="col-md-6">
+              <label for="about" class="form-label">Sobre este local:</label> <br>
+              <textarea id="description" name="description" class="w-100"
+                placeholder="Adicione informações sobre o local e a acessibilidade..."></textarea>
+            </div>
+            <div class="form-group">
+              <div class="d-flex justify-content-end">
+                <button type="submit" class="btn btn-danger">Salvar alterações</button>
+              </div>
+          </form>
+        </div>
       </div>
     </div>
   </main>
