@@ -2,23 +2,54 @@
 
 const GOOGLE_API_KEY = 'AIzaSyBkLndHuMv968iinF2ol4_B33JVIf7Gf6A';
 
-const BASE_STORES = [{
-  "Nome do Proprietário": "Mariana Mattos",
-  "Razão Social": "Mari Software House",
+const BASE_STORES = [
+  {
+    "Nome do Proprietário": "Mariana Mattos",
+    "Razão Social": "Mari Software House",
+    "CNPJ": "173.017.447-73",
+    "Email": "marianasmmattos@gmail.com",
+    "Endereço": {
+      "Texto": "R. Silva Teles, 23 - Andaraí, Rio de Janeiro - RJ, 20541-110, Brasil",
+      "Latitude": "-22.9235881",
+      "Longitude": "-43.2429692"
+    },
+    "Telefone": "21996903276",
+    "Senha": "12345678",
+    "Confirmar senha": "12345678",
+    "Tipos de deficiência": [],
+    "Descrição": "Um local muito bom",
+    "Foto": "img/local8.jpg",
+    "Sobre": "lorem ipsum",
+    "Avaliações": [{
+      "nota": 5,
+      "usuário": "marianasmmattos@gmail.com",
+      "texto": "Ótimo lugar para comer, com rampas e cardápio em braile"
+    }]
+  },
+{
+  "Nome do Proprietário": "Ana Cecília",
+  "Razão Social": "Ceci Tecnologia da Informação",
   "CNPJ": "173.017.447-73",
-  "Email": "marianasmmattos@gmail.com",
+  "Email": "ceci@gmail.com",
   "Endereço": {
-    "Texto": "R. Silva Teles, 23 - Andaraí, Rio de Janeiro - RJ, 20541-110, Brasil",
-    "Latitude": "-22.9235881",
-    "Longitude": "-43.2429692"
+    "Texto": "R. Araújo Lima, 38, Rio de Janeiro - RJ, 20541-050, Brasil",
+    "Latitude": "-22.9233354",
+    "Longitude": "-43.2405696"
   },
   "Telefone": "21996903276",
   "Senha": "12345678",
   "Confirmar senha": "12345678",
   "Tipos de deficiência": [],
-  "Foto": '',
-  "Sobre": "lorem ipsum"
-}]
+  "Descrição": "Um local muito bom",
+  "Foto": "img/local1-unsplash.jpg",
+  "Sobre": "lorem ipsum",
+  "Avaliações": [{
+    "nota": 2,
+    "usuário": "marianasmmattos@gmail.com",
+    "texto": "Ótimo lugar para comer, com rampas e cardápio em braile"
+  }]
+}
+]
 
 const BASE_USERS = [{
   "Nome completo": "Mariana Mattos",
@@ -138,4 +169,7 @@ window.onload = function() {
 
   window.saveStores({})
   window.saveUsers({})
+  
+  let meusLocais = window.getStores()
+  window?.renderLocaisList(meusLocais)
 }

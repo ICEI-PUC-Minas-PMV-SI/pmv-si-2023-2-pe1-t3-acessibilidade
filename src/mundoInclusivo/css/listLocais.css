@@ -46,16 +46,10 @@ width: 100%;
   font-size: 40px;/* alterar o tamanho das estrelas */
 }
 .star-icon::before{
-  content: "\2605";
-}
-.star-icon.ativo ~ .star-icon::before{
   content: "\2606";
 }
-.avaliacao:hover .star-icon::before{
+.star-icon.ativo::before{
   content: "\2605";
-}
-.star-icon:hover ~ .star-icon::before{
-  content: "\2606";
 }
 
 #navPag{
