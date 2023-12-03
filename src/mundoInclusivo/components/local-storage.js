@@ -172,4 +172,5 @@ window.onload = function() {
   
   let meusLocais = window.getStores()
   window?.renderLocaisList(meusLocais)
+  window?.renderCurrentLocal(meusLocais)
 }

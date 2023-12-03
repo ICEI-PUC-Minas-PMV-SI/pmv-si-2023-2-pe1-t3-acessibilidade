@@ -26,3 +26,131 @@ svg {
   font-size: 20px;
 }
 
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+gmp-map {
+  height: 100%;
+}
+
+/* header*/
+header {
+  background-color: #ffffff;
+}
+.one-colors {
+  color: #015776;
+  font-size: 30px;
+}
+.two-colors {
+  color: #644d15;
+  font-size: 30px;
+}
+svg {
+  color: #015776;
+}
+
+#nav-menu {
+  color: black;
+  font-size: 17px;
+}
+
+/* main*/
+main,
+section {
+  background-color: #f4f4f4;
+}
+.titulo {
+  color: #015776;
+  cursor: context-menu;
+}
+.subtitulo {
+  color: #644d15;
+  font-size: 20px;
+}
+.sessao1 {
+  padding: 30px;
+  background-color: #f4f4f4;
+}
+
+.sessao2 {
+  padding: 40px;
+  background-color: white;
+}
+
+.texto-principal {
+  text-align: justify;
+  color: black;
+}
+
+.info {
+  text-align: justify;
+}
+.sobre-nos {
+  padding-top: 15%;
+}
+.quem-somos {
+  color: #644d15;
+  text-align: center;
+}
+
+.sessao3{
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+.pilares{
+  margin-left: 6%;
+  text-align: center;
+  color: #015776;
+  
+}
+.card{
+  
+  display: grid;
+  grid-template-columns: auto 2fr;
+  display: flex;
+ 
+}
+.card-esp{
+  padding-top: 30px;
+}
+
+.sessao4 {
+  background-color: #ffffff;
+}
+.h1-responsive{
+  color: #644d15;
+}
+.rating {
+  display: inline-block;
+}
+
+.rating input {
+  display: none;
+}
+
+.rating label {
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+  background: url('../img/star-empty.png');
+  background-size: cover;
+  transition: background-image 0.3s;
+}
+
+.rating label.filled {
+  background-image: url('../img/star-filled.png');
+}
+
+.rating label:before {
+  content: '';
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 0;
+  opacity: 0;
+}
+
+.rating label:hover:before, .rating label:hover ~ label:before {
+  opacity: 1;
+}

@@ -29,10 +29,13 @@
         });
       });
     </script>
+    <link rel="stylesheet" href="css/listLocais.css">
   </head>
   <body style="min-height: 100vh; display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
     <section id="navbar-component">
     </section>
+    <script src="components/set-logins.js"></script>
+    <script src="components/load_locais.js"></script>
     <script src="components/leitor-de-tela.js"></script>
     <script src="components/local-storage.js"></script>
     <script src="components/base.js"></script>
@@ -40,52 +43,7 @@
     <main class="sessao1">
       <section>
         <div class="container">
-          <div class="row" style="position: relative; min-height: 700px;">
-            <div class="col-sm-12 col-md-6">
-              <h2 class="h1-responsive font-weight-bold w-100 mt-2 mb-4">
-                Título do local
-              </h2>
-              <img class="w-100" src="img/fallback.jpg" alt="Imagem do local" />
-              <p class="subtitulo mt-4">Sobre este local</p>
-              <p class="texto-principal">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit at velit quis ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam condimentum, risus molestie fringilla semper, lorem ex malesuada dolor, et molestie quam tellus quis elit. Fusce non vestibulum risus. Nunc gravida lectus quis diam sodales mattis. Etiam convallis ante purus, eu commodo risus tincidunt a. Morbi pretium nisl dapibus ante commodo, nec tempor turpis facilisis. Sed ornare purus ut nulla ultrices tristique vel vel risus. Donec mattis lorem quis urna elementum, eu molestie dui tincidunt. Sed rhoncus elit id metus eleifend mattis. Suspendisse potenti. Aliquam mollis pharetra purus, sit amet viverra leo interdum dictum. In interdum diam nec tempus sollicitudin. Proin in hendrerit libero. Aliquam a justo nec urna molestie dignissim. Vestibulum non ex odio.
-              </p>
-            </div>
-            <div class="col-sm-12 col-md-6" style="display: flex; flex-direction: column;">
-              <div class="container-fluid d-flex justify-content-center w-100 h-100" style="min-height: 200px;">
-                <gmp-map center="40.12150192260742,-100.45039367675781" zoom="4" map-id="DEMO_MAP_ID">
-                  <gmp-advanced-marker position="40.12150192260742,-100.45039367675781" title="My location">
-                  </gmp-advanced-marker>
-                </gmp-map>
-              </div>
-              <div class="container-fluid d-flex flex-column justify-content-center">
-                <h2 class="h1-responsive font-weight-bold w-100 mt-4 mb-2">
-                  Avalie
-                </h2>
-                <form id="avaliar">
-                  <div class="rating">
-                    <input type="radio" id="star5" name="rating" value="5">
-                    <label for="star5"></label>
-                    <input type="radio" id="star4" name="rating" value="4">
-                    <label for="star4"></label>
-                    <input type="radio" id="star3" name="rating" value="3">
-                    <label for="star3"></label>
-                    <input type="radio" id="star2" name="rating" value="2">
-                    <label for="star2"></label>
-                    <input type="radio" id="star1" name="rating" value="1">
-                    <label for="star1"></label>
-                  </div>
-                  <div class="mb-3">
-                    <label class="form-label" for="feedback">Escreva sua avaliação aqui:</label>
-                    <textarea style="min-height: 150px;" class="form-control" id="feedback" type="text" placeholder="Digite sua opinião..." data-sb-validations="required">
-                    </textarea>
-                  </div>
-                  <div class="d-grid">
-                    <button class="btn btn-primary btn-lg" type="submit">Enviar</button>
-                  </div>
-                </form>
-              </div>
-            </div>
+          <div class="row" style="position: relative; min-height: 700px;" id="localAtual">
           </div>
         </div>
       </section>

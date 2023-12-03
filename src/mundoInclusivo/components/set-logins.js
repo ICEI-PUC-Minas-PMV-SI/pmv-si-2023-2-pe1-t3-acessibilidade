@@ -119,7 +119,7 @@ const fillEstabFields = () => {
   let element = getEstabSigninModal();
   let data = window.getSessionStore();
 
-  let inputs = element.querySelectorAll('input')
+  let inputs = element?.querySelectorAll('input') || []
  
   for (const input of inputs) {
     let key = SINGIN_INPUT_KEYS[input.id];
@@ -134,7 +134,7 @@ const filUserFields = () => {
   let element = getUserSigninModal();
   let data = window.getSessionUser();
 
-  let inputs = element.querySelectorAll('input')
+  let inputs = element?.querySelectorAll('input') || []
  
   for (const input of inputs) {
     let key = SINGIN_INPUT_KEYS[input.id];
