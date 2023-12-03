@@ -51,15 +51,11 @@
             <i class='bx bxs-hide eye-icon'></i>
           </div>
 
-          <div class="form-link">
-            <a href="#" class="forgot-pass">Esqueceu sua senha?</a>
-          </div>
-
           <div class="field button-field">
             <button class="btn btn-primary" type="submit">Entrar</button>
           </div>
         </form>
-         <button type="button" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#estabFormSigninModal">
+         <button style="margin-top: 6px !important;" type="button" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#estabFormSigninModal">
           Ainda não tem uma conta? Cadastre-se
         </button>
         <!-- Modal -->
@@ -70,8 +66,8 @@
                   <h1 class="modal-title fs-5" id="userEstab">Novo usúario</h1>
                   <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
-                <div class="modal-body">
-                  <form id="estabFormSigninModal" class="form" method="post">
+                <div class="modal-body" style="gap: 12px">
+                  <form id="estabFormSigninModal" class="form" method="post" style="gap: 12px">
                     <h3 class="text-center text-black">Cadastre o seu Estabelecimento</h3>
                     <div class="form-group">
                       <label for="nomeDonoEstab" class="text-black">Nome do proprietário</label><br>
@@ -88,9 +84,10 @@
                     </div>
 
                     <div class="form-group">
-                      <label for="emailEstab" class="text-black">email</label><br>
+                      <label for="emailEstab" class="text-black">E-mail</label><br>
                       <input type="text" name="email" id="email" class="form-control">
                     </div>
+
                     <div class="form-group">
                       <label for="address" class="form-label">Endereço</label>
                       <input type="text" class="form-control" id="address">
@@ -141,6 +138,12 @@
                         </label>
                       </div>
                     </div> <br>
+                    
+                    <div class="form-group">
+                      <label for="emailEstab" class="text-black">Descrição</label><br>
+                      <input type="textarea" name="description" id="description" class="form-control">
+                    </div>
+                    
                     <div class="form-group">
                       <label for="file" class="text-black">Fotos do Estabelecimento</label> <br>
                       <input type="file" class="form-control" id="inputGroupFile01" multiple="multiple">
@@ -172,16 +175,12 @@
             <i class='bx bxs-hide eye-icon'></i>
           </div>
 
-          <div class="form-link">
-            <a href="#" class="forgot-pass">Esqueceu sua senha?</a>
-          </div>
-
           <div class="field button-field">
             <button id="loginBtn" class="btn btn-primary" type="submit">Entrar</button>
           </div>
         </form>
         <!-- Button  modal user -->
-        <button type="button" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#modalUser">
+        <button style="margin-top: 6px !important;" type="button" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#modalUser">
           Ainda não tem uma conta? Cadastre-se
         </button>
 

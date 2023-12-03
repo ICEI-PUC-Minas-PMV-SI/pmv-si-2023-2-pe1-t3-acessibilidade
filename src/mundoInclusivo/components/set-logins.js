@@ -24,7 +24,7 @@ const SINGIN_INPUT_KEYS = {
   ...LOGIN_INPUT_KEYS
 }
 
-const setData = (ev, mapper = {}) => {
+const setData = async (ev, mapper = {}) => {
   ev.preventDefault();
 
   let currentForm = ev.target;
@@ -34,7 +34,13 @@ const setData = (ev, mapper = {}) => {
   
   for (const input of inputs) {
     let key = mapper[input.id]
-    currentLogin[key] = input.value
+
+    if(key === "Endereço") {
+      let end = await window.getAddress(input.value)
+      currentLogin[key] = end
+    } else {
+      currentLogin[key] = input.value
+    }
   }
 
   return currentLogin
@@ -74,32 +80,32 @@ const setLogins = () => {
   let userLoginForm = getUserLoginForm();
   let userSinginForm = getUserSigninModal()
 
-  estabLoginForm?.addEventListener('submit', ev => {
-    let currentLogin = setData(ev, LOGIN_INPUT_KEYS)
+  estabLoginForm?.addEventListener('submit', async ev => {
+    let currentLogin = await setData(ev, LOGIN_INPUT_KEYS)
     let currentStores = window.getStores();
 
     verifyLogin(currentStores, currentLogin, window.loginStore)
   })
 
-  userLoginForm?.addEventListener('submit', ev => {
-    let currentLogin = setData(ev, LOGIN_INPUT_KEYS)
+  userLoginForm?.addEventListener('submit', async ev => {
+    let currentLogin = await setData(ev, LOGIN_INPUT_KEYS)
     let currentUsers = window.getUsers();
 
     verifyLogin(currentUsers, currentLogin, window.loginUser)
   })
 
-  estabSigninFormModal?.addEventListener('submit',ev=>{
-    let currentLogin = setData(ev, SINGIN_INPUT_KEYS)
+  estabSigninFormModal?.addEventListener('submit', async ev=>{
+    let currentLogin = await setData(ev, SINGIN_INPUT_KEYS)
 
     registerSessionRecord(currentLogin, window.saveStores)
-    
+   
     let currentStores = window.getStores();
 
     verifyLogin(currentStores, currentLogin, window.loginStore)
   })
 
-  userSinginForm?.addEventListener('submit',ev=>{
-    let currentLogin = setData(ev, SINGIN_INPUT_KEYS)
+  userSinginForm?.addEventListener('submit',async ev=>{
+    let currentLogin = await setData(ev, SINGIN_INPUT_KEYS)
 
     registerSessionRecord(currentLogin, window.saveUsers)
     
