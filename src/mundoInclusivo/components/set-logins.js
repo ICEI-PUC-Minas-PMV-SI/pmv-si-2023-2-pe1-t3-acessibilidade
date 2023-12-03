@@ -60,6 +60,19 @@ const verifyLogin = (base, loginData, callback) => {;
 
   if(isSamePassword) {
     callback(currentLogin)
+    
+    let loggedUser = getSessionUser();
+    let loggedStore = getSessionStore();
+  
+    let isLogin = window.location.href?.includes('login.html')
+  
+    if(isLogin) {
+      if(!!loggedUser) {
+        return window.location = `${window.location.origin}/src/mundoInclusivo/perfilUser.html`
+      } else if (!!loggedStore) {
+        return window.location = `${window.location.origin}/src/mundoInclusivo/perfilEstab.html`
+      }
+    }
   }
 }
 

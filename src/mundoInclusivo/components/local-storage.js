@@ -185,8 +185,6 @@ window.onload = function() {
 
   let isLogin = window.location.href?.includes('login.html')
 
-  console.log(isLogin)
-
   if(isLogin) {
     if(!!loggedUser) {
       return window.location = `${window.location.origin}/src/mundoInclusivo/perfilUser.html`
