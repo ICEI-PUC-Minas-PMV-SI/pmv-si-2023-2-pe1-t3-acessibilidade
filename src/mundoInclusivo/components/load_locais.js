@@ -8,6 +8,10 @@ const renderLocalCard = (local) => {
   const mediaEstrelas = Math.round(totalEstrelas / avaliacoes.length)
   const emailLocal = local["Email"]
 
+  if(!emailLocal) {
+    return
+  }
+
   const localCard = `
     <div class="card">
       <img src="${foto}" class="card-img-top" alt="img1">
@@ -38,6 +42,9 @@ const renderLocaisList = (array) => {
 
   array.map(local => {
     let localItem = renderLocalCard(local)
+    if(!localItem) {
+      return
+    }
     cardsContainer?.appendChild(localItem)
   })
 }

@@ -32,29 +32,29 @@ const BASE_STORES = [
     }
   ]
   },
-{
-  "Nome do Proprietário": "Ana Cecília",
-  "Razão Social": "Ceci Tecnologia da Informação",
-  "CNPJ": "173.017.447-73",
-  "Email": "ceci@gmail.com",
-  "Endereço": {
-    "Texto": "R. Araújo Lima, 38, Rio de Janeiro - RJ, 20541-050, Brasil",
-    "Latitude": "-22.9233354",
-    "Longitude": "-43.2405696"
-  },
-  "Telefone": "21996903276",
-  "Senha": "12345678",
-  "Confirmar senha": "12345678",
-  "Tipos de deficiência": [],
-  "Descrição": "Um local muito bom",
-  "Foto": "img/local1-unsplash.jpg",
-  "Sobre": "lorem ipsum",
-  "Avaliações": [{
-    "nota": 2,
-    "usuário": "marianasmmattos@gmail.com",
-    "texto": "Lugar ok, atendimento pouco empático e sem rampas"
-  }]
-}
+  {
+    "Nome do Proprietário": "Ana Cecília",
+    "Razão Social": "Ceci Tecnologia da Informação",
+    "CNPJ": "173.017.447-73",
+    "Email": "ceci@gmail.com",
+    "Endereço": {
+      "Texto": "R. Araújo Lima, 38, Rio de Janeiro - RJ, 20541-050, Brasil",
+      "Latitude": "-22.9233354",
+      "Longitude": "-43.2405696"
+    },
+    "Telefone": "21996903276",
+    "Senha": "12345678",
+    "Confirmar senha": "12345678",
+    "Tipos de deficiência": [],
+    "Descrição": "Um local muito bom",
+    "Foto": "img/local1-unsplash.jpg",
+    "Sobre": "lorem ipsum",
+    "Avaliações": [{
+      "nota": 2,
+      "usuário": "marianasmmattos@gmail.com",
+      "texto": "Lugar ok, atendimento pouco empático e sem rampas"
+    }]
+  }
 ]
 
 const BASE_USERS = [{
