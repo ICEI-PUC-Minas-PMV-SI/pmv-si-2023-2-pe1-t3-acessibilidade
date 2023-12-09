@@ -62,7 +62,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | Nome           | Texto             | Nome do User                              | Lucas Silva                                    |
 | E-mail         | Texto             | E-mail do User                            | lucasilva@email.com                            |
 | Senha          | Texto             | Senha de acesso ao site                   | Lucassilva@22                                  |
-| Telefone  | inteiro        | telefone do estabelecimento  |        (34) 3784-0564                        |
+| Telefone  | Numero        | telefone do estabelecimento  |        (34) 3784-0564                        |
 | Tipos de deficiência  | checkbox        |  deficiências  atendidas |          Fisica, visual, auditiva, intelectual ou multipla.                                 |
 
 ## Cadastrar/Editar perfil estabelecimento
@@ -77,5 +77,5 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | Tipos de deficiência  | checkbox        |  deficiências  atendidas |          Fisica, visual, auditiva, intelectual ou multipla.                                 |
 | Endereço  | texto        | Endereço do estabelecimento  |          Rua tal 255                              |
 | CNPJ  | texto        | CNPJ do estabelecimento  |        09.853.424/0001-73                         |
-| Telefone  | inteiro        | telefone do estabelecimento  |        (34) 3784-0564                        |
+| Telefone  | Numero       | telefone do estabelecimento  |        (34) 3784-0564                        |
 
