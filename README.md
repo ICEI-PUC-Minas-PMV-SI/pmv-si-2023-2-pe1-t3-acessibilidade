@@ -8,6 +8,7 @@
 
 Esse projeto visa auxiliar pessoas com deficiência a encontrar locais acessíveis por meio da colaboração, permitidindo o cadastramento de estabelecimentos e suas respectivas informações referentes à acessibilidade. Isso facilitará a vida das pessoas com deficiência, diminuindo o estresse e o tempo de busca, além de incentivar os estabelecimentos a se tornarem mais inclusivos.
 
+Acesse o site através do link: https://icei-puc-minas-pmv-si.github.io/pmv-si-2023-2-pe1-t3-acessibilidade/src/mundoInclusivo/homePage.html
 ## Integrantes
 
 * Ana Cecilia de Paula dos Santos Custodio
