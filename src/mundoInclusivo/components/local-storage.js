@@ -100,6 +100,7 @@ const saveStores = (store) => {
 
 const loginStore = (store) => {
   setStoreItem(STORE_SESSION_KEY, store)
+  saveStores(store)
   return store
 }
 
