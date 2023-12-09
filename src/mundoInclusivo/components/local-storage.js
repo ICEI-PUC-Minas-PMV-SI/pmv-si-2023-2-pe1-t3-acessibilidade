@@ -93,8 +93,17 @@ const saveStores = (store) => {
   let currentStores = getStores() || [];
   let hasCurrentStores = currentStores.length > 0;
   let baseStores = hasCurrentStores ? currentStores : BASE_STORES
-  let newStores = [...baseStores, store]
-  setStoreItem(LOCAL_STORES_KEY, { locais: newStores })
+  
+  let newStores = [...baseStores, store].reduce((accumulator, currentObject) => {
+    const email = currentObject["Email"];
+
+    if (!accumulator[email]) {
+      accumulator[email] = currentObject;
+    }
+  
+    return accumulator;
+  }, {})
+  setStoreItem(LOCAL_STORES_KEY, { locais: newStores.values() })
 
   return store
 }
