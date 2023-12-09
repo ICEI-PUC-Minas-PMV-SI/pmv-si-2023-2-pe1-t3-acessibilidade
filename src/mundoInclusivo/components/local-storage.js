@@ -187,9 +187,12 @@ window.onload = function() {
 
   if(isLogin) {
     if(!!loggedUser) {
-      return window.location = `${window.location.origin}/src/mundoInclusivo/perfilUser.html`
+      let isLocal = window.location.href.includes('localhost');
+      let url = isLocal ? window.location.origin : `${window.location.origin}/pmv-si-2023-2-pe1-t3-acessibilidade`
+
+      return window.location = `${url}/src/mundoInclusivo/perfilUser.html`
     } else if (!!loggedStore) {
-      return window.location = `${window.location.origin}/src/mundoInclusivo/perfilEstab.html`
+      return window.location = `${url}/src/mundoInclusivo/perfilEstab.html`
     }
   }
 }
