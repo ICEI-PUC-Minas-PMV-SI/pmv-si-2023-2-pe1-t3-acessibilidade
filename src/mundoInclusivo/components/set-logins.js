@@ -66,12 +66,11 @@ const verifyLogin = (base, loginData, callback) => {;
     let loggedStore = getSessionStore();
   
     let isLogin = window.location.href?.includes('login.html')
-  
+    let isLocal = window.location.href.includes('localhost');
+    let url = isLocal ? window.location.origin : `${window.location.origin}/pmv-si-2023-2-pe1-t3-acessibilidade`
+
     if(isLogin) {
       if(!!loggedUser) {
-        let isLocal = window.location.href.includes('localhost');
-        let url = isLocal ? window.location.origin : `${window.location.origin}/pmv-si-2023-2-pe1-t3-acessibilidade`
-  
         return window.location = `${url}/src/mundoInclusivo/perfilUser.html`
       } else if (!!loggedStore) {
         return window.location = `${url}/src/mundoInclusivo/perfilEstab.html`
