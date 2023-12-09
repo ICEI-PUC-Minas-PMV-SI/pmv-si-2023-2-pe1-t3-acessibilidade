@@ -59,19 +59,23 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 ## Cadastrar/Editar perfil usuário
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
-| Id do usuário  | Numero (Inteiro)  | Identificador único do User               | 1                                              |
 | Nome           | Texto             | Nome do User                              | Lucas Silva                                    |
 | E-mail         | Texto             | E-mail do User                            | lucasilva@email.com                            |
 | Senha          | Texto             | Senha de acesso ao site                   | Lucassilva@22                                  |
+| Telefone  | inteiro        | telefone do estabelecimento  |        (34) 3784-0564                        |
+| Tipos de deficiência  | checkbox        |  deficiências  atendidas |          Fisica, visual, auditiva, intelectual ou multipla.                                 |
 
 ## Cadastrar/Editar perfil estabelecimento
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
-| Id do Estabelecimento | Numero (Inteiro)  | Identificador único do User               | 1                                              |
-| Nome do estabelecimento            | Texto             | Nome do estabelecimento                              | Churrascaria BeloMonte
+| Nome do propritário| texto   |Nome do dono do restaurante              | Julio                                              |
+| Razão Social             | Texto             | Nome do estabelecimento                              | Churrascaria BeloMonte
 | E-mail         | Texto             | E-mail do estabeleciemento                             | churrasbelomonte@email.com                            |
 | Senha          | Texto             | Senha de acesso ao site                   | estabe@22                                  |                    |
 | Fotos  | JPEG, JPG e PNG          | Fotos do local |            FOTO                                      |
-| Conteúdo  | Texto        | Conteúdo do estabelecimento |          Possui rampa de acesso...                                      |
-
+| Descrição  | Texto        | Conteúdo do estabelecimento |          Possui rampa de acesso...                                      |
+| Tipos de deficiência  | checkbox        |  deficiências  atendidas |          Fisica, visual, auditiva, intelectual ou multipla.                                 |
+| Endereço  | texto        | Endereço do estabelecimento  |          Rua tal 255                              |
+| CNPJ  | texto        | CNPJ do estabelecimento  |        09.853.424/0001-73                         |
+| Telefone  | inteiro        | telefone do estabelecimento  |        (34) 3784-0564                        |
 
