@@ -103,7 +103,7 @@ const saveStores = (store) => {
   
     return accumulator;
   }, {})
-  setStoreItem(LOCAL_STORES_KEY, { locais: newStores.values() })
+  setStoreItem(LOCAL_STORES_KEY, { locais: Object.values(newStores) })
 
   return store
 }
