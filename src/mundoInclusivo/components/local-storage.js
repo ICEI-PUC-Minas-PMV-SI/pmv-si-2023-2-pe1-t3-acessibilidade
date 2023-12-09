@@ -90,9 +90,10 @@ const getStores = () => {
 }
 
 const saveStores = (store) => {
-  let currentStores = getStores()?.locais || [];
-  let newStores = [...BASE_STORES, ...currentStores, store]
-  
+  let currentStores = getStores() || [];
+  let hasCurrentStores = currentStores.length > 0;
+  let baseStores = hasCurrentStores ? currentStores : BASE_STORES
+  let newStores = [...baseStores, store]
   setStoreItem(LOCAL_STORES_KEY, { locais: newStores })
 
   return store
@@ -185,7 +186,7 @@ window.onload = function() {
   let loggedStore = getSessionStore();
 
   let isLogin = window.location.href?.includes('login.html')
-  let isLocal = window.location.href.includes('localhost');
+  let isLocal = window.location.href.includes('localhost') || window.location.href.includes('127.0.0.1');
   let url = isLocal ? window.location.origin : `${window.location.origin}/pmv-si-2023-2-pe1-t3-acessibilidade`
 
   if(isLogin) {
