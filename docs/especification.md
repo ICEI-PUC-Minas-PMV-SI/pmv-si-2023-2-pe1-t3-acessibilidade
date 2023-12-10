@@ -149,26 +149,26 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| A aplicação deve permitir que o usuário crie um perfil pessoal | ALTA| Matheus |
-|RF-002| A aplicação deve permitir que o estabelecimento crie um perfil  | ALTA | Matheus |
+|RF-001| A aplicação deve permitir que o usuário crie um perfil pessoal | ALTA| Matheus + Mari |
+|RF-002| A aplicação deve permitir que o estabelecimento crie um perfil  | ALTA | Matheus + Mari |
 |RF-003| A aplicação deve permitir que o usuário delete seu perfil pessoal | MEDIA| Gabriela |
 |RF-004| A aplicação deve permitir que o estabelecimento delete seu perfil  | MEDIA | Gabriela |
-|RF-005| A aplicação deve permitir que o usuário edite o perfil pessoal |MEDIA| Gabriela |
-|RF-006| A aplicação deve permitir que o estabelecimento edite o perfil | MEDIA | Gabriela |
-|RF-007| A aplicação deve permitir que o usuário consulte seu perfil pessoal |  MEDIA  | Gabriela |
-|RF-008| A aplicação deve permitir que o estabelecimento consulte seu perfil  | MEDIA | Gabriela |
-|RF-009| A aplicação deve permitir que o usuário veja um pefil do um lugar | ALTA | Ana Cecilia|
-|RF-010| A aplicação deve permitir que o usuário veja uma lista de lugares | ALTA |Ana Cecilia |
-|RF-011| A aplicação deve permitir que o usuário filtre a lista de lugares por tipo de acessibilidade, categoria do lugar e cidade | BAIXA | Mariana |
-|RF-012| A aplicação deve permitir que o usuário avalie um lugar |  ALTA| Ana Cecilia |
-|RF-013| A aplicação deve permitir que o usuário envie um comentário sobre o lugar |  ALTA |Ana Cecilia |
-|RF-014| A aplicação deve permitir que o usuário veja comentários sobre o lugar | ALTA | Ana Cecilia|
-|RF-015| A aplicação deve auxiliar o usuário a navegar nas suas funcionalidades com um assistente virtual | BAIXA | Mariana |
+|RF-005| A aplicação deve permitir que o usuário edite o perfil pessoal |MEDIA| Gabriela + Mari |
+|RF-006| A aplicação deve permitir que o estabelecimento edite o perfil | MEDIA | Gabriela + Mari |
+|RF-007| A aplicação deve permitir que o usuário consulte seu perfil pessoal |  MEDIA  | Gabriela + Mari |
+|RF-008| A aplicação deve permitir que o estabelecimento consulte seu perfil  | MEDIA | Gabriela + Mari |
+|RF-009| A aplicação deve permitir que o usuário veja um pefil do um lugar | ALTA | Mari|
+|RF-010| A aplicação deve permitir que o usuário veja uma lista de lugares | ALTA | Ana Cecilia |
+|RF-011| A aplicação deve permitir que o usuário filtre a lista de lugares por tipo de acessibilidade, categoria do lugar e cidade | BAIXA | Ceci + Matheus + Mari |
+|RF-012| A aplicação deve permitir que o usuário avalie um lugar | ALTA | Mari |
+|RF-013| A aplicação deve permitir que o usuário envie um comentário sobre o lugar | ALTA | Mari |
+|RF-014| A aplicação deve permitir que o usuário veja comentários sobre o lugar | ALTA | Mari |
+|RF-015| A aplicação deve auxiliar o usuário a navegar nas suas funcionalidades com um assistente virtual | BAIXA | Mari |
 |RF-016| A aplicação deve mostrar para quais deficiências o local é acessível | ALTA | Ana Cecilia |
 |RF-017| A aplicação deve mostrar quais os tipos de deficiências | BAIXA | Ana Cecilia|
-|RF-018| A aplicação deve apresentar a iniciativa | BAIXA  | Matheus|
+|RF-018| A aplicação deve apresentar a iniciativa | BAIXA  | Matheus |
 |RF-019| A aplicação deve apresentar as informações sobre acessibilidade| BAIXA| Gabriela|
-|RF-020| A aplicação deve mostrar como funciona a plataforma| BAIXA| Mariana|
+|RF-020| A aplicação deve mostrar como funciona a plataforma| BAIXA | Mariana|
 
 
 ### Requisitos não Funcionais
