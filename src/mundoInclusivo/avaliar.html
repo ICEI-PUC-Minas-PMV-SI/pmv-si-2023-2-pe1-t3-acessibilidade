@@ -13,13 +13,12 @@
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBkLndHuMv968iinF2ol4_B33JVIf7Gf6A&callback=console.debug&libraries=maps,marker&v=beta">
     </script>
     <script>
-      document.addEventListener('DOMContentLoaded', function() {
+      window.setTimeout(() => {
         const stars = document.querySelectorAll('.rating label');
 
         stars.forEach((star, index) => {
           star.addEventListener('click', () => {
             stars.forEach((s, i) => {
-              console.log(s.classList)
               s.classList.remove('filled');  
               if (i <= index) {
                 s.classList.add('filled');
@@ -27,7 +26,29 @@
             });
           });
         });
-      });
+
+        const form = document.querySelector('form#avaliar');
+
+        form?.addEventListener('submit', (event) => {
+          event.preventDefault()
+          let target = event.target
+          let rating = target.querySelector('div.rating')
+          let ratingTotals = rating.querySelectorAll('label.filled')?.length
+          let text = target.querySelector('textarea#feedback')?.value
+          let avaliador = target.querySelector('input#email')?.value
+
+          let emailLocal = target.querySelector('input#emailLocal')?.value
+
+          let obj = {
+            "nota": ratingTotals,
+            "usuário": avaliador,
+            "texto": text
+          }
+
+          window.addFeedbackForStore(obj, emailLocal)
+          window.location.reload()
+        })
+      }, 2000)
     </script>
     <link rel="stylesheet" href="css/listLocais.css">
   </head>

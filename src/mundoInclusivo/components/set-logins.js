@@ -21,7 +21,7 @@ const SINGIN_INPUT_KEYS = {
   confirm: "Confirmar senha",
   userName: "Nome completo",
   about: "Sobre",
-  description: "Descrição",
+  description: "Sobre",
   ...LOGIN_INPUT_KEYS
 }
 
@@ -139,8 +139,15 @@ const fillEstabFields = () => {
  
   for (const input of inputs) {
     let key = SINGIN_INPUT_KEYS[input.id];
-    let value = data[key];
-    input.setAttribute('value', value)
+
+    if(key === "Endereço") {
+      let value = data[key]?.["Texto"];
+      input.setAttribute('value', value)
+    } else {
+
+      let value = data[key];
+      input.setAttribute('value', value)
+    }
   }
 
   return element

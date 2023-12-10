@@ -66,7 +66,7 @@ const renderLocal = (local) => {
       </p>
       ${local["Avaliações"]?.map(item => {
         return `
-        <div class="card" style="margin-top: 12px">
+        <div class="card" style="margin-top: 12px; width: 100%;">
           <div class="card-body">
           <p class="card-title"><b><i>Avaliador:</i></b> ${item['usuário']}</p>
           <p class="card-text"><b><i>Avaliação:</i></b> ${item['texto']}</p>
@@ -110,6 +110,9 @@ const renderLocal = (local) => {
             <label class="form-label" for="feedback">Escreva sua avaliação aqui:</label>
             <textarea style="min-height: 150px;" class="form-control" id="feedback" type="text" placeholder="Digite sua opinião..." data-sb-validations="required">
             </textarea>
+            <label class="form-label mt-3" for="feedback">Confirme seu e-mail:</label>
+            <input class="form-control" id="email" required>
+            <input style="display: none" id="emailLocal" value="${local["Email"]}" />
           </div>
           <div class="d-grid">
             <button class="btn btn-primary btn-lg" type="submit">Enviar</button>

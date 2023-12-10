@@ -209,6 +209,24 @@ const getStores = () => {
   return parsedStores?.locais
 }
 
+const addFeedbackForStore = (feedback, emailLocal) => {
+  let locais = getStores();
+  let currentLocal = locais?.find(local => local["Email"] === emailLocal)
+  
+  if(!currentLocal) {
+    return
+  }
+
+  let avaliacoesAtuais = currentLocal["Avaliações"];
+  let avaliacoesAtualizadas = [...avaliacoesAtuais, feedback]
+
+  currentLocal["Avaliações"] = avaliacoesAtualizadas
+
+  saveStores(currentLocal)
+
+  console.log(currentLocal)
+}
+
 const saveStores = (store) => {
   let currentStores = getStores() || [];
   let hasCurrentStores = currentStores.length > 0;
@@ -217,13 +235,13 @@ const saveStores = (store) => {
   let newStores = [...baseStores, store].reduce((accumulator, currentObject) => {
     const email = currentObject["Email"];
 
-    if (!accumulator[email]) {
-      accumulator[email] = currentObject;
-    }
+    accumulator[email] = currentObject;
   
     return accumulator;
   }, {})
   setStoreItem(LOCAL_STORES_KEY, { locais: Object.values(newStores) })
+
+  console.log(newStores)
 
   return store
 }
@@ -302,6 +320,7 @@ window.onload = function() {
   window.getSessionUser = getSessionUser // Mostra usuário logado atual
 
   window.getAddress = getAddress // Busca as coordenadas
+  window.addFeedbackForStore = addFeedbackForStore // Adiciona avaliação nova
 
   window.saveStores({})
   window.saveUsers({})
