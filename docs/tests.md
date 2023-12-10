@@ -191,7 +191,7 @@ Cenário 1: Você é alguém que esta em busca de lugares que ofereçam acessibi
 | 1       | SIM             | 5                    | 27.87 segundos                  |
 | 2       | SIM             | 5                    | 17.11 segundos                  |
 
-|  |  |  |  |
+ 
 | **Média**     | 0%           | 0                | 0 segundos                           |
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 8.66 segundos |
 
@@ -208,7 +208,7 @@ Cenário 2: Você visitou um lugar com bom atendimento e estrutura para pessoas 
 |---------|-----------------|----------------------|---------------------------------|
 | 1       | SIM             | 5                    | 22.54 segundos                          |
 | 2       | SIM             | 5                    | 31.42 segundos                          |                      |
-|  |  |  |  |
+
 | **Média**     | 0%           | 0                | 0 segundos                           |
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 13.57 segundos |
 
@@ -225,7 +225,7 @@ Cenário 3: Você tem deficiência visual e gostaria de acessar o site para enco
 | 1       | SIM             | 5                    | 22.54 segundos                          |
 | 2       | SIM             | 5                    | 31.42 segundos                          |
 
-|  |  |  |  |
+
 | **Média**     | 0%           | 0                | 0 segundos                           |
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 13.57 segundos |
 
