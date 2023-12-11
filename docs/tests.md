@@ -176,63 +176,42 @@ Apresente os cenários de testes utilizados na realização dos testes de usabil
 
 | Nº do Cenário | Descrição do cenário |
 |---------------|----------------------|
-| 1             | Você é alguém que esta em busca de lugares que ofereçam acessibilidade para pessoas com deficiência física |
-| 2             | Você visitou um lugar com bom atendimento e estrutura para pessoas com deficiência e gostaria de comentar e avaliar. |
-| 3             | Você tem deficiência visual e gostaria de acessar o site para encontrar um restaurante com cardápio em braile. |
+| 1             | Você visitou um lugar com bom atendimento e estrutura para pessoas com deficiência e gostaria de comentar e avaliar. |
+| 2             | Você tem deficiência visual e gostaria de acessar o site para encontrar um restaurante com cardápio em braile. |
 
 
 
 ## Registro de Testes de Usabilidade
 
-Cenário 1: Você é alguém que esta em busca de lugares que ofereçam acessibilidade para pessoas com deficiência física
+
+
+
+Cenário 1: Você visitou um lugar com bom atendimento e estrutura para pessoas com deficiência e gostaria de comentar e avaliar. 
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    | 27.87 segundos                  |
-| 2       | SIM             | 5                    | 17.11 segundos                  |
-
- 
-| **Média**     | 0%           | 0                | 0 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 | 8.66 segundos |
-
-
-    Comentários dos usuários: Achei o site muito bom e intuitivo. 
-    Não tive dificuldades e acho que ficou bem intuitivo.
-
-
-
-
-Cenário 2: Você visitou um lugar com bom atendimento e estrutura para pessoas com deficiência e gostaria de comentar e avaliar. 
-
-| Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
-|---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    | 22.54 segundos                          |
-| 2       | SIM             | 5                    | 31.42 segundos                          |                      |
+| 1      | SIM             | 4                   | 44.36 segundos                          |
 
 | **Média**     | 0%           | 0                | 0 segundos                           |
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 13.57 segundos |
 
 
-    Comentários dos usuários: O site é fácil de acessar, mas algumas páginas poderiam 
-    redirecionar a gente automaticamente para outras. Senti a falta de mais opções de filtros, 
-    tanto na hora da pesquisa, quanto depois dela, nos resultados.
+    Comentários dos usuários: A navegação no site é bastante simples e intuitivo. 
     
 
-Cenário 3: Você tem deficiência visual e gostaria de acessar o site para encontrar um restaurante com cardápio em braile.
+Cenário 2: Você esta auxiliando uma pessoa com deficiência visual a acessar o site para encontrar um restaurante com cardápio em braile.
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    | 22.54 segundos                          |
-| 2       | SIM             | 5                    | 31.42 segundos                          |
+| 2     | SIM             | 3                    | 58.12 segundos                          |
+
 
 
 | **Média**     | 0%           | 0                | 0 segundos                           |
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 13.57 segundos |
 
 
-    Comentários dos usuários: O site é fácil de acessar, mas algumas páginas poderiam 
-    redirecionar a gente automaticamente para outras. Senti a falta de mais opções de filtros, 
-    tanto na hora da pesquisa, quanto depois dela, nos resultados.
+    Comentários dos usuários: A função de leitor de voz do site é útil, mas sinto que poderia ser aprimorada para proporcionar uma experiência mais fluida. Algumas palavras ou frases não são pronunciadas com clareza, o que pode dificultar a compreensão para usuários que dependem exclusivamente desse recurso. 
 
 
 
