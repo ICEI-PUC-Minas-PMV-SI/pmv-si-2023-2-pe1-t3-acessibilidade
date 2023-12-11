@@ -88,19 +88,6 @@ Seguindo a lógica esquerda-direita, temos, em ordem:
 19. ícone que acomapanha o botão "quem somos" na navbar, direcionando o usuário para a parte "quem somos" na home page
 
 
-As cores utilizadas para representar estes ícones é ilustrativa, elas variam no site de acordo com a funcionalidade e/ou objetivo. Todos os ícones servem para facilitar o máximo possível o entendimento das funcionalidades dos botões, tornando o site simplificado, de fácil compreensão; de maneira que qualquer pessoa conseguirá utilizá-lo. Todos foram encontrados no Mockplus.
+As cores utilizadas para representar estes ícones são ilustrativas, elas variam no site de acordo com a funcionalidade e/ou objetivo. Todos os ícones servem para facilitar o máximo possível o entendimento das funcionalidades dos botões, tornando o site simplificado, de fácil compreensão; de maneira que qualquer pessoa conseguirá utilizá-lo. Todos foram encontrados no Mockplus.
 
 
-Defina os ícones que serão utilizados e suas respectivas funções.
-
-Apresente os estilos CSS criados para cada um dos elementos apresentados.
-Outras seções podem ser adicionadas neste documento para apresentar padrões de componentes, de menus, etc.
-
-
-> **Links Úteis**:
->
-> -  [Como criar um guia de estilo de design da Web](https://edrodrigues.com.br/blog/como-criar-um-guia-de-estilo-de-design-da-web/#)
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
