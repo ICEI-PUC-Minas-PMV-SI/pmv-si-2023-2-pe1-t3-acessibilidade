@@ -1,5 +1,3 @@
-# Testes
-
 
 
 # Teste de Software
@@ -24,7 +22,7 @@
 **Caso de Teste** | **CT03 - Editar e consultar  perfil usuário**
  :--------------: | ------------
 **Procedimento**  | 1) O usuário acessa a opção "Perfil" na aplicação, onde pode realizar a consulta, edição ou deleção do seu perfil de usuário.
-**Requisitos associados** | RF-003, RF-005 e RF-007
+**Requisitos associados** |  RF-005 e RF-007
 **Resultado esperado** | O usuário consegue com sucesso realizar a consulta, edição ou deleção do seu perfil de usuário, conforme a ação escolhida.
 **Dados de entrada** | Alterações nos dados de cadastro, caso a opção escolhida seja editar o perfil.
 **Resultado obtido** | A operação de alteração ou deleção do perfil é realizada com sucesso.
@@ -84,16 +82,35 @@
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
 
-|*Caso de Teste*                                 |*TC-01 - Criar uma conta*                                         |
+|*Caso de Teste*                                 |*TC-01 - Criar conta usuário*                                         |
 |---|---|
-|Requisito Associado | RF-004 - Usuários não autenticados podem se cadastrar para criar uma conta e serem autenticados.|
-|Link do vídeo do teste realizado: | https://encurtador.com.br/bisLO| 
+|Requisito Associado | RF-001 - A aplicação deve permitir que o usuário crie um perfil pessoal|
+|Link do vídeo do teste realizado: |https://encurtador.com.br/GJNP4| 
 
-|*Caso de Teste*                                 |*TC-02 - Efetuar Login (usuário autenticado)*                                         |
+|*Caso de Teste*                                 |*TC-02 - Criar conta usuário estabelecimento*                                         |
 |---|---|
-|Requisito Associado | RF-004 - Usuários não autenticados podem se cadastrar para criar uma conta e serem autenticados.|
+|Requisito Associado | RF-002 - A aplicação deve permitir que o estabelecimento crie um perfil|
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
 
+|*Caso de Teste*                                 |*TC-03 - Editar e consultar perfil usuário*                                         |
+|---|---|
+|Requisito Associado | RF-005 - A aplicação deve permitir que o usuário edite o perfil pessoal <br> RF-007 A aplicação deve permitir que o usuário consulte seu perfil pessoal|
+|Link do vídeo do teste realizado: |https://encurtador.com.br/jstHW| 
+
+|*Caso de Teste*                                 |*TC-04 - Editar e consultar perfil estabelecimento*                                        |
+|---|---|
+|Requisito Associado | RF-006 - A aplicação deve permitir que o estabelecimento edite o seu perfil  <br> RF-008 A aplicação deve permitir que o estabelecimento consulte seu perfil |
+|Link do vídeo do teste realizado: |https://encurtador.com.br/jstHW| 
+
+|*Caso de Teste*                                 |*TC-05 Vizualizar uma lista de locais <br> TC-06 Consultar Perfil de um Lugar*                                        |
+|---|---|
+|Requisito Associado | RF-009 - A aplicação deve permitir que o usuário veja um pefil do um lugar <br> RF-010- A aplicação deve permitir que o usuário veja uma lista de lugares |
+|Link do vídeo do teste realizado: |https://encurtador.com.br/cpsT9| 
+
+|*Caso de Teste*                                 |*TC-08 Avaliar e comentar sobre um estabelecimento e vizualizar outros comentários*                                        |
+|---|---|
+|Requisito Associado | RF-012 - A aplicação deve permitir que o usuário avalie um lugar <br> RF-013- A aplicação deve permitir que o usuário envie um comentário sobre o lugar <br> RF-014- A aplicação deve permitir que o usuário veja comentários sobre o lugar |
+|Link do vídeo do teste realizado: |https://abre.ai/hATv| 
 
 ## Avaliação dos Testes de Software
 Com base no teste de software, percebemos que o site está funcionando corretamente para o que se propõe, mas tem como pontos fracos a impossibilidade de visualização da senha e a probabilidade de duplicação de contas de usuários devido a uma falta de controle e validação de e-mails/contas.
