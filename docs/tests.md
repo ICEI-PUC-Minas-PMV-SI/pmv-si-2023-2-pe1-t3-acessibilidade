@@ -80,7 +80,6 @@
 
 ## Registro dos Testes de Software
 
-Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
 
 |*Caso de Teste*                                 |*TC-01 - Criar conta usuário*                                         |
 |---|---|
@@ -108,8 +107,30 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |Requisito Associado | RF-012 - A aplicação deve permitir que o usuário avalie um lugar <br> RF-013- A aplicação deve permitir que o usuário envie um comentário sobre o lugar <br> RF-014- A aplicação deve permitir que o usuário veja comentários sobre o lugar |
 |Link do vídeo do teste realizado: |https://abre.ai/hATv| 
 
+|*Caso de Teste*                                 |*RNF-01 Responsividade*                                        |
+|---|---|
+|Requisito Associado | RFN-001 Verificar se o sistema é responsivo para rodar em dispositivos móveis. |
+|Link do vídeo do teste realizado: |https://abre.ai/hATQ| 
+
+|*Caso de Teste*                                 |*RNF-02 Acessibilidade para Leitores de Tela*                                        |
+|---|---|
+|Requisito Associado | RFN-002 Certificar-se de que o sistema é acessível para leitores de tela. |
+|Link do vídeo do teste realizado: |https://abre.ai/hATT| 
+
+|*Caso de Teste*                                 |*RNF-03 Core Web Vital*                                        |
+|---|---|
+|Requisito Associado | RFN-003 Assegurar que o sistema atinge notas superiores a 95% em Core Web Vitals. |
+|Link do vídeo do teste realizado: |https://abre.ai/hATX| 
+
+
 ## Avaliação dos Testes de Software
 Com base no teste de software, percebemos que o site está funcionando corretamente para o que se propõe, mas tem como pontos fracos a impossibilidade de visualização da senha e a probabilidade de duplicação de contas de usuários devido a uma falta de controle e validação de e-mails/contas.
+
+Responsividade: As páginas apresentaram, no geral, uma boa responsividade e adaptabilidade aos layouts. A página de login está um pouco mais adaptada e bem estruturada com relação às demais e possui uma melhor fluidez. Por padrão, após as páginas atingirem uma resolução mínima a barra de navegação e o rodapé se deslocam conjuntamente à ela.
+
+Leitor de tela: O leitor de tela apresentou uma boa eficiência para ler o conteúdo das páginas e está funcionando. 
+
+Core web vitals: A página de login apresentou um desempenho geral maior, com uma pontuação de 100%, enquanto que as outras páginas apresentaram uma pontuação média entre 60% e 89%, indicando uma diferença entre essas páginas.
 
 
 
