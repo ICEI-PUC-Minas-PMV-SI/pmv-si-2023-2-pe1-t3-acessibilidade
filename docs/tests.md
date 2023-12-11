@@ -87,20 +87,16 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |Requisito Associado | RF-001 - A aplicação deve permitir que o usuário crie um perfil pessoal|
 |Link do vídeo do teste realizado: |https://encurtador.com.br/GJNP4| 
 
-|*Caso de Teste*                                 |*TC-02 - Criar conta usuário estabelecimento*                                         |
+|*Caso de Teste*                                 |*TC-02 - Criar conta usuário estabelecimento <br> TC-04 - Editar e consultar perfil estabelecimento*                                         |
 |---|---|
-|Requisito Associado | RF-002 - A aplicação deve permitir que o estabelecimento crie um perfil|
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Requisito Associado | RF-002 - A aplicação deve permitir que o estabelecimento crie um perfil <br> RF-006 - A aplicação deve permitir que o estabelecimento edite o seu perfil  <br> RF-008 A aplicação deve permitir que o estabelecimento consulte seu perfil |
+|Link do vídeo do teste realizado: | https://abre.ai/hATI | 
 
 |*Caso de Teste*                                 |*TC-03 - Editar e consultar perfil usuário*                                         |
 |---|---|
 |Requisito Associado | RF-005 - A aplicação deve permitir que o usuário edite o perfil pessoal <br> RF-007 A aplicação deve permitir que o usuário consulte seu perfil pessoal|
 |Link do vídeo do teste realizado: |https://encurtador.com.br/jstHW| 
 
-|*Caso de Teste*                                 |*TC-04 - Editar e consultar perfil estabelecimento*                                        |
-|---|---|
-|Requisito Associado | RF-006 - A aplicação deve permitir que o estabelecimento edite o seu perfil  <br> RF-008 A aplicação deve permitir que o estabelecimento consulte seu perfil |
-|Link do vídeo do teste realizado: |https://encurtador.com.br/jstHW| 
 
 |*Caso de Teste*                                 |*TC-05 Vizualizar uma lista de locais <br> TC-06 Consultar Perfil de um Lugar*                                        |
 |---|---|
