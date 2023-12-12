@@ -1,28 +1,22 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title:
+title: Mundo Inclusivo
 authors:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - name-suffix: Professor XXXX
+  - family-names: Ana Cecilia
+    given-names: Custodio
+  - family-names: Gabriela de Oliveira
+    given-names: Henriques
+  - family-names: Matheus Godinho
+    given-names: Blaselbauer
+  - family-names: Mariana Silva de Mello
+    given-names: Mattos
+  - name-suffix: Professor Luciana Nardin
     affiliation: PUC Minas
-    family-names:
-    given-names:
+  
 keywords:
-  -
-  -
+  - Acessibilidade 
+  - Inclusão 
+  - Deficiência
 repository-code:
 license: CC-BY-4.0
 version: 1.0.0
