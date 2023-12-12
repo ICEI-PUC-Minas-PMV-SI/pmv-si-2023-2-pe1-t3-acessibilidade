@@ -14,11 +14,8 @@ O conjunto de slides deve ser apresentado em um arquivo PowerPoint ou PDF. A apr
 ## MundoInclusivo
 
 ## Identidade Visual (Marca, Design)
-![logo 1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/8d4545d3-a589-48b8-88fc-955862cc8ee2)
-![logo 3](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/e1d50369-401b-44cc-ae53-f279158f9258)
-![logo 2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/d65ab508-9790-41c1-9487-caadfba74208)
-![logo 5](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/e9785841-eb87-4792-b945-fcb5f6050c4d)
-![logo 4](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/52187555-692e-4d48-9e54-b74f9ad288dd)
+![logo 1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/d1fbcfa1-2241-4760-9ea7-53ddd2f99bbf)
+![logo 2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/assets/141369232/cc6015c6-2258-4b53-8a50-bec2228f380f)
 
 ## Conjunto de Slides (Estrutura)
 
