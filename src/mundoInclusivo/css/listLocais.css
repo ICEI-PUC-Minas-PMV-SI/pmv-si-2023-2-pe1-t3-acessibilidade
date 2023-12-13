@@ -19,7 +19,7 @@
 
 /* card*/
 .card{
-  display: inline-block;
+  display: block;
   padding: auto;
   margin-bottom: 20px;
 }
