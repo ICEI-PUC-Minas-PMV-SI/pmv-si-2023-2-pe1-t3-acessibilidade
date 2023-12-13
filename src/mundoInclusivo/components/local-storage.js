@@ -239,9 +239,8 @@ const saveStores = (store) => {
   
     return accumulator;
   }, {})
-  setStoreItem(LOCAL_STORES_KEY, { locais: Object.values(newStores) })
 
-  console.log(newStores)
+  setStoreItem(LOCAL_STORES_KEY, { locais: Object.values(newStores) })
 
   return store
 }
@@ -266,8 +265,30 @@ const getUsers = () => {
   return parsedUsers?.users
 }
 
+const deleteUser = () => {
+  let user = getSessionUser()
+
+  let users = getUsers();
+  let newUsers = users.filter(currentUser => currentUser["Email"] !== user["Email"])
+
+  setStoreItem(LOCAL_USERS_KEY, { users: newUsers })
+
+  window.localStorage.setItem(USER_SESSION_KEY)
+}
+
+const deleteStore = () => {
+  let store = getSessionStore()
+
+  let stores = getStores();
+  let newStores = stores.filter(currentStore => currentStore["Email"] !== store["Email"])
+
+  setStoreItem(LOCAL_STORES_KEY, { locais: newStores })
+
+  window.localStorage.setItem(STORE_SESSION_KEY, null)
+}
+
 const saveUsers = (user) => {
-  let currentUsers = getStores()?.locais || [];
+  let currentUsers = getUsers() || [];
   let newUsers = [...BASE_USERS, ...currentUsers, user]
   
   setStoreItem(LOCAL_USERS_KEY, { users: newUsers })
@@ -312,9 +333,11 @@ window.onload = function() {
 
   window.loginStore = loginStore // Altera estabelecimento logado
   window.getSessionStore = getSessionStore // Puxa estabelecimento logado
+  window.deleteUser = deleteUser // Deleta o usuáro
 
   window.saveUsers = saveUsers // Adiciona usuário
   window.getUsers = getUsers // Carrega todos os usuários
+  window.deleteStore = deleteStore
 
   window.loginUser = loginUser // Altera usuário logado
   window.getSessionUser = getSessionUser // Mostra usuário logado atual
