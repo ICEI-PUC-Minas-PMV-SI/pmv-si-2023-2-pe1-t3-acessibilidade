@@ -273,18 +273,26 @@ const deleteUser = () => {
 
   setStoreItem(LOCAL_USERS_KEY, { users: newUsers })
 
-  window.localStorage.setItem(USER_SESSION_KEY)
+  window.localStorage.clear();
+    setTimeout(() => {
+    window.location.href = "login.html";
+  }, 500);
+}
 }
 
 const deleteStore = () => {
-  let store = getSessionStore()
-
+  let store = getSessionStore();
   let stores = getStores();
-  let newStores = stores.filter(currentStore => currentStore["Email"] !== store["Email"])
+  let newStores = stores.filter(currentStore => currentStore["Email"] !== store["Email"]);
 
-  setStoreItem(LOCAL_STORES_KEY, { locais: newStores })
+  setStoreItem(LOCAL_STORES_KEY, { locais: newStores });
 
-  window.localStorage.setItem(STORE_SESSION_KEY, null)
+  window.localStorage.clear();
+
+  
+  setTimeout(() => {
+    window.location.href = "login.html";
+  }, 500);
 }
 
 const saveUsers = (user) => {
@@ -294,6 +302,16 @@ const saveUsers = (user) => {
   setStoreItem(LOCAL_USERS_KEY, { users: newUsers })
 
   return user
+}
+
+const logOut = () => {
+  
+  setStoreItem(USER_SESSION_KEY,null)
+
+  window.localStorage.setItem(STORE_SESSION_KEY,null)
+  setTimeout(() => {
+    window.location.href = "login.html";
+  }, 500);
 }
 
 const getSessionUser = () => {
@@ -347,6 +365,7 @@ window.onload = function() {
 
   window.saveStores({})
   window.saveUsers({})
+  window.logOut=logOut
   
   let meusLocais = window.getStores()
   window?.renderLocaisList(meusLocais)
