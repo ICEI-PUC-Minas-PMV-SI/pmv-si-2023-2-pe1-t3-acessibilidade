@@ -278,7 +278,7 @@ const deleteUser = () => {
     window.location.href = "login.html";
   }, 500);
 }
-}
+
 
 const deleteStore = () => {
   let store = getSessionStore();
