@@ -93,6 +93,7 @@ const initializeReader = () => {
     const voiceButtonContainer = document.createElement('div');
     voiceButtonContainer.innerHTML = availableReaderComponent;
     document.body.appendChild(voiceButtonContainer);
+    toggleReader(); // Auto start the reader when the page loads
   }
 }
 
@@ -104,5 +105,4 @@ window.initializeReader = function() {
   };
 
   window.speechSynthesis.getVoices();
-  toggleReader();
-}
+};
