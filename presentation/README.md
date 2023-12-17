@@ -3,13 +3,8 @@
 ## MundoInclusivo
 ### Apresentação
 
-Faça uma apresentação de um resumo de todos o processo de desenvolvimento e no final apresente a solução desenvolvida, usando um pequeno vídeo.
-
-Liste os arquivos produzidos e postados nesta pasta, com suas localizaçãoes e descrição do conteúdo neste arquivo Readme.md.
-
-
 * [Pitch inicial.pdf](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/files/13654038/Pitch.inicial.pdf)
-* [Apresentação final](./sample-presentation.pdf) -- arquivo com os slides da apresentação final
+* [Apresentação Final MundoInclusivo.pdf](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/files/13698087/Apresentacao.Final.MundoInclusivo.pdf)
 * [Vídeo de demonstração](./sample-video.mp4) -- arquivo com a demonstração do funcionamento do sistema
 
 O conjunto de slides deve ser apresentado em um arquivo PowerPoint ou PDF. A apresentação do projeto deve contemplar todos os itens trabalhados nos demais artefatos. Alguns aspectos que devem ser contemplados na apresentação são listados a seguir.
