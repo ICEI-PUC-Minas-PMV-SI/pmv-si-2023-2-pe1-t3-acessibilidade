@@ -9,7 +9,7 @@
 
 
 
--- arquivo com a demonstração do funcionamento do sistema
+
 
 O conjunto de slides deve ser apresentado em um arquivo PowerPoint ou PDF. A apresentação do projeto deve contemplar todos os itens trabalhados nos demais artefatos. Alguns aspectos que devem ser contemplados na apresentação são listados a seguir.
 ## Identidade Visual (Marca, Design)
