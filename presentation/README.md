@@ -5,7 +5,11 @@
 
 * [Pitch inicial.pdf](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/files/13654038/Pitch.inicial.pdf)
 * [Apresentação Final MundoInclusivo.pdf](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe1-t3-acessibilidade/files/13698087/Apresentacao.Final.MundoInclusivo.pdf)
-* [Vídeo de demonstração](./sample-video.mp4) -- arquivo com a demonstração do funcionamento do sistema
+* [Vídeo de demonstração](https://sgapucminasbr-my.sharepoint.com/:v:/g/personal/1338612_sga_pucminas_br/Ecv423YxUftIlgVQATOshmwB2kDN40hrqgxOtSgZ-7VnGA?e=pTRyJk)
+
+
+
+-- arquivo com a demonstração do funcionamento do sistema
 
 O conjunto de slides deve ser apresentado em um arquivo PowerPoint ou PDF. A apresentação do projeto deve contemplar todos os itens trabalhados nos demais artefatos. Alguns aspectos que devem ser contemplados na apresentação são listados a seguir.
 ## Identidade Visual (Marca, Design)
